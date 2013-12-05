@@ -1,0 +1,138 @@
+<!-- Hurray, you are reading HTML! Proceed. -->
+<!DOCTYPE html>
+<html class="no-js">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Healthcare | Ted Sanders</title>
+        <meta name="description" content=" The impersonal website of Ted Sanders.">
+        <meta name="author" content="Mr Ted Sanders"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="alternate" type="application/rss+xml" title="RSS Feed" href="http://localhost:4000/feed.xml" />
+
+        <link rel="stylesheet" href="http://localhost:4000/css/normalize.css">
+        <link rel="stylesheet" href="http://localhost:4000/css/main.css">
+        
+        <script src="js/vendor/modernizr-2.7.0.min.js"></script>
+    </head>
+    <body>
+        <!--[if lt IE 8]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+
+
+        <!-- The LEFT navigation column -->
+        <nav id="left-navigation-sidebar" role="navigation">
+            <ul>
+                <li id="tedsanders"><a href="http://localhost:4000/">Ted Sanders</a></li>
+                <li>About</li>
+                <li>Blog</li>
+                <li>-Advice</li>
+                <li>-Book reviews</li>
+                <li>-Economics</li>
+                <li>-Food</li>
+                <li>-Graphs</li>
+                <li>-Science</li>
+            </ul>
+        </nav>
+
+        <!-- The RIGHT style column-->  
+        <div id="right-style-sidebar">
+          
+            <!-- Bling bling. Bling bling. Bling bling. We're sorry, "TED SANDERS" is not available. Please leave a message after the beep. BEEP! -->
+            <ul>
+                <!-- Luke, join the light side! Together we shall meaninglessly participate in the gridlocked democracy of the galaxy! -->
+                <li><span onClick="setActiveStyleSheet('light'); return false;"><img src="http://localhost:4000/img/light.png" alt="Luke, join the light side! Together we shall meaninglessly participate in the gridlocked democracy of the galaxy!" width="32" height="32"></span></li>
+                <!-- Luke, join the dark side! Together we shall rule the galaxy! -->
+                <li><span onClick="setActiveStyleSheet('dark'); return false;"><img src="http://localhost:4000/img/dark.png" alt="Luke, join the dark side! Together we shall rule the galaxy!" width="32" height="32"></span></li>
+                <!-- THREE DEE PHONE HOME -->
+                <li><span onClick="setActiveStyleSheet('3D'); return false;"><img src="http://cdn1.iconfinder.com/data/icons/fatcow/32x32/3d_glasses.png" alt="Luke, join the third dimension! Together we shall see the depth of the galaxy!" width="32" height="32"></span></li>
+                <!-- RAINBOW ROAD -->
+                <li><span onClick="setActiveStyleSheet('rainbow'); return false;"><img src="http://localhost:4000/img/rainboated.png" alt="Luke, join the colorful side! Together we shall match with the galaxy!" width="32" height="32"></span></li>
+                <!-- DISCO DANCE -->
+                <li><span onClick="setActiveStyleSheet('disco'); return false;"><img src="http://localhost:4000/img/disco.png" alt="Luke, join the disco side! Together we shall dance with the galaxy!" width="32" height="32"></span></li>
+            </ul>
+        </div>
+
+        <!-- The CENTER content column -->
+        <div id="center-content-column">
+
+            <article>
+                <header>
+                <h1>Healthcare</h1>
+                <h2>The two studies that everyone should know</h2>
+                </header>
+                <hr>
+                <p>Question: How does healthcare affect health?</p><p>No one knows for sure. Only two randomized controlled studies have tried to answer that question. These are those two studies:</p><h3>#1: RAND Health Insurance Experiment</h3><p>This $50 million study from the 70s is the gold standard of healthcare research, because it was randomized and controlled (and thus measured causation instead of correlation).</p><p>This study looked at the effects of copays (meaning it tested the <em>cost</em> of healthcare, not <em>access</em> to healthcare).</p><p>It assigned 2,750 non-elderly families into five payment groups that ranged from 0% copay (free healthcare) to 95% copay (catastrophic insurance).</p><p>The surprising finding was that <strong>subsidizing healthcare increased costs, but not health outcomes</strong> (measured by ~30 markers over five years). Families with 0% copay made significantly more doctor/hospital visits (~30% more), but were not noticeably healthier (except for better corrected vision).</p><p>The lack of statistically significant health improvements does not mean there was no improvement, but it does bound the size of the health improvements, implying that the <strong>health improvements were so small they could not be detected by the power of the study</strong>.</p><p>Jim Manzi, author of <a href='http://www.amazon.com/gp/product/B007V2VEQO/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B007V2VEQO&amp;linkCode=as2&amp;tag=tedsanderscom-20'>Uncontrolled: The Surprising Payoff of Trial-and-Error for Business, Politics, and Society</a><img alt='' border='0' height='1' src='http://ir-na.amazon-adsystem.com/e/ir?t=tedsanderscom-20&amp;l=as2&amp;o=1&amp;a=B007V2VEQO' style='border:none !important; margin:0px !important;' width='1' />, <a href='http://theamericanscene.com/2011/03/04/would-universal-healthcare-coverage-actually-improve-health'>points out</a> that although the study isn't definitive, it's the best we've got:</p><p class='quotation'>&ldquo;A single experiment like the RAND HIE is not definitive. Among other things: it finished in 1982, and we live in a different world; any such experiment requires replication; it might be that the important health effects take much longer than 5 years to materialize, and so on. But as an observer of the health care debates, it always struck me as fascinating that the fact that the &ldquo;best evidence we have&rdquo; showed that providing health care coverage doesn't actually improve average health wasn't treated as more central.&rdquo;</p><h3>#2: Oregon Medicaid Health Experiment</h3><p>In 2008, Oregon received extra money to enroll new patients in Medicaid. Oregon officials decided to enroll patients through a lottery, thereby creating a naturally randomized and controlled experiment for researchers to study. Roughly 90,000 people applied, and about a third were accepted (interestingly, only 60% of those accepted actually went ahead and signed up for free healthcare).</p><p>The study followed these patients for two years and found that:</p><ul>
+<li>Enrolling patients in <strong>Medicaid cost about $1,000 in services, but did not lead to significantly better health</strong> (as measured by blood pressure, cholesterol, BhA1c levels, and Framingham risk score after two years. All four measures were slightly better in the Medicaid group, but not enough to be statistically significant.)</li>
+<li>The effects closest to statistical significance were that enrolling in Medicaid (1) causes patients to smoke more and (2) causes heart-sick people to get a tiny bit sicker and heart-healthy people to get a tiny bit healthier</li>
+<li>Medicaid patients were less depressed (48%, versus 56% base rate)</li>
+<li>Emergency room use did not go down in the Medicaid group</li>
+<li>Self-reported health was was significantly higher for the Medicaid group (despite quantitative health measures not being significantly higher)</li>
+</ul><p>From the study, economist Robin Hanson <a href='http://www.overcomingbias.com/2011/07/the-oregon-health-insurance-experiment.html'>concludes</a>:</p><p class='quotation'>&ldquo;So far, the new Oregon Health Insurance Experiment shows that for very poor and sick folks who go out of their way to request medical insurance, giving them such insurance makes them report feeling healthier. Two-thirds of this effect appears immediately on granting their request, and before they actually got more medical treatment. It remains to be seen if these healthy feelings will be reflected in more direct health measures, though that seems plausible, and we'll probably never see mortality effects.&rdquo;</p><h3>The bottom line:</h3><p><em>Healthcare has only a small effect on mortality markers like blood pressure and cholesterol.</em></p><h4>Three more surprising conclusions:</h4><ul class='bullets'>
+<li>Increasing copays reduced &ldquo;appropriate&rdquo; care just as much as &ldquo;inappropriate&rdquo; care</li>
+<li>Giving free healthcare to the poor and sick does not reduce their emergency room use</li>
+<li>Patients report feeling healthier and less depressed before getting any treatment</li>
+</ul><h4>And for balance, three unsurprising conclusions:</h4><ul class='bullets'>
+<li>Increasing healthcare access and subsidies raises utilization/costs (duh)</li>
+<li>Healthcare access and subsidies benefits the sick and poor the most (duh)</li>
+<li>Fully subsidizing glasses improves people's vision (duh)</li>
+</ul><p>Does this mean we shouldn't have healthcare? No. Healthcare obviously provides a lot of value, especially to the sick. However, the marginal value of healthcare is less clear. Both the RAND and Oregon experiments show that spending more money does not significantly improve health outcomes.</p><p>Ultimately, I think the lesson is that you control your health far more than your doctor. If you have bad health habits, there's not much your doctor can do to stop you - statin pills are no match for Big Macs. Doctors can certainly help with short-term conditions like broken bones, but when it comes to risk factors for heart disease and cancer, they may be mostly powerless.</p><h3>Further Reading</h3><ul>
+<li><a href='http://www.rand.org/pubs/research_briefs/RB9174/index1.html'>The RAND Corporation on the RAND experiment</a></li>
+<li><a href='http://en.wikipedia.org/wiki/RAND_Health_Insurance_Experiment'>Wikipedia on the RAND experiment</a></li>
+<li><a href='http://www.overcomingbias.com/2007/05/rand_health_ins.html'>Robin Hanson on the RAND experiment (1)</a></li>
+<li><a href='http://www.overcomingbias.com/2007/05/rand_health_ins_1.html'>Robin Hanson on the RAND experiment (2)</a></li>
+<li><a href='http://theamericanscene.com/2011/03/04/would-universal-healthcare-coverage-actually-improve-health'>Would Universal Healthcare Coverage Actually Improve Health? by Jim Manzi</a></li>
+<li><a href='http://www.amazon.com/gp/product/0674319141/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0674319141&amp;linkCode=as2&amp;tag=tedsanderscom-20'>Free for All?: Lessons from the RAND Health Insurance Experiment</a><img alt='' border='0' height='1' src='http://ir-na.amazon-adsystem.com/e/ir?t=tedsanderscom-20&amp;l=as2&amp;o=1&amp;a=0674319141' style='border:none !important; margin:0px !important;' width='1' /></li>
+
+<br />
+<li><a href='http://www.nejm.org/doi/full/10.1056/NEJMsa1212321'>The Oregon experiment, itself</a></li>
+<li><a href='http://en.wikipedia.org/wiki/Oregon_Medicaid_health_experiment'>Wikipedia on the Oregon experiment</a></li>
+<li><a href='http://www.overcomingbias.com/2011/07/the-oregon-health-insurance-experiment.html#disqus_thread'>Robin Hanson on the Oregon experiment</a></li>
+<li><a href='http://www.thedailybeast.com/articles/2013/05/13/how-not-to-cherry-pick-the-results-of-the-oregon-study-ultrawonkish.html'>How Not to Cherry-Pick the Results of the Oregon Study by Jim Manzi</a></li>
+</ul><h3>Epilogue</h3><p>It's truly bizarre how nonreceptive the healthcare debate is to data. Some senators argue we should have more healthcare, some senators argue we should have less. But none argue that we should test our discordant beliefs by funding another $50 million RAND study ($50 million is miniscule compared to the $2,000,000 million the US spends on healthcare each year).</p><p>One silly way to break Washington gridlock could be to pass laws conditional on future empirical studies. E.g., pass a healthcare bill that runs a study on the effects of healthcare, and then depending on the outcome of the study, automatically boosts or cuts spending. Healthcare supporters, who believe the study will reveal the benefits of healthcare, should vote aye while healthcare detractors, who believe the study will reveal the non-benefits of healthcare, should also vote aye. Ah, to dream of a world with laws based on data... (or even just to dream of a world where Congress passes laws...)</p>
+            </article>
+            
+            <footer class="pagefooter vcard">
+                <div class="alignedleft copyright">Copyright 2013</div>
+                <div id="stupidrss"><a href="http://feeds.feedburner.com/tedsanders" title="Subscribe to my feed" rel="alternate" type="application/rss+xml"><img id="rss" src="http://www.feedburner.com/fb/images/pub/feed-icon16x16.png" alt="RSS"/></a></div>
+                <div class="alignedright fn">Ted Sanders</div>
+            </footer>
+        </div>
+
+        <!-- The code for secret disco mode. Soon it won't be so secret...-->
+        <div id="beam0" class="beam"></div>
+        <div id="beam1" class="beam"></div>
+        <div id="beam2" class="beam"></div>
+        <div id="beam3" class="beam"></div>
+        <div id="beam4" class="beam"></div>
+
+        <!-- Blocking, non-essential elements go at the end of body to speed up site -->
+        <link rel="alternate stylesheet" href="http://localhost:4000/css/3D.css" title="3D">
+        <link rel="alternate stylesheet" href="http://localhost:4000/css/rainbow.css" title="rainbow">
+        <link rel="alternate stylesheet" href="http://localhost:4000/css/dark.css" title="dark">
+        <link rel="alternate stylesheet" href="http://localhost:4000/css/disco.css" title="disco">
+
+
+        <!-- JavaScript -->
+        <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. 
+        <script>
+            (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
+            function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
+            e=o.createElement(i);r=o.getElementsByTagName(i)[0];
+            e.src='//www.google-analytics.com/analytics.js';
+            r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
+            ga('create','UA-XXXXX-X');ga('send','pageview');
+        </script>-->
+        <script src="js/styleswitcher.js"></script>
+        <!-- The fastest web request is the one not made - Glass Man
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+        <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
+        <script src="js/plugins.js"></script>
+        <script src="js/main.js"></script>
+        -->
+
+
+
+    </body>
+</html>

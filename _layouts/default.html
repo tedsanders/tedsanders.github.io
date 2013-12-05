@@ -1,0 +1,111 @@
+<!-- Hurray, you are reading HTML! Proceed. -->
+<!DOCTYPE html>
+<html class="no-js">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>{{ page.title }} | {{ site.name }}</title>
+        <meta name="description" content="{% if page.description %} {{ page.description }} | {% endif %} {{ site.description }}">
+        <meta name="author" content="{{site.author}}"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="alternate" type="application/rss+xml" title="RSS Feed" href="{{site.url}}/feed.xml" />
+
+        <link rel="stylesheet" href="{{site.url}}/css/normalize.css">
+        <link rel="stylesheet" href="{{site.url}}/css/main.css">
+        
+        <script src="js/vendor/modernizr-2.7.0.min.js"></script>
+    </head>
+    <body>
+        <!--[if lt IE 8]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+
+
+        <!-- The LEFT navigation column -->
+        <nav id="left-navigation-sidebar" role="navigation">
+            <ul>
+                <li id="tedsanders"><a href="{{site.url}}/">Ted Sanders</a></li>
+                <li>About</li>
+                <li>Blog</li>
+                <li>-Advice</li>
+                <li>-Book reviews</li>
+                <li>-Economics</li>
+                <li>-Food</li>
+                <li>-Graphs</li>
+                <li>-Science</li>
+            </ul>
+        </nav>
+
+        <!-- The RIGHT style column-->  
+        <div id="right-style-sidebar">
+          
+            <!-- Bling bling. Bling bling. Bling bling. We're sorry, "TED SANDERS" is not available. Please leave a message after the beep. BEEP! -->
+            <ul>
+                <!-- Luke, join the light side! Together we shall meaninglessly participate in the gridlocked democracy of the galaxy! -->
+                <li><span onClick="setActiveStyleSheet('light'); return false;"><img src="{{site.url}}/img/light.png" alt="Luke, join the light side! Together we shall meaninglessly participate in the gridlocked democracy of the galaxy!" width="32" height="32"></span></li>
+                <!-- Luke, join the dark side! Together we shall rule the galaxy! -->
+                <li><span onClick="setActiveStyleSheet('dark'); return false;"><img src="{{site.url}}/img/dark.png" alt="Luke, join the dark side! Together we shall rule the galaxy!" width="32" height="32"></span></li>
+                <!-- THREE DEE PHONE HOME -->
+                <li><span onClick="setActiveStyleSheet('3D'); return false;"><img src="http://cdn1.iconfinder.com/data/icons/fatcow/32x32/3d_glasses.png" alt="Luke, join the third dimension! Together we shall see the depth of the galaxy!" width="32" height="32"></span></li>
+                <!-- RAINBOW ROAD -->
+                <li><span onClick="setActiveStyleSheet('rainbow'); return false;"><img src="{{site.url}}/img/rainboated.png" alt="Luke, join the colorful side! Together we shall match with the galaxy!" width="32" height="32"></span></li>
+                <!-- DISCO DANCE -->
+                <li><span onClick="setActiveStyleSheet('disco'); return false;"><img src="{{site.url}}/img/disco.png" alt="Luke, join the disco side! Together we shall dance with the galaxy!" width="32" height="32"></span></li>
+            </ul>
+        </div>
+
+        <!-- The CENTER content column -->
+        <div id="center-content-column">
+
+            <article>
+                <header>
+                <h1>{{ page.title }}</h1>
+                <h2>{{ page.subtitle }}</h2>
+                </header>
+                <hr>
+                {{ content }}
+            </article>
+            
+            <footer class="pagefooter vcard">
+                <div class="alignedleft copyright">Copyright 2013</div>
+                <div id="stupidrss"><a href="http://feeds.feedburner.com/tedsanders" title="Subscribe to my feed" rel="alternate" type="application/rss+xml"><img id="rss" src="http://www.feedburner.com/fb/images/pub/feed-icon16x16.png" alt="RSS"/></a></div>
+                <div class="alignedright fn">Ted Sanders</div>
+            </footer>
+        </div>
+
+        <!-- The code for secret disco mode. Soon it won't be so secret...-->
+        <div id="beam0" class="beam"></div>
+        <div id="beam1" class="beam"></div>
+        <div id="beam2" class="beam"></div>
+        <div id="beam3" class="beam"></div>
+        <div id="beam4" class="beam"></div>
+
+        <!-- Blocking, non-essential elements go at the end of body to speed up site -->
+        <link rel="alternate stylesheet" href="{{site.url}}/css/3D.css" title="3D">
+        <link rel="alternate stylesheet" href="{{site.url}}/css/rainbow.css" title="rainbow">
+        <link rel="alternate stylesheet" href="{{site.url}}/css/dark.css" title="dark">
+        <link rel="alternate stylesheet" href="{{site.url}}/css/disco.css" title="disco">
+
+
+        <!-- JavaScript -->
+        <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. 
+        <script>
+            (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
+            function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
+            e=o.createElement(i);r=o.getElementsByTagName(i)[0];
+            e.src='//www.google-analytics.com/analytics.js';
+            r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
+            ga('create','UA-XXXXX-X');ga('send','pageview');
+        </script>-->
+        <script src="js/styleswitcher.js"></script>
+        <!-- The fastest web request is the one not made - Glass Man
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+        <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
+        <script src="js/plugins.js"></script>
+        <script src="js/main.js"></script>
+        -->
+
+
+
+    </body>
+</html>

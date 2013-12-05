@@ -1,0 +1,105 @@
+.discovisible {
+	position: absolute;
+	top: 0;
+	left: 0;
+	visibility: visible !important;	
+	display: inline-block !important;
+	color: red;
+	font-size: 4em;
+}
+
+.beam{
+position:fixed;
+top:-100%;
+left:50%;
+height:200%;
+width:100px;
+margin-left:-100px;
+pointer-events:none;
+/*In an effort to be more transparent, I'm announcing that I'll use these lines to add transparency*/
+zoom: 1;
+filter: alpha(opacity=50);
+opacity: 0.5;
+/*transform*/
+-webkit-transform:skewX(-40deg);
+   -moz-transform:skewX(-40deg);
+    -ms-transform:skewX(-40deg);
+     -o-transform:skewX(-40deg);
+        transform:skewX(-40deg);
+}
+
+@-webkit-keyframes spintheball{
+50% { 
+-webkit-transform: skewX(40deg) translate(100px,0);
+}
+}
+
+@-moz-keyframes spintheball{
+50% { 
+-moz-transform: skewX(40deg) translate(100%,0);
+}
+}
+
+@-ms-keyframes spintheball{
+50% { 
+-ms-transform: skewX(40deg) translate(100%,0);
+}
+}
+
+@-o-keyframes spintheball{
+50% { 
+-o-transform: skewX(40deg) translate(100%,0);
+}
+}
+
+@keyframes spintheball{
+50% { 
+transform: skewX(40deg) translate(100px,0);
+}
+}
+
+#beam0{
+background:red;
+/*animation*/
+-webkit-animation:spintheball 5s cubic-bezier(0.445, 0.05, 0.55, 0.95) infinite;
+   -moz-animation:spintheball 5s cubic-bezier(0.445, 0.05, 0.55, 0.95) infinite;
+    -ms-animation:spintheball 5s cubic-bezier(0.445, 0.05, 0.55, 0.95) infinite;
+     -o-animation:spintheball 5s cubic-bezier(0.445, 0.05, 0.55, 0.95) infinite;
+        animation:spintheball 5s cubic-bezier(0.445, 0.05, 0.55, 0.95) infinite;
+}
+#beam1{
+background:purple;
+/*animation*/
+-webkit-animation:spintheball 5s cubic-bezier(0.445, 0.05, 0.55, 0.95) -1s infinite;
+   -moz-animation:spintheball 5s cubic-bezier(0.445, 0.05, 0.55, 0.95) -1s infinite;
+    -ms-animation:spintheball 5s cubic-bezier(0.445, 0.05, 0.55, 0.95) -1s infinite;
+     -o-animation:spintheball 5s cubic-bezier(0.445, 0.05, 0.55, 0.95) -1s infinite;
+        animation:spintheball 5s cubic-bezier(0.445, 0.05, 0.55, 0.95) -1s infinite;
+}
+#beam2{
+background:blue;
+/*animation*/
+-webkit-animation:spintheball 5s cubic-bezier(0.445, 0.05, 0.55, 0.95) -2s infinite;
+   -moz-animation:spintheball 5s cubic-bezier(0.445, 0.05, 0.55, 0.95) -2s infinite;
+    -ms-animation:spintheball 5s cubic-bezier(0.445, 0.05, 0.55, 0.95) -2s infinite;
+     -o-animation:spintheball 5s cubic-bezier(0.445, 0.05, 0.55, 0.95) -2s infinite;
+        animation:spintheball 5s cubic-bezier(0.445, 0.05, 0.55, 0.95) -2s infinite;
+}
+#beam3{
+background:cyan;
+/*animation*/
+-webkit-animation:spintheball 5s cubic-bezier(0.445, 0.05, 0.55, 0.95) -3s infinite;
+   -moz-animation:spintheball 5s cubic-bezier(0.445, 0.05, 0.55, 0.95) -3s infinite;
+    -ms-animation:spintheball 5s cubic-bezier(0.445, 0.05, 0.55, 0.95) -3s infinite;
+     -o-animation:spintheball 5s cubic-bezier(0.445, 0.05, 0.55, 0.95) -3s infinite;
+        animation:spintheball 5s cubic-bezier(0.445, 0.05, 0.55, 0.95) -3s infinite;
+}
+#beam4{
+background:green;
+/*animation*/
+-webkit-animation:spintheball 5s cubic-bezier(0.445, 0.05, 0.55, 0.95) -4s infinite;
+   -moz-animation:spintheball 5s cubic-bezier(0.445, 0.05, 0.55, 0.95) -4s infinite;
+    -ms-animation:spintheball 5s cubic-bezier(0.445, 0.05, 0.55, 0.95) -4s infinite;
+     -o-animation:spintheball 5s cubic-bezier(0.445, 0.05, 0.55, 0.95) -4s infinite;
+        animation:spintheball 5s cubic-bezier(0.445, 0.05, 0.55, 0.95) -4s infinite;
+}

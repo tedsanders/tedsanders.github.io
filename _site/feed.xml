@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+        <channel>
+                <title>Ted Sanders</title>
+                <description>The impersonal website of Ted Sanders.</description>
+                <link>http://localhost:4000</link>
+                <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+                
+                        <item>
+                                <title>Healthcare</title>
+                                <description>&lt;p&gt;Question: How does healthcare affect health?&lt;/p&gt;&lt;p&gt;No one knows for sure. Only two randomized controlled studies have tried to answer that question. These are those two studies:&lt;/p&gt;&lt;h3&gt;#1: RAND Health Insurance Experiment&lt;/h3&gt;&lt;p&gt;This $50 million study from the 70s is the gold standard of healthcare research, because it was randomized and controlled (and thus measured causation instead of correlation).&lt;/p&gt;&lt;p&gt;This study looked at the effects of copays (meaning it tested the &lt;em&gt;cost&lt;/em&gt; of healthcare, not &lt;em&gt;access&lt;/em&gt; to healthcare).&lt;/p&gt;&lt;p&gt;It assigned 2,750 non-elderly families into five payment groups that ranged from 0% copay (free healthcare) to 95% copay (catastrophic insurance).&lt;/p&gt;&lt;p&gt;The surprising finding was that &lt;strong&gt;subsidizing healthcare increased costs, but not health outcomes&lt;/strong&gt; (measured by ~30 markers over five years). Families with 0% copay made significantly more doctor/hospital visits (~30% more), but were not noticeably healthier (except for better corrected vision).&lt;/p&gt;&lt;p&gt;The lack of statistically significant health improvements does not mean there was no improvement, but it does bound the size of the health improvements, implying that the &lt;strong&gt;health improvements were so small they could not be detected by the power of the study&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Jim Manzi, author of &lt;a href='http://www.amazon.com/gp/product/B007V2VEQO/ref=as_li_ss_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=390957&amp;amp;creativeASIN=B007V2VEQO&amp;amp;linkCode=as2&amp;amp;tag=tedsanderscom-20'&gt;Uncontrolled: The Surprising Payoff of Trial-and-Error for Business, Politics, and Society&lt;/a&gt;&lt;img alt='' border='0' height='1' src='http://ir-na.amazon-adsystem.com/e/ir?t=tedsanderscom-20&amp;amp;l=as2&amp;amp;o=1&amp;amp;a=B007V2VEQO' style='border:none !important; margin:0px !important;' width='1' /&gt;, &lt;a href='http://theamericanscene.com/2011/03/04/would-universal-healthcare-coverage-actually-improve-health'&gt;points out&lt;/a&gt; that although the study isn't definitive, it's the best we've got:&lt;/p&gt;&lt;p class='quotation'&gt;&amp;ldquo;A single experiment like the RAND HIE is not definitive. Among other things: it finished in 1982, and we live in a different world; any such experiment requires replication; it might be that the important health effects take much longer than 5 years to materialize, and so on. But as an observer of the health care debates, it always struck me as fascinating that the fact that the &amp;ldquo;best evidence we have&amp;rdquo; showed that providing health care coverage doesn't actually improve average health wasn't treated as more central.&amp;rdquo;&lt;/p&gt;&lt;h3&gt;#2: Oregon Medicaid Health Experiment&lt;/h3&gt;&lt;p&gt;In 2008, Oregon received extra money to enroll new patients in Medicaid. Oregon officials decided to enroll patients through a lottery, thereby creating a naturally randomized and controlled experiment for researchers to study. Roughly 90,000 people applied, and about a third were accepted (interestingly, only 60% of those accepted actually went ahead and signed up for free healthcare).&lt;/p&gt;&lt;p&gt;The study followed these patients for two years and found that:&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;Enrolling patients in &lt;strong&gt;Medicaid cost about $1,000 in services, but did not lead to significantly better health&lt;/strong&gt; (as measured by blood pressure, cholesterol, BhA1c levels, and Framingham risk score after two years. All four measures were slightly better in the Medicaid group, but not enough to be statistically significant.)&lt;/li&gt;
+&lt;li&gt;The effects closest to statistical significance were that enrolling in Medicaid (1) causes patients to smoke more and (2) causes heart-sick people to get a tiny bit sicker and heart-healthy people to get a tiny bit healthier&lt;/li&gt;
+&lt;li&gt;Medicaid patients were less depressed (48%, versus 56% base rate)&lt;/li&gt;
+&lt;li&gt;Emergency room use did not go down in the Medicaid group&lt;/li&gt;
+&lt;li&gt;Self-reported health was was significantly higher for the Medicaid group (despite quantitative health measures not being significantly higher)&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;From the study, economist Robin Hanson &lt;a href='http://www.overcomingbias.com/2011/07/the-oregon-health-insurance-experiment.html'&gt;concludes&lt;/a&gt;:&lt;/p&gt;&lt;p class='quotation'&gt;&amp;ldquo;So far, the new Oregon Health Insurance Experiment shows that for very poor and sick folks who go out of their way to request medical insurance, giving them such insurance makes them report feeling healthier. Two-thirds of this effect appears immediately on granting their request, and before they actually got more medical treatment. It remains to be seen if these healthy feelings will be reflected in more direct health measures, though that seems plausible, and we'll probably never see mortality effects.&amp;rdquo;&lt;/p&gt;&lt;h3&gt;The bottom line:&lt;/h3&gt;&lt;p&gt;&lt;em&gt;Healthcare has only a small effect on mortality markers like blood pressure and cholesterol.&lt;/em&gt;&lt;/p&gt;&lt;h4&gt;Three more surprising conclusions:&lt;/h4&gt;&lt;ul class='bullets'&gt;
+&lt;li&gt;Increasing copays reduced &amp;ldquo;appropriate&amp;rdquo; care just as much as &amp;ldquo;inappropriate&amp;rdquo; care&lt;/li&gt;
+&lt;li&gt;Giving free healthcare to the poor and sick does not reduce their emergency room use&lt;/li&gt;
+&lt;li&gt;Patients report feeling healthier and less depressed before getting any treatment&lt;/li&gt;
+&lt;/ul&gt;&lt;h4&gt;And for balance, three unsurprising conclusions:&lt;/h4&gt;&lt;ul class='bullets'&gt;
+&lt;li&gt;Increasing healthcare access and subsidies raises utilization/costs (duh)&lt;/li&gt;
+&lt;li&gt;Healthcare access and subsidies benefits the sick and poor the most (duh)&lt;/li&gt;
+&lt;li&gt;Fully subsidizing glasses improves people's vision (duh)&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Does this mean we shouldn't have healthcare? No. Healthcare obviously provides a lot of value, especially to the sick. However, the marginal value of healthcare is less clear. Both the RAND and Oregon experiments show that spending more money does not significantly improve health outcomes.&lt;/p&gt;&lt;p&gt;Ultimately, I think the lesson is that you control your health far more than your doctor. If you have bad health habits, there's not much your doctor can do to stop you - statin pills are no match for Big Macs. Doctors can certainly help with short-term conditions like broken bones, but when it comes to risk factors for heart disease and cancer, they may be mostly powerless.&lt;/p&gt;&lt;h3&gt;Further Reading&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href='http://www.rand.org/pubs/research_briefs/RB9174/index1.html'&gt;The RAND Corporation on the RAND experiment&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href='http://en.wikipedia.org/wiki/RAND_Health_Insurance_Experiment'&gt;Wikipedia on the RAND experiment&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href='http://www.overcomingbias.com/2007/05/rand_health_ins.html'&gt;Robin Hanson on the RAND experiment (1)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href='http://www.overcomingbias.com/2007/05/rand_health_ins_1.html'&gt;Robin Hanson on the RAND experiment (2)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href='http://theamericanscene.com/2011/03/04/would-universal-healthcare-coverage-actually-improve-health'&gt;Would Universal Healthcare Coverage Actually Improve Health? by Jim Manzi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href='http://www.amazon.com/gp/product/0674319141/ref=as_li_ss_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=390957&amp;amp;creativeASIN=0674319141&amp;amp;linkCode=as2&amp;amp;tag=tedsanderscom-20'&gt;Free for All?: Lessons from the RAND Health Insurance Experiment&lt;/a&gt;&lt;img alt='' border='0' height='1' src='http://ir-na.amazon-adsystem.com/e/ir?t=tedsanderscom-20&amp;amp;l=as2&amp;amp;o=1&amp;amp;a=0674319141' style='border:none !important; margin:0px !important;' width='1' /&gt;&lt;/li&gt;
+
+&lt;br /&gt;
+&lt;li&gt;&lt;a href='http://www.nejm.org/doi/full/10.1056/NEJMsa1212321'&gt;The Oregon experiment, itself&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href='http://en.wikipedia.org/wiki/Oregon_Medicaid_health_experiment'&gt;Wikipedia on the Oregon experiment&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href='http://www.overcomingbias.com/2011/07/the-oregon-health-insurance-experiment.html#disqus_thread'&gt;Robin Hanson on the Oregon experiment&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href='http://www.thedailybeast.com/articles/2013/05/13/how-not-to-cherry-pick-the-results-of-the-oregon-study-ultrawonkish.html'&gt;How Not to Cherry-Pick the Results of the Oregon Study by Jim Manzi&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;Epilogue&lt;/h3&gt;&lt;p&gt;It's truly bizarre how nonreceptive the healthcare debate is to data. Some senators argue we should have more healthcare, some senators argue we should have less. But none argue that we should test our discordant beliefs by funding another $50 million RAND study ($50 million is miniscule compared to the $2,000,000 million the US spends on healthcare each year).&lt;/p&gt;&lt;p&gt;One silly way to break Washington gridlock could be to pass laws conditional on future empirical studies. E.g., pass a healthcare bill that runs a study on the effects of healthcare, and then depending on the outcome of the study, automatically boosts or cuts spending. Healthcare supporters, who believe the study will reveal the benefits of healthcare, should vote aye while healthcare detractors, who believe the study will reveal the non-benefits of healthcare, should also vote aye. Ah, to dream of a world with laws based on data... (or even just to dream of a world where Congress passes laws...)&lt;/p&gt;</description>
+                                <pubDate>Fri, 26 Jul 2013 00:00:00 +0000</pubDate>
+                                <link>http://localhost:4000//healthcare/index.html</link>
+                                <guid isPermaLink="true">http://localhost:4000//healthcare/index.html</guid>
+                        </item>
+                
+                        <item>
+                                <title>Tax tips for PhD students</title>
+                                <description>&lt;p&gt;The following assumes that you are a childless PhD student earning a modest stipend plus tuition remittance.&lt;/p&gt;&lt;p&gt;Don't sue me.&lt;/p&gt;&lt;h3&gt;How to properly claim tuition deductions/credits&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Most PhD students should not be claiming any education deductions/credits.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;If tuition is paid on your behalf:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Don't count it as income.&lt;/li&gt;
+&lt;li&gt;Don't claim any deductions/credits because of it.&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+
+&lt;p&gt;In short, tuition paid on your behalf shouldn't show up anywhere on your tax return. (Even if you see it on your university billing statements.)&lt;/p&gt;
+
+&lt;li&gt;&lt;p&gt;Room &amp;amp; board, most fees, and books generally do NOT count as qualifying expenses for the education deductions/credits.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;However, if you have a scholarship/fellowship, the cost of required books and course supplies can be subtracted from your taxable stipend.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;For the most part, you can only claim education deductions/credits when you pay out-of-pocket for tuition and required fees (and even then, not all required fees qualify, such as required health services fees).&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;/ul&gt;&lt;h3&gt;Fellowships &amp;amp; Scholarships&lt;/h3&gt;&lt;ul&gt;
+
+
+&lt;li&gt;&lt;p&gt;Fellowship stipends are taxable, even if they don't send you tax forms. (The only portion that isn't taxable is the portion spent on tuition and qualifying expenses like required fees and required books.)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;If you didn't receive a W-2 for your fellowship, list it under OTHER INCOME (and weep, because it doesn't count toward earned income for the purposes of &lt;a href='roth-ira.php'&gt;Roth IRAs&lt;/a&gt;).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;If you don't have Federal and State tax withholding from your fellowship, you are probably required to pay quarterly estimated tax. (Even though you file taxes only once per year, you should be paying taxes throughout the year. The US tax system is pay-as-you-go.)&lt;/p&gt;
+
+&lt;p&gt;Schedule quarterly estimated federal tax payments at &lt;br /&gt;&lt;a href='https://www.eftps.gov/eftps/'&gt;https://www.eftps.gov/eftps/&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Schedule quarterly estimated CA state tax payments at &lt;br /&gt;&lt;a href='https://www.ftb.ca.gov/online/payment_choices.shtml'&gt;https://www.ftb.ca.gov/online/payment_choices.shtml&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;/ul&gt;&lt;h3&gt;Miscellaneous&lt;/h3&gt;&lt;ul&gt;
+
+&lt;li&gt;&lt;p&gt;You can e-file federal taxes for free at &lt;br /&gt;&lt;a href='http://www.irs.gov/uac/Free-File:-Do-Your-Federal-Taxes-for-Free'&gt;http://www.irs.gov/uac/Free-File:-Do-Your-Federal-Taxes-for-Free&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;You can e-file CA taxes for free at &lt;br /&gt;&lt;a href='https://www.ftb.ca.gov/individuals/efile/allsoftware.shtml'&gt;https://www.ftb.ca.gov/individuals/efile/allsoftware.shtml&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;You are not head of household. (Unless you are taking care of someone and more.)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Even if something doesn't send you a tax form (such as a fellowship, or a bank that paid you less than $10 in interest) you still owe taxes.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href='http://www.cs.amherst.edu/~djv/irs.pdf'&gt;If the IRS had invented the quadratic formula...&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;/ul&gt;</description>
+                                <pubDate>Fri, 15 Mar 2013 00:00:00 +0000</pubDate>
+                                <link>http://localhost:4000//tax-tips-for-phd-students/index.html</link>
+                                <guid isPermaLink="true">http://localhost:4000//tax-tips-for-phd-students/index.html</guid>
+                        </item>
+                
+                        <item>
+                                <title>Why the media is ignoring Nate Silver by praising Nate Silver</title>
+                                <description>&lt;p&gt;Mr Blue claims a weighted coin is biased to land heads 90% of the time. Mr Red claims the coin is biased to land heads 50% of the time. You flip the coin only once, and it lands heads. Who was right?
+&lt;/p&gt;&lt;p&gt;This question is a deep one.
+&lt;/p&gt;&lt;p&gt;Clearly, after only one flip, we can't say for certain who was right, since both men predicted that heads had a chance of coming up (they only disagreed on the probabilities, not the possibilities). And yet, there is a sense that Mr Blue, who predicted a 90% chance of heads, was more corroborated by reality than Mr Red, who predicted only a 50% chance. But how much more credit does Mr Blue deserve?
+&lt;/p&gt;&lt;p&gt;It turns out that there is a beautifully simple method for calculating how new evidence should affect old beliefs (like how a coin landing heads should affect your belief of whos right). Here's how it works:
+&lt;/p&gt;&lt;p&gt;To visualize the probabilities better, let's imagine that we live in 100 possible universes.
+&lt;/p&gt;&lt;figure&gt;
+&lt;img src='img/universes100.gif' /&gt;
+&lt;/figure&gt;&lt;p&gt;Before the flip, let's suppose we trusted each man equally. In other words, in 50 possible universes Mr Blue was right and in the other 50 possible universes Mr Red was right.
+&lt;/p&gt;&lt;figure&gt;
+&lt;img src='img/universes50-50.gif' /&gt;
+&lt;/figure&gt;&lt;p&gt;Now, in the universes where Mr Blue is right, the coin will land heads 90% of the time. But in the universes where Mr Red is right, the coin will land heads only 50% of the time.
+&lt;/p&gt;&lt;figure&gt;
+&lt;img src='img/universes-45-5-25-25.gif' /&gt;
+&lt;/figure&gt;&lt;p&gt;Before we flip the coin, we expect to find ourselves in any of these 100 possible universes with equal likelihood. But what about after the coin flip?
+&lt;/p&gt;&lt;p&gt;After the coin flips heads, it's time to update our beliefs. Now we know our universe cannot be one in which tails was flipped, narrowing down the number of possible universes to 70. Of these 70 universes remaining, we see Mr Blue is right in 45 of them while Mr Red is right in 25 of them.
+&lt;/p&gt;&lt;figure&gt;
+&lt;img src='img/universes45-25.gif' /&gt;
+&lt;/figure&gt;&lt;p&gt;Before the coin flip, we believed each man equally. That is, we thought Mr Blue had a 50% chance of being right and we thought Mr Red had a 50% chance of being right. However, after the coin flip, we should believe Mr Blue has a 45/70 (64%) chance of being right while Mr Red only has a 25/70 (36%) chance of being right.
+&lt;/p&gt;&lt;p&gt;The coin flip increased our confidence in Mr Blue by only 14 &lt;a href='http://xkcd.com/985/'&gt;percentage points&lt;/a&gt;!
+&lt;/p&gt;&lt;p&gt;So what does any of this have to do with Nate Silver and title of this post?&lt;/p&gt;&lt;p&gt;Some time before the 2012 US Presidential Election, Nate Silver's forecast model showed that Obama had a 90% chance of winning the election. At the time, people like David Brooks, Joe Scarborough, and others argued that the election was still a 50/50 toss up.&lt;/p&gt;&lt;p&gt;When Obama eventually won, many people in the media believed that the outcome vindicated Nate Silver's high degree of confidence and his polling model. But in doing so, they are ignoring the mathematical approach that Nate Silver preaches. The single data point of Obama's victory should only boost our belief in Nate Silver by a modest amount.
+&lt;/p&gt;&lt;p&gt;By itself, an Obama victory is not enough to prove the model right, and in fact a Romney victory (which Nate Silver predicted would happen with 10% confidence) would not have been enough to prove the model wrong either.&lt;/p&gt;&lt;p&gt;My point is not that Nate Silver's model is bad or that we shouldn't trust him (in fact, I think his model is great and there are many reasons to trust him). Rather, my point is that we shouldn't judge the success or failure of a model on limited, noisy data. The right way to judge a probabilistic model is to ask whether it makes sense, not whether it matches a few data points.&lt;/p&gt;</description>
+                                <pubDate>Sat, 09 Mar 2013 00:00:00 +0000</pubDate>
+                                <link>http://localhost:4000//nate-silver/index.html</link>
+                                <guid isPermaLink="true">http://localhost:4000//nate-silver/index.html</guid>
+                        </item>
+                
+                        <item>
+                                <title>If I were a venture capitalist, what bets would I place on the future?</title>
+                                <description>&lt;p&gt;(Read &lt;a href='venture-capitalist-1.php'&gt;Part 1&lt;/a&gt; and &lt;a href='venture-capitalist-2.php'&gt;Part 2&lt;/a&gt; first.)&lt;/p&gt;&lt;p&gt;Robots are ideal for jobs that are repetitive or dangerous. Robots don't need sleep, air conditioning, or even &lt;a href='http://en.wikipedia.org/wiki/Lights_out_(manufacturing)'&gt;lighting&lt;/a&gt;. For these reasons and others, robots have already stolen most of America's manufacturing jobs. Today, even jobs in low-wage countries are at risk. China's largest private-sector employer Foxconn has already announced &lt;a href='http://news.xinhuanet.com/english2010/china/2011-07/30/c_131018764.htm'&gt;plans&lt;/a&gt; to replace part of its workforce with one million robots.&lt;/p&gt;&lt;p&gt;For amazing videos on what robots are already capable of, take a look at the videos below:&lt;/p&gt;&lt;p&gt;
+Kiva's robots grab packages in Amazon warehouses:
+&lt;iframe allowfullscreen='allowfullscreen' frameborder='0' height='360' src='http://www.youtube.com/embed/6KRjuuEVEZs#t=0m21s' width='640'&gt;
+&lt;/iframe&gt;
+&lt;/p&gt;&lt;p&gt;
+ABB's speedy PickMaster robot is used especially for food sorting (the video is Japanese, but ABB is actually Swiss)
+&lt;iframe allowfullscreen='allowfullscreen' frameborder='0' height='360' src='http://www.youtube.com/embed/er9cdeX9gLc#t=0m4s' width='640' /&gt;
+&lt;/p&gt;&lt;p&gt;
+Watch robot arms in action at BMW's Munich plant:
+&lt;iframe allowfullscreen='allowfullscreen' frameborder='0' height='480' src='http://www.youtube.com/embed/iFKbpbe_9pw#t=0m11s' width='640' /&gt;
+&lt;/p&gt;&lt;p&gt;
+Robot arm positioning is accurate down to hundredths of a millimeter:
+&lt;iframe allowfullscreen='allowfullscreen' frameborder='0' height='360' src='http://www.youtube.com/embed/SOESSCXGhFo' width='640' /&gt;
+&lt;/p&gt;&lt;p&gt;If robots can already do this, what will they do next?&lt;/p&gt;&lt;p&gt;Manufacturing and agriculture have already lost millions of jobs to machines, but so far the service sector, which employs 80% of working Americans, has remained largely unmechanized. This is not to say that the service sector doesn't use technology - clearly it does. Rather, in the service sector technology is a complement, not a substitute, to labor. However, robots are only getting better. It's only a matter of time before robots are cheaper than humans at performing service sector jobs. Below are the jobs I think are ripest for replacement by robots:&lt;/p&gt;&lt;h3&gt;Robot Cooks&lt;/h3&gt;&lt;p&gt;Suppose you invented a machine that could prepare hamburgers less expensively than a minimum wage worker. How much do you think such a machine would be worth to McDonald's? McDonald's has about half a million employees, many of whom repeat simple tasks like assembling burgers, frying fries, and taking orders from customers. Machines that can cheaply and reliably make food are another multibillion dollar opportunity.&lt;/p&gt;&lt;p&gt;Here are examples of machines already in development:&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;A hamburger-making &lt;a href='http://momentummachines.com/'&gt;robot&lt;/a&gt; (0 videos)&lt;/li&gt;
+&lt;li&gt;A sushi-making &lt;a href='http://www.huffingtonpost.com/2012/04/09/sushi-bot-sushi-robot_n_1408975.html'&gt;robot&lt;/a&gt; (3 videos)&lt;/li&gt;
+&lt;li&gt;A pizza-making &lt;a href='http://www.youtube.com/watch?feature=player_embedded&amp;amp;v=j7_lxiU8eLM#'&gt;robot&lt;/a&gt; (1 video)&lt;/li&gt;
+&lt;li&gt;Bartending &lt;a href='http://www.youtube.com/watch?feature=player_embedded&amp;amp;v=7KRxHKaR2jo#'&gt;robots&lt;/a&gt; (1 video)&lt;/li&gt;
+&lt;/ul&gt;&lt;br /&gt;&lt;h3&gt;Robot Cashiers&lt;/h3&gt;&lt;p&gt;Self-checkout machines are already showing up at supermarkets and Jacks in the Boxes and other retailers. Admittedly, some self-checkout machines are terrible (e.g., &amp;ldquo;unexpected item in the bagging area&amp;rdquo;). However, as costs fall and designs improve, these &lt;a href='http://www.youtube.com/watch?v=AhkP0RWQ68w'&gt;robot cashiers&lt;/a&gt; will become commonplace. They save the store money and space, and the save the consumer time wasted in lines. Technology like RFID tags, which cost as little as three cents and have already obviated the need for lines at tollbridges, may soon eliminate grocery lines altogether.&lt;/p&gt;&lt;h3&gt;Robot Drivers&lt;/h3&gt;&lt;p&gt;I don't know much about these, but smart people seem to think they're viable. And smart people in herds are never wrong.&lt;/p&gt;&lt;p&gt;Here's a video of an autonomous car trying to park:&lt;/p&gt;&lt;p&gt;&lt;iframe allowfullscreen='allowfullscreen' frameborder='0' height='480' src='http://www.youtube.com/embed/RY93kr8PaC4' width='640' /&gt;&lt;/p&gt;&lt;h3&gt;Adaptable Robots&lt;/h3&gt;&lt;p&gt;A big barrier to widespread use of robots is the need to custom design or custom program them for each job. Specialization and programming are expensive. Multipurpose robots that can be trained by regular people with no programming experience is a huge opportunity that may pave the way for widespread adoption of robot labor. The robotics industry is already working on this, and if they succeed, it could be a game changer.&lt;/p&gt;&lt;p&gt;The biggest advantage that human labor has over machine labor is adaptability. Ironically, if technological innovation stagnates, the premium for adaptability will shrink, and we may see far more companies making long-term investments in mechanical labor.&lt;/p&gt;&lt;br /&gt;&lt;p&gt;Coming soon or sometime: Part 4, companies that increase labor efficiency&lt;/p&gt;</description>
+                                <pubDate>Mon, 18 Feb 2013 00:00:00 +0000</pubDate>
+                                <link>http://localhost:4000//venture-capitalist-3/index.html</link>
+                                <guid isPermaLink="true">http://localhost:4000//venture-capitalist-3/index.html</guid>
+                        </item>
+                
+                        <item>
+                                <title>If I were a venture capitalist, what bets would I place on the future?</title>
+                                <description>&lt;p&gt;(Read Part 1 &lt;a href='venture-capitalist-1.php'&gt;here&lt;/a&gt;.)&lt;/p&gt;&lt;p&gt;Most of the day, your car is empty. Your kitchen is empty. Your camera isn't taking photos. Your computer's CPU is idling. Your utility's power plants and power lines are well below capacity. THESE ARE MASSIVE INEFFICIENCIES THAT SHOULD APPALL YOUR INNER ECONOMIST. Coordinating more efficient use of these high-fixed-cost-and-low-utilization resources is a market opportunity worth trillions of dollars.&lt;/p&gt;&lt;p&gt;Of course, this great inefficiency is all by design. When you buy a car, part of what you pay for is the option value. Not only are you paying for the transportation, you are paying for the guarantee that transportation will be available when you need it. Option value is why it makes sense to buy something that spends most of its life doing nothing.&lt;/p&gt;&lt;p&gt;However, digital technology is enabling new ways of coordinating resources that have never been feasible in the past. Through schemes like variable pricing, online scheduling, and peer-to-peer business transactions it is now easier than ever before to share things without sacrificing the reliability or option value traditionally associated with ownership. That is the main idea behind the companies in this category.&lt;/p&gt;&lt;p&gt;Below are business ideas (most of which are already companies) that I predict will grow over the next few decades. They all succeed by using digital technology to coordinate the sharing of high-fixed-cost capital goods.&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href='http://members.zipcar.com/apply?promo_code=mbhxrrit'&gt;Car&lt;/a&gt; &lt;a href='http://www.wheelz.com/'&gt;rental&lt;/a&gt; &lt;a href='http://www.getaround.com/'&gt;services&lt;/a&gt;, &lt;a href='https://relayrides.com/'&gt;car&lt;/a&gt; &lt;a href='http://www.lyft.me/'&gt;sharing&lt;/a&gt; &lt;a href='http://www.side.cr/'&gt;services&lt;/a&gt;, &lt;a href='http://sfbay.craigslist.org/rid/'&gt;carpooling&lt;/a&gt; &lt;a href='http://www.zimride.com/'&gt;services&lt;/a&gt;, &lt;a href='https://www.uber.com/'&gt;taxi services&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href='http://www.smartgrid.gov/the_smart_grid'&gt;Smart grid&lt;/a&gt;, &lt;a href='http://en.wikipedia.org/wiki/Advanced_Metering_Infrastructure#Advanced_metering_infrastructure'&gt;smart meters&lt;/a&gt;, &lt;a href='http://www.geappliances.com/home-energy-manager/appliance-energy-consumption.htm'&gt;smart appliances&lt;/a&gt; that dynamically manage electrical load &lt;/li&gt;
+&lt;li&gt;&lt;a href='http://sfpark.org/how-it-works/'&gt;Parking meters&lt;/a&gt; that charge variable prices &lt;a href='http://www.amazon.com/gp/product/193236496X/ref=as_li_ss_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=390957&amp;amp;creativeASIN=193236496X&amp;amp;linkCode=as2&amp;amp;tag=tedsanderscom-20'&gt;depending on demand&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href='http://www.sharesomesugar.com/'&gt;Peer-to-peer&lt;/a&gt; &lt;a href='http://www.homedepot.com/webapp/catalog/servlet/ContentView?pn=Tool_Truck_Rental&amp;amp;storeId=10051&amp;amp;langId=-1&amp;amp;catalogId=10053'&gt;tool rentals&lt;/a&gt;, &lt;a href='http://www.techshop.ws/index.html'&gt;shared workshops&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href='https://www.airbnb.com/'&gt;Room rentals&lt;/a&gt;, &lt;a href='https://www.couchsurfing.org/'&gt;room sharing services&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Restaurants that use variable, dynamic &lt;a href='http://en.wikipedia.org/wiki/Happy_hour'&gt;pricing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Shared offices or shared desks within offices&lt;/li&gt;
+&lt;li&gt;Apartment buildings with &lt;a href='http://en.wikipedia.org/wiki/Communal_apartment'&gt;community&lt;/a&gt; kitchens/TVs/etc. &lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;One question a venture capitalist faces is whether to invest in early stage or late stage start ups. Another question is whether to make small investments or large investments. In this category, all things being equal, I'd prefer large investments in late stage companies. Most of these companies, which help share pooled resources, benefit from economies of scale. The bigger they are, the better they'll do.&lt;/p&gt;&lt;p&gt;[To see why these companies have economies of scale, consider the following example. You are the CEO of ZipCar. You rent cars to a population 100 customers who each want a car some random 10% of the time. To meet average demand, your fleet will only need 10 cars (100 people * 10% of the time). But your customers don't just want access cars; they want &lt;em&gt;reliable&lt;/em&gt; access to cars. For 99% reliability, if you do the math, your fleet will need 17 cars total: 10 for the baseline demand and 7 to buffer random spikes in demand.&lt;/p&gt;&lt;p&gt;The math changes as your customer base gets bigger. Now suppose you serve 1,000 customers. To achieve the same 99% reliability, you'll only need 121 cars: 100 baseline and 21 as the buffer. Here's the key point: the for 100 customers, the buffer was 70% of the baseline fleet, but for 1,000 customers, the buffer was 21% of the baseline fleet. This is the law of large numbers - as your population gets larger, the random fluctuations in demand partially self-cancel. This means that the companies with the most customers will spend a smaller percentage of their budget on excess capacity. The bigger your business, the more profitable it will become.]&lt;/p&gt;&lt;p&gt;Most of the business ideas above aren't new. What is new is that computers and the internet are making it easy to rent capital goods, especially from peers. Of course, there are big barriers to many of these ideas, especially some forms of &lt;a href='http://opim.wharton.upenn.edu/~cachon/pdf/dpricingV1all.pdf'&gt;dynamic pricing&lt;/a&gt;; nonetheless, I am optimistic that efficiency will eventually win out. The potential is just too great.&lt;/p&gt;&lt;p&gt;Coming soon: Companies that replace labor with capital (the post, not the companies. They came years ago).&lt;/p&gt;&lt;p&gt;Read Part 3 &lt;a href='/venture-capitalist-3'&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
+                                <pubDate>Wed, 13 Feb 2013 00:00:00 +0000</pubDate>
+                                <link>http://localhost:4000//venture-capitalist-2/index.html</link>
+                                <guid isPermaLink="true">http://localhost:4000//venture-capitalist-2/index.html</guid>
+                        </item>
+                
+                        <item>
+                                <title>If I were a venture capitalist, what bets would I place on the future?</title>
+                                <description>&lt;p&gt;Economist Robert Gordon made waves a few months ago when he published a controversial paper titled &amp;ldquo;&lt;a href='http://www.nber.org/papers/w18315.pdf'&gt;Is U.S. Economic Growth Over? Faltering Innovation Confronts the Six Headwinds&lt;/a&gt;.&amp;rdquo; Its central argument states that most of humanity's economic growth has come from three industrial revolutions:&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;1750 - 1830&lt;/b&gt;: Steam power, railroads&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;1870 - 1900&lt;/b&gt;: Electricity, petroleum, internal combustion engine, running water, communications, chemicals&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;1960 - Present&lt;/b&gt;: Computers, internet, mobile phones&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;The first two industrial revolutions each took about 100 years to percolate all the way through the American economy, before diminishing returns finally set in. Gordon believes the third industrial revolution (the digital revolution) is already sputtering out after 40 years, seeing how productivity growth has been dropping since 2004.&lt;/p&gt;&lt;p&gt;Nonetheless, I think the digital revolution is still in its infancy. Imagine the following: starting tomorrow, society stops making new scientific and technological discoveries. Even in such stagnant circumstances, I believe our society has decades and decades of innovation and investment left, just by using today's technology in new ways.&lt;/p&gt;&lt;p&gt;Today you can buy a computer for &lt;a href='http://www.raspberrypi.org/'&gt;$25&lt;/a&gt;, and embedded chips for even less. Yet most things in our lives are not yet networked or sensing or intelligent. Why? I believe this is not an issue of technology, but time. It does not cost much to manufacture networking, sensing, and intelligence capability into everyday devices. However, there are large fixed development costs and large barriers to market acceptance. Nonetheless, with enough time (&lt;em&gt;and needing no new fundamental technology&lt;/em&gt;) these obstacles will be eventually overcome. The potential is too tremendous to be ignored.&lt;/p&gt;&lt;p&gt;One surprise that the digital revolution may have in store for us is the decoupling of price and cost. Digital information goods like games, movies, TV, sports broadcasts, and e-books all have high fixed costs and very low marginal costs. Very few goods like this have ever existed in history, and never alongside computer software that will allow companies to bundle goods, charge variable prices, or price discriminate at will. Companies that sell digital goods like they sell physical goods (i.e., with a fixed pay-per-item model) are doomed to fail in the long run. This is why services like Apple's iTunes will eventually lose against services like Spotify and Netflix. It is an economic inevitability (one that I will write more about later).&lt;/p&gt;&lt;p&gt;If I were a venture capitalist, where would I invest? What bets would I place on the future? Well, I'd look for opportunities where digital technology is enabling new ways of pricing, selling, and delivering goods. Broadly, these categories would include:&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;Companies that increase capital efficiency&lt;/li&gt;
+&lt;li&gt;Companies that replace labor with capital&lt;/li&gt;
+&lt;li&gt;Companies the increase labor efficiency&lt;/li&gt;
+&lt;li&gt;Companies that exploit digital delivery and its economies of scale&lt;/li&gt;
+&lt;li&gt;Companies that price or bundle goods with high fixed cost&lt;/li&gt;
+&lt;li&gt;Miscellaneous speculative technologies&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Over the coming week, I will write a post for each category and the compelling businesses it contains.&lt;/p&gt;&lt;p&gt;Read Part 2 &lt;a href='/venture-capitalist-2'&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
+                                <pubDate>Mon, 11 Feb 2013 00:00:00 +0000</pubDate>
+                                <link>http://localhost:4000//venture-capitalist-1/index.html</link>
+                                <guid isPermaLink="true">http://localhost:4000//venture-capitalist-1/index.html</guid>
+                        </item>
+                
+                        <item>
+                                <title>The first week of traffic</title>
+                                <description>&lt;p&gt;Below is some interesting demographic information from the 208 of you who have visited the blog so far:&lt;/p&gt;&lt;h3&gt;By Country&lt;/h3&gt;&lt;figure&gt;
+&lt;img src='img/traffic-by-country.png' /&gt;
+&lt;figcaption&gt;
+This blog has a slightly international readership with hits coming from the UK, Canada, Germany, France, India, Japan, and the very-hard-to-believe Turks and Caicos Islands. Curiously, the hit from Japan was from someone googling &quot;Ted Sanders&quot; in Japanese.
+&lt;/figcaption&gt;
+&lt;/figure&gt;&lt;h3&gt;By State&lt;/h3&gt;&lt;figure&gt;
+&lt;img src='img/traffic-map-of-the-usa.png' /&gt;
+&lt;figcaption&gt;
+Looking at the US alone, my readership extends as far west as Hawaii and as far east as Massachusetts, with big voids in the Rockies and the South. 18 states down, 32 to go.
+&lt;/figcaption&gt;
+&lt;/figure&gt;&lt;figure&gt;
+&lt;img src='img/traffic-by-state.png' /&gt;
+&lt;figcaption&gt;
+Unsurprisingly, most readers are concentrated in California and Oregon, the only two states I've lived in.
+&lt;/figcaption&gt;
+&lt;/figure&gt;&lt;h3&gt;By City&lt;/h3&gt;&lt;figure&gt;
+&lt;img src='img/traffic-by-city.png' /&gt;
+&lt;figcaption&gt;
+With only two unique visitors, Los Angeles doesn't make the top ten, but I think that's because the LA metro area is divided into so many small cities.
+&lt;/figcaption&gt;
+&lt;/figure&gt;&lt;h3&gt;By Operating System&lt;/h3&gt;&lt;figure&gt;
+&lt;img src='img/traffic-by-OS.png' /&gt;
+&lt;figcaption&gt;
+As always, Windows wins. The iOS hits are from 18 iPhones and 7 iPads.
+&lt;/figcaption&gt;
+&lt;/figure&gt;&lt;h3&gt;By Browser&lt;/h3&gt;&lt;figure&gt;
+&lt;img src='img/traffic-by-browser.png' /&gt;
+&lt;figcaption&gt;
+Which of you is still using Internet Explorer? Whoever you are, please know that I forgive you.
+&lt;/figcaption&gt;
+&lt;/figure&gt;&lt;p&gt;My roomates have pledged a $5 donation to our apartment jar if I can get hits from all 50 states, so if you'd like to contribute our next community purchase (likely a giant living room white board), please tell all of your Wyoming friends about this blog.&lt;/p&gt;</description>
+                                <pubDate>Sun, 03 Feb 2013 00:00:00 +0000</pubDate>
+                                <link>http://localhost:4000//the-first-week-of-traffic/index.html</link>
+                                <guid isPermaLink="true">http://localhost:4000//the-first-week-of-traffic/index.html</guid>
+                        </item>
+                
+                        <item>
+                                <title>Roth IRAs</title>
+                                <description>&lt;p&gt;Today, I'm going to tell you about a 100% legal way for young people to save thousands on taxes: the Roth IRA. Nearly everyone our age should have one.&lt;/p&gt;&lt;p&gt;&lt;h3&gt;The short story:&lt;/h3&gt;&lt;/p&gt;&lt;p&gt;The Roth IRA is an amazing deal that lets you avoid capital gains tax. To benefit most, I recommend you &lt;a href='#open'&gt;open&lt;/a&gt; a free Roth IRA at Vanguard and deposit $1,000-$10,500 into a Target Retirement Fund.&lt;/p&gt;&lt;p class='tiny'&gt;*assuming you are a US citizen with a salary between $1 and $127,000, and you don't have high-interest debt&lt;/p&gt;&lt;p&gt;&lt;h3&gt;The long story:&lt;/h3&gt;&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;The &lt;a href='http://en.wikipedia.org/wiki/Roth_ira'&gt;Roth IRA&lt;/a&gt; is a type of investment account created by Congress in 1997&lt;/li&gt;
+&lt;li&gt;Any money invested in Roth IRA pays &lt;strong&gt;&lt;em&gt;NO CAPITAL GAINS TAX!&lt;/em&gt;&lt;/strong&gt; (This starts small, but compounds to &lt;em&gt;HUGE&lt;/em&gt; savings.)&lt;/li&gt;
+&lt;li&gt;To receive the tax benefit, you must &lt;b&gt;wait until age 60&lt;/b&gt; to withdraw the profits&lt;/li&gt;
+&lt;li&gt;There is &lt;strong&gt;no penalty to withdraw early&lt;/strong&gt; (though there is a penalty to withdraw &lt;em&gt;profits&lt;/em&gt; early)&lt;/li&gt;
+&lt;li&gt;The Roth IRA is such a great deal that you're limited to adding &lt;strong&gt;$5.5k per year&lt;/strong&gt; (if you earn six figures a year (or zero), you might not be eligible at all)&lt;/li&gt;
+&lt;li&gt;There is &lt;strong&gt;no inherent risk&lt;/strong&gt; to a Roth IRA. The money can be invested in almost anything you want, such as stocks (risky) or regular savings accounts (not risky).&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;So why open a Roth IRA? What's so good about not paying capital gains tax?&lt;/p&gt;&lt;p&gt;If, from age 24 to 65, you invest $5k per year with a 5% return, you will &lt;strong&gt;save $100,000&lt;/strong&gt; in taxes. &lt;span class='tiny'&gt;*assuming a 20% capital gains tax rate&lt;/span&gt;&lt;/p&gt;&lt;figure&gt;&lt;img src='img/roth-ira.png' /&gt;&lt;/figure&gt;&lt;p&gt;(If you live past 65, you'll save even more.)&lt;/p&gt;&lt;p&gt;The capital gains tax is a tax on investment profits. In the plot above, the green curve is how your money grows without tax and the red curve is how your money grows with a 20% capital gains tax.&lt;/p&gt;&lt;p&gt;With different growth rates and tax rates the numerical details may change but the conclusion won't: the Roth IRA is a no-brainer way to save thousands on taxes. And there is almost no downside: remember, should you ever need the money early you can withdraw it without penalty.&lt;/p&gt;&lt;p&gt;If you do open a Roth IRA, you'll need to decide how to invest your money. I recommend choosing &lt;strong&gt;Vanguard's Target Retirement Index Funds&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Why index funds?&lt;/p&gt;&lt;p&gt;Index funds are the easiest, cheapest, and most diversified way to invest in the stock market. In essense, an index fund is a savings account that follows the stock market. If the stock market goes up, the index fund makes money. If the stock market goes down, the index fund loses money. Usually these swings are between -15% and +20% each year.&lt;/p&gt;&lt;p&gt;Even billionaire investor Warren Buffet &lt;a href='http://www.youtube.com/watch?v=idr6c8NHuWs&amp;amp;amp;list=PLEjYtacsM-X6uppgT_Zbd0bnmdzchFLe1&amp;amp;amp;index=3'&gt;says&lt;/a&gt; that &lt;a href='http://www.reuters.com/article/2007/05/07/berkshire-indexfunds-idUSN0628419820070507'&gt;index funds are best&lt;/a&gt; for individual investors; it's the expert and &lt;a href='http://www.altruistfa.com/readingroomarticles.htm'&gt;academic&lt;/a&gt; consensus. (I plan to write a future post about index funds, so I'll say more then.)&lt;/p&gt;&lt;p&gt;Why Vanguard's Target Retirement Funds?&lt;/p&gt;&lt;p&gt;Vanguard is the biggest and cheapest provider of index funds. Their Target Retirement funds are especially easy to use. Vanguard Target Retirement funds automatically balance across US stocks/foreign stocks/bonds, and they automatically change the balance to be more conservative as you age. And they even do it cheaply, charging only 0.18% per year.&lt;/p&gt;&lt;a name='open' /&gt;&lt;p&gt;Ok, great. How do you open one?&lt;/p&gt;&lt;p&gt;To open a Roth IRA with Vanguard, go &lt;a href='https://personal.vanguard.com/us/openaccount?CompLocation=IRA_overview&amp;amp;Component=OpenIRAOnlineRN&amp;amp;acctType=NewAcct'&gt;here&lt;/a&gt;. The page should look like this:&lt;/p&gt;&lt;ol&gt;
+    &lt;figure&gt;&lt;img src='img/vanguard1x600.png' /&gt;&lt;/figure&gt;
+    &lt;figcaption&gt;
+    &lt;li&gt;Choose &quot;Open a new account&quot;&lt;/li&gt;
+    &lt;li&gt;Click START&lt;/li&gt;
+    &lt;/figcaption&gt;
+    
+    &lt;figure&gt;&lt;img src='img/vanguard2x600.png' /&gt;&lt;/figure&gt;
+    &lt;figcaption&gt;
+    &lt;li&gt;Choose &quot;No&quot; (assuming you don't already have an account)&lt;/li&gt;
+    &lt;li&gt;Click CONTINUE&lt;/li&gt;
+	&lt;/figcaption&gt;
+    
+    &lt;figure&gt;&lt;img src='img/vanguard3x600.png' /&gt;&lt;/figure&gt;
+    &lt;figcaption&gt;
+    &lt;li&gt;Click CONTINUE&lt;/li&gt;
+    &lt;/figcaption&gt;
+        
+    &lt;figure&gt;&lt;img src='img/vanguard4x600.png' /&gt;&lt;/figure&gt;
+    &lt;figcaption&gt;
+    &lt;li&gt;Choose &quot;Retirement&quot;&lt;/li&gt;
+    &lt;li&gt;Choose &quot;Roth IRA&quot;&lt;/li&gt;
+    &lt;li&gt;Click CONTINUE&lt;/li&gt;
+    &lt;/figcaption&gt;
+        
+    &lt;figure&gt;&lt;img src='img/vanguard5x600.png' /&gt;&lt;/figure&gt;
+    &lt;figcaption&gt;
+    &lt;li&gt;Fill out your personal information&lt;/li&gt;
+    &lt;li&gt;Click CONTINUE&lt;/li&gt;
+    &lt;/figcaption&gt;
+    
+&lt;/ol&gt;&lt;p&gt;If someone goes beyond this point and wants to take screenshots, I'd be happy to post instructions for the rest of the process. It's pretty straightforward.&lt;/p&gt;&lt;p&gt;I think at some point they'll ask whether you want an index fund account or brokerage account; make sure to choose the index fund account option. And near the end of the process, you'll also have to pick some funds to put money into. I recommend you pick the Target Retirement 20XX fund that roughly matches your target retirement year. The minimum deposit is $1,000 and the maximum deposit is $5,500 (the Roth IRA contribution limit). And then you should be all set!&lt;/p&gt;&lt;p&gt;Lastly, if you want to invest your Roth IRA money in other funds or assets, that's fine. There are many roads to Rome. The important thing is to make sure that no matter what you're investing in, the assets are inside a Roth IRA.&lt;/p&gt;&lt;p&gt;Let's summarize the costs and benefits of a Roth IRA.&lt;/p&gt;&lt;p&gt;Costs:&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;10 minutes to read this blog post&lt;/li&gt;
+&lt;li&gt;10 minutes of &lt;a href='http://www.lmgtfy.com/?q=roth+ira'&gt;googling&lt;/a&gt; to confirm that what I said is true&lt;/li&gt;
+&lt;li&gt;20 minutes to &lt;a href='https://personal.vanguard.com/us/openaccount?CompLocation=IRA_overview&amp;amp;Component=OpenIRAOnlineRN&amp;amp;acctType=NewAcct'&gt;open an account&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;A bit of paperwork/hassle if you ever need to withdraw early&lt;/li&gt;
+&lt;li&gt;You will deprive the US government of tax money decades from now&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Benefits:&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;You can save $100,000 in taxes!&lt;/li&gt;
+&lt;li&gt;You can then afford to buy 20,000 feet of Subway sandwiches, stack them end to end in an attempt to build an edible ladder to the moon, fail deliciously, and still be as rich as your neighbor who never opened a Roth IRA&lt;/li&gt;
+&lt;li&gt;Did I mention the $100,000?&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Opening a Roth IRA is seriously a no-brainer (&lt;em&gt;if&lt;/em&gt; you have savings and income). And the sooner you start, the bigger the benefit. So think about it, make a plan, and follow through. You'll be ahead of 90% of your friends.&lt;/p&gt;&lt;p&gt;[If you have any questions about this stuff, feel free to email me or gchat me or &lt;a href='http://www.facebook.com/tedsanders'&gt;Facebook me&lt;/a&gt;. No tweets.]&lt;/p&gt;&lt;p&gt;&lt;h3&gt;The epilogue:&lt;/h3&gt;&lt;/p&gt;&lt;p&gt;What about inflation?&lt;/p&gt;&lt;p&gt;Inflation, by itself, doesn't change the analysis much - in fact, it makes the case for the Roth IRA stronger because without one, you end up being taxed on phantom nominal gains. (Contribution limits are indexed to inflation so they are unaffected. The real growth of stock prices should also be unaffected by inflation, for the most part.)&lt;/p&gt;&lt;p&gt;What about Traditional IRAs?&lt;/p&gt;&lt;p&gt;There is also a type of IRA called a &lt;a href='http://en.wikipedia.org/wiki/Traditional_IRA'&gt;Traditional IRA&lt;/a&gt;, which is often, but not always, worse than the Roth IRA. With the Traditional IRA, you pay income tax on the money you withdraw and you get to skip paying income tax on the money you contribute. If your tax rates are the same at age 25 and 75, then this makes little difference. But if you expect your tax rates today to be higher than in your retirement, a Traditional IRA may be a better deal. The Traditional IRA has some downsides, though. First, you must pay a penalty if you withdraw early (though there are some exceptions). Second, you are forced to start withdrawing money at age 70.5. Third, the effective contribution limit is lower. Even though Traditional and Roth IRAs have the same contribution limit, post-income-tax dollars go in the Roth IRA whereas pre-income-tax dollars go into the traditional IRA. Since post-income-tax dollars are worth more, the Roth IRA effetively has a higher contribution limit.&lt;/p&gt;&lt;p&gt;How much can I contribute exactly?&lt;/p&gt;&lt;p&gt;How much you can contribute depends on your income. If you make too little or too much, your limits may be different or you might not even be eligible at all. In tax year 2012, the Roth IRA contribution limit was $5,000. In 2013, it is $5,500. The limit is indexed to inflation and rounded to the nearest $500.&lt;/p&gt;&lt;p&gt;If you earn less income than the limit, you can only contribute as much as you earned that year. Make sure your income meets the IRS's definition of &lt;a href='http://www.irs.gov/Individuals/What-is-Earned-Income%3F'&gt;earned income&lt;/a&gt;, which is not always intuitive. Regular salary and paychecks count, but some other types of income don't.&lt;/p&gt;&lt;p&gt;If you are (1) Single and earning above $112,000 in 2013 or (2) Married and jointly earning above $178,000 or (3) Married Filing Separately then you can't contribute up to the normal limits. There's a phase-out income range where you can contribute a fraction of the regular limit, and at income levels beyond that you cannot contribute at all. Google for more information if this applies to you.&lt;/p&gt;&lt;p&gt;Are the benefits of a Roth IRA guaranteed?&lt;/p&gt;&lt;p&gt;Because the government can change laws, the benefits are not guaranteed. It is possible that the government could rescind the benefit to boost its tax revenue. I think this is unlikely, but no one can accurately predict the future.&lt;/p&gt;&lt;p&gt;Other questions?&lt;/p&gt;&lt;p&gt;Google.&lt;/p&gt;</description>
+                                <pubDate>Sat, 02 Feb 2013 00:00:00 +0000</pubDate>
+                                <link>http://localhost:4000//roth-ira/index.html</link>
+                                <guid isPermaLink="true">http://localhost:4000//roth-ira/index.html</guid>
+                        </item>
+                
+                        <item>
+                                <title>The is-ought problem</title>
+                                <description>&lt;p&gt;Recent mass shootings in the US have renewed the national debate over gun control. On one side, gun-control proponents argue that banning/regulating/controlling guns will reduce murders and improve social welfare. On the other side, gun-rights proponents argue that the illegal actions of a few shouldn&amp;#8217;t restrict the freedoms of the many.&lt;/p&gt;
+
+&lt;p&gt;Striking the right balance between social welfare and personal liberty is an important debate for every society, but lately I&amp;#8217;ve noticed the debate over gun control being tainted by a recurring logical error. See if you can spot the fallacy in the following fictitious debate.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Alice&lt;/strong&gt;: Guns are dangerous. Countries with heavy gun regulation have fewer murders. We dislike murder; therefore we should heavily regulate guns.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Bob&lt;/strong&gt;: No way! The 2nd amendment protects our right to own guns. Heavily regulating guns would violate the constitution.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Alice&lt;/strong&gt;: I disagree! The founders had no conception of today&amp;#8217;s gun technology; the 2nd amendment should only apply to muskets and similar weaponry.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Bob&lt;/strong&gt;: No, in writing the 2nd amendment the founders were establishing a fundamental right of self-protection and self-determination that exists irrespective of the technology in question.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Alice and Bob&lt;/strong&gt;: yada yada yada &amp;#8230;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Did you spot any fallacies?&lt;/p&gt;
+
+&lt;p&gt;Though there may be more than one fallacy above, the particular fallacy I had in mind is what&amp;#8217;s called the &lt;a href='http://en.wikipedia.org/wiki/Is%E2%80%93ought_problem'&gt;is-ought problem&lt;/a&gt;. At some point, the debate above shifted from the question of what our laws ought to be, to the question of what our laws are. These two questions are very different, yet they are confused with one another over and over again in the debate over gun control.&lt;/p&gt;
+
+&lt;p&gt;If you think about it, why should the existence of the 2nd amendment have any bearing whatsoever on the optimal level of gun regulation? Sure, amending the constitution may present a practical barrier to achieving the optimum level of regulation (wherever it may lie), but barriers to achieving the optimum have no relevance to the location of the optimum. If it turns out that heavy gun regulation is best, then we should argue to amend the 2nd amendment. If it turns out that light gun regulation is best, then we should argue to leave the 2nd amendment as it is. But in both cases, the existence of the 2nd amendment needs to be the &lt;em&gt;output&lt;/em&gt; of the debate, not the &lt;em&gt;input&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Philosopher &lt;a href='http://en.wikipedia.org/wiki/David_Hume'&gt;David Hume&lt;/a&gt; first wrote about the is-ought problem 300 years ago in his &lt;a href='http://www.gutenberg.org/ebooks/4705'&gt;Treatise of Human Nature&lt;/a&gt;. But despite having hundreds of years, it&amp;#8217;s sad that the debate over gun control still hasn’t absorbed his wisdom.&lt;/p&gt;</description>
+                                <pubDate>Tue, 29 Jan 2013 00:00:00 +0000</pubDate>
+                                <link>http://localhost:4000//the-is-ought-problem/index.html</link>
+                                <guid isPermaLink="true">http://localhost:4000//the-is-ought-problem/index.html</guid>
+                        </item>
+                
+                        <item>
+                                <title>Hello world</title>
+                                <description>&lt;p&gt;Welcome to my blog. With this blog, I hope to:&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;Advocate ideas that are undersold and underrated&lt;/li&gt;
+&lt;li&gt;Refine my thinking through writing&lt;/li&gt;
+&lt;li&gt;Prove to the dude at &lt;a href='http://www.tedsanders.net'&gt;tedsanders.net&lt;/a&gt; that I'm more of a Ted Sanders than he will ever be&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Blogging is new to me, and I'm not sure where I'm headed. However, I do have some ideas about the direction I intend to set out. In particular, I plan to share my thoughts on a few topics that I've been thinking about deeply: robots, money, and energy/climate.&lt;/p&gt;&lt;p&gt;Those of you stalking &lt;a href='http://www.facebook.com/tedsanders'&gt;my Facebook timeline&lt;/a&gt; know that a recent interest of mine is the rise of machines replacing labor. The economic tradeoff between capital and labor is &lt;a href='http://www.econlib.org/library/Ricardo/ricP7.html#Ch.31, On Machinery'&gt;nothing&lt;/a&gt; &lt;a href='http://www.econlib.org/library/Enc/bios/Marx.html'&gt;new&lt;/a&gt;, but as machines become increasingly capable of decision-making, the traditional balance between dumb tools and smart humans may collapse, forcing society to confront the ugly reality of what to do with people who are more expensive and less productive than robots. &lt;a href='http://theleisuresociety.tumblr.com/post/39057729530/the-tech-debate-blasts-off-a-linkfest'&gt;Arguments&lt;/a&gt; over this scenario have become popular in the economics blogosphere, and I plan to add my two cents.&lt;/p&gt;&lt;p&gt;A second subject that I might stray into is personal finance, a part of our lives that most of us plan to do better at... eventually. With the advent of the internet and its ocean of freely accessible information, there is no longer any excuse to not invest in the best stocks or donate to the best charities. I'll tell you how. Not only will I summarize the expert consensuses on both &lt;a href='http://www.altruistfa.com/readingroomarticles.htm'&gt;investing&lt;/a&gt; and &lt;a href='http://www.givewell.org'&gt;charity&lt;/a&gt;, I'll give you step-by-step instructions for getting started.&lt;/p&gt;&lt;p&gt;A third topic where I plan to share some expertise is energy and climate. How we choose to power the planet for the next century is a hugely important question whose answer will have large lasting consequences. As someone who has worked at a utility and attended years of energy seminars with free food, I will examine some subtleties of the issue that most journalists miss.&lt;/p&gt;&lt;p&gt;With that said, please enjoy this preview of posts to come:&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;Against Malaria Foundation: The one charity that everyone should be giving to&lt;/li&gt;
+&lt;li&gt;Index funds: The hassle-free, scientifically supported way to invest your savings&lt;/li&gt;
+&lt;li&gt;Roth IRAs: The 100% legal way for young people to save thousands on taxes&lt;/li&gt;
+&lt;li&gt;Bet the Bill: How to fairly split a restaurant bill without wasting anyone's time&lt;/li&gt;
+&lt;li&gt;Sports Score Simulator: How to compute the optimal game length for underdogs&lt;/li&gt;
+&lt;li&gt;The web's best interactive applet for visualizing dispersion relations&lt;/li&gt;
+&lt;li&gt;Why (most) everything you've heard about quantum mechanics is wrong&lt;/li&gt;
+&lt;li&gt;Fracking: What is it and should we be worried?&lt;/li&gt;
+&lt;li&gt;Entropy and temperature and free energy: A jargon-free explanation&lt;/li&gt;
+&lt;li&gt;The future of economic growth and the physical limits of technology&lt;/li&gt;
+&lt;li&gt;The physical limits of technology 1: Energy production&lt;/li&gt;
+&lt;li&gt;The physical limits of technology 2: Energy transmission&lt;/li&gt;
+&lt;li&gt;The physical limits of technology 3: Transportation&lt;/li&gt;
+&lt;li&gt;The physical limits of technology 4: Computation&lt;/li&gt;
+&lt;li&gt;The Great Stagnation: A review&lt;/li&gt;
+&lt;li&gt;Why America's future is bright: Energy, Robots, and Brains&lt;/li&gt;
+&lt;li&gt;Causal inference: The best statistical method you've never heard of&lt;/li&gt;
+&lt;li&gt;Clean energy: Past, present, and future&lt;/li&gt;
+&lt;li&gt;Peak oil: Why journalists should be forbidden from using the word &quot;reserves&quot;&lt;/li&gt;
+&lt;li&gt;Global warming: A summary of the evidence and what it says about our future&lt;/li&gt;
+&lt;li&gt;The world's most important inventions&lt;/li&gt;
+&lt;li&gt;The single fact responsible for all quantum weirdness&lt;/li&gt;
+&lt;li&gt;Money(foot)ball: What math is bringing to modern football strategy&lt;/li&gt;
+&lt;li&gt;Two ways to create a trillion dollars of wealth in one day&lt;/li&gt;
+&lt;li&gt;Why do you do what you do? The science of human motivation&lt;/li&gt;
+&lt;li&gt;Eating beef: the Eighth Deadly Sin?&lt;/li&gt;
+&lt;li&gt;Prediction Markets: their promise, peril, and practicality&lt;/li&gt;
+&lt;li&gt;The Null Hypothesis: the history of a dangerous idea&lt;/li&gt;
+&lt;li&gt;Why most published research findings are wrong&lt;/li&gt;
+&lt;li&gt;Air pollution: Why CO2 is more harmless than you think&lt;/li&gt;
+&lt;li&gt;The utilitarian argument against vegetarianism&lt;/li&gt;
+&lt;li&gt;Excerpts from Ted's Thesis on PLD-deposited complex oxide thin films&lt;/li&gt;
+&lt;li&gt;Everything is correlated, you fools!&lt;/li&gt;
+&lt;li&gt;Ted's book recommendations&lt;/li&gt;
+&lt;li&gt;What my favorite philosopher can teach those who debate gun control&lt;/li&gt;
+&lt;li&gt;If Ted were a venture capitalist, which startups would he invest in?&lt;/li&gt;
+&lt;li&gt;Why the media is ignoring Nate Silver by praising Nate Silver&lt;/li&gt;
+&lt;li&gt;...and more!&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Stay tuned. :)&lt;/p&gt;</description>
+                                <pubDate>Fri, 25 Jan 2013 00:00:00 +0000</pubDate>
+                                <link>http://localhost:4000//hello-world/index.html</link>
+                                <guid isPermaLink="true">http://localhost:4000//hello-world/index.html</guid>
+                        </item>
+                
+        </channel>
+</rss>
