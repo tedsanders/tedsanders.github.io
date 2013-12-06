@@ -3,7 +3,8 @@ description: The impersonal website of Ted Sanders.
 url: http://tedsanders.github.io/
 author: Ted Sanders
 paginate: 1
-paginate_path: "page:num"
+
+
 
 source:      .
 destination: ./_site
@@ -38,7 +39,6 @@ server:      false    # deprecated
 host:        0.0.0.0
 port:        4000
 baseurl:     /
-url:         http://localhost:4000
 lsi:         false
 
 maruku:
