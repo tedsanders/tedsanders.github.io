@@ -1,7 +1,7 @@
 name: Ted Sanders
 description: The impersonal website of Ted Sanders.
 url: http://tedsanders.github.io/
-author: Mr Ted Sanders
+author: Ted Sanders
 paginate: 1
 paginate_path: "page:num"
 
