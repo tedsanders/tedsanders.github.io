@@ -4,7 +4,7 @@
    Base styles: opinionated defaults
    ========================================================================== */
 
-/*CSS reset. From HTML5 doctor, with p and h1-6 omitted.*/
+/*CSS reset. From HTML5 doctor, with p and hxs omitted.*/
 html, body, div, span, object, iframe,
 blockquote, pre,
 abbr, address, cite, code,
@@ -16,7 +16,8 @@ fieldset, form, label, legend,
 table, caption, tbody, tfoot, thead, tr, th, td,
 article, aside, canvas, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section, summary,
-time, mark, audio, video {
+time, mark, audio, video
+{
     margin:0 auto; /*auto left-right margin added*/
     padding:0;
     border:0;
@@ -31,14 +32,12 @@ ul, ol {
 }
 
 
-html {
+html, body {
     font-size: 1em;
+    line-height: 1.6;
     color: #333;
     font: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    line-height: 1.6;
-    margin: 0 auto;
-    padding: 0;
-    border: 0;
+    height:100%; /*fix so footer stays at bottom*/
 }
 
 /*
@@ -66,7 +65,8 @@ hr {
     height: 1px;
     border: 0;
     border-top: 1px solid #ccc;
-    margin: 1em 0;
+    margin-top: 1em;
+    margin-bottom: 1em;
     padding: 0;
 }
 
@@ -113,36 +113,8 @@ textarea {
 }
 
 /* ==========================================================================
-   Author's custom styles
+   Style
    ========================================================================== */
-
-/*LEFT NAVIGATION SIDEBAR*/
-#tedsanders {
-	font-weight: bold;
-	font-size: 1.2em;
-}
-
-#left-navigation-sidebar ul {
-	list-style:none;
-	padding-top: 1em;
-	margin-left: 0;
-	padding-left: 5%;
-}
-
-/*RIGHT STYLE SIDEBAR*/
-#right-style-sidebar {
-    display: none;
-    padding-top: 1em;
-}
-
-/*CENTER COLUMN*/
-
-#center-content-column {
-    width: 90%;
-    padding: 0 5%;
-}
-
-/*NORMAL ELEMENTS*/
 
 a {
 	text-decoration: none;
@@ -164,71 +136,179 @@ p {
 }
 
 h1 {
-	margin: 0;
-	font-size: 3em;
-	-webkit-margin-before: 0; /*h1 reset*/
-	-webkit-margin-after: 0; /*h1 reset*/
+	font-size: 2em;
+    font-family: serif;
+    margin-top: 0.5em;
+    line-height: 1.1;
 }
 
 h2 {
-	font-size: 1.5em;
-	font-family: serif;
-	color: #666;
-	line-height: 1.2;
-	-webkit-margin-before: 0; /*h1 reset*/
-	-webkit-margin-after: 0; /*h1 reset*/
+    font-size: 1.2em;
+    font-weight:bold;
 }
 
 h3 {
 	font-size: 1.2em;
 	font-weight:bold;
-	-webkit-margin-before: 0; /*h1 reset*/
-	-webkit-margin-after: 0; /*h1 reset*/
 }
 
+/* ==========================================================================
+   Classes and IDs
+   ========================================================================== */
 
-/* DESKTOP VERSION */
-@media all and (min-width: 64em) {
+.subtitle {
+    font-size: 1.5em;
+    font-family: serif;
+    color: #666;
+    margin: 0.5em auto;
+    padding: 0;
+}
 
-	/*LEFT NAVIGATION SIDEBAR*/
-	#tedsanders {
-		font-weight: bold;
-		font-size: 1.2em;
-	}
+.no-bullets {
+    list-style:none;
+    margin-left:0; /*Undo bullet fix*/
+}
 
-	#left-navigation-sidebar {
-	    position: fixed;
-	    text-align: left;
-	    left:0;
-	    top:0;
-	    height: 100%;
-	}
-	#left-navigation-sidebar ul {
-		padding-left: 1em; /*reset mobile version*/
-	}
+.align-left {
+    float: left;
+}
 
-	/*RIGHT STYLE SIDEBAR*/
-	#right-style-sidebar {
-		display: block; /*turn column on for wide screens*/
-	    position: fixed;
-	    text-align: right;
-	    right:0;
-	    top:0;
-	    height: 100%;
-	}
+.align-right {
+    float: right;
+}
 
-	#right-style-sidebar li {
-		/*Space out the style icons and remove the bullets*/
-		padding-bottom:32px;
-		list-style:none;
-	}
+/*LEFT NAVIGATION SIDEBAR*/
+#tedsanders, #tedsanders a:visited {
+    font-weight: bold;
+    font-size: 1.2em;
+    color: #333;
+}
 
-	/*CENTER COLUMN*/
+#left-navigation-sidebar ul {
+    list-style:none;
+    padding-top: 1em;
+    margin-left: 0;
+    padding-left: 5%;
+}
 
-	#center-content-column {
-	    width: 45em;
-	    padding: 0;
-	}
+/*RIGHT STYLE SIDEBAR*/
+#right-style-sidebar {
+    display: none; /*let's fix this later*/
+}
+
+/*CENTER COLUMN*/
+
+#center-content-column {
+    width: 90%;
+    padding: 0 5%;
+    min-height: 100%;
+    position:relative;
+    overflow: auto;
+}
+
+/*Footer*/
+
+.page-footer {
+    bottom: 0;
+    left: 0;
+    right: 0;
+    position: absolute;
+    padding-bottom: 1em;
+    font-style:italic;
+}
+
+.footer-fix {
+    margin-bottom: 6em;
+}
+
+ #feedbox {
+    width: 10%;
+    float: left;
+    text-align:center;
+ }
+ 
+ .copyright {
+    width: 45%;
+}
+
+ .fn {
+     width:45%;
+     text-align:right;
+ }
+
+.facebook-icon {
+    background-image: url(http://localhost:4000/img/light.png);
+    background-position: left center;
+    background-repeat: no-repeat;
+    padding-left: 16px; /* Or size of icon + spacing */
+}
+
+.icon-bump { /*so hacky*/
+    position: relative;
+    top:-2px;
+}
+
+/* ==========================================================================
+   Desktop-only version
+   ========================================================================== */
+
+/*desktop style*/
+@media all and (min-width: 56em) {
+
+    /*LEFT NAVIGATION SIDEBAR*/
+    #tedsanders {
+        font-weight: bold;
+        font-size: 1.2em;
+    }
+
+    #left-navigation-sidebar {
+        position: fixed;
+        text-align: left;
+        left:0;
+        top:0;
+        height: 100%;
+    }
+    #left-navigation-sidebar ul {
+        padding-left: 1em; /*reset mobile version*/
+    }
+
+    /*RIGHT STYLE SIDEBAR*/
+    #right-style-sidebar {
+        display: block; /*turn column on for wide screens*/
+        position: fixed;
+        text-align:right;
+        right:0;
+        top:0;
+        height: 100%;
+    }
+
+    #right-style-sidebar li {
+        /*Space out the style icons and remove the bullets*/
+        margin-top: 1em;
+        margin-right: 1em;
+        list-style:none;
+    }
+
+    #right-style-sidebar ul>li>span>img {
+        border-style:solid;
+        border-width:2px;
+    }
+
+    /*CENTER COLUMN*/
+
+    #center-content-column {
+        width: 32em;
+        padding: 0;
+    }
+}
+
+/*bigger desktop*/
+@media all and (min-width: 75em) {
+    
+    #center-content-column {
+        width: 45em;
+        padding: 0;
+    }
 
 } /*End desktop style*/
 

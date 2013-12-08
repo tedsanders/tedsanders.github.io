@@ -1,11 +1,6 @@
 .discovisible {
-	position: absolute;
-	top: 0;
-	left: 0;
-	visibility: visible !important;	
-	display: inline-block !important;
-	color: red;
-	font-size: 4em;
+  margin-top: 1em;
+  visibility: visible !important;	
 }
 
 .beam{

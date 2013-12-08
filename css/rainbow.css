@@ -1,21 +1,9 @@
-.content {
-	background: #C6F;
-}
-
-.left {
-	background: #09F;
-}
-
-.right, .styles li {
-	background: #F90;
+body {
+	background: #eef;
 }
 
 header {
 	background:#0CF;
-}
-
-nav {
-	background:#999;
 }
 
 article {
@@ -40,4 +28,28 @@ h3 {
 
 .link {
 	background: #630;
+}
+
+ #feedbox {
+    background:#fcf;
+ }
+ 
+ .copyright {
+    background:#ffc;
+}
+
+ .fn {
+     background:#cff;
+ }
+
+ #tedsanders {
+ 	background:#aaa;
+}
+
+#left-navigation-sidebar,#right-style-sidebar,#center-content-column {
+	background:#faa;
+}
+
+.page-footer {
+	background: #1a1;
 }
