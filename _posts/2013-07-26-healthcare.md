@@ -2,6 +2,7 @@
 layout: default
 title: Healthcare
 subtitle: The two studies that everyone should know
+alias: /healthcare.php
 ---
 
 <p>Question: How does healthcare affect health?</p>

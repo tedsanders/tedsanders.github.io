@@ -2,6 +2,7 @@
 layout: default
 title: If I were a venture capitalist, what bets would I place on the future?
 subtitle: Part 2&#58; Companies that increase capital efficiency
+alias: /venture-capitalist-2.php
 ---
 
 <p>(Read Part 1 <a href="venture-capitalist-1.php">here</a>.)</p> 

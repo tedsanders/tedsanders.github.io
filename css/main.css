@@ -27,6 +27,11 @@ time, mark, audio, video
     background:transparent;
 }
 
+/* center images */
+img {
+    display: block;
+}
+
 ul, ol {
 	margin-left: 2em;
 }
@@ -236,16 +241,14 @@ h3 {
      text-align:right;
  }
 
-.facebook-icon {
-    background-image: url(http://localhost:4000/img/light.png);
-    background-position: left center;
-    background-repeat: no-repeat;
-    padding-left: 16px; /* Or size of icon + spacing */
-}
-
 .icon-bump { /*so hacky*/
     position: relative;
     top:-2px;
+    display: inline-block;
+}
+
+.inline-block {
+    display: inline-block;
 }
 
 /* ==========================================================================
@@ -292,12 +295,13 @@ h3 {
     #right-style-sidebar ul>li>span>img {
         border-style:solid;
         border-width:2px;
+        display: inline-block;
     }
 
     /*CENTER COLUMN*/
 
     #center-content-column {
-        width: 32em;
+        width: 60%;
         padding: 0;
     }
 }

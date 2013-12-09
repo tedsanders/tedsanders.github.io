@@ -2,6 +2,7 @@
 layout: default
 title: The is-ought problem
 subtitle: What my favorite philosopher can teach those who debate gun control
+alias: /the-is-ought-problem.php
 ---
 
 Recent mass shootings in the US have renewed the national debate over gun control. On one side, gun-control proponents argue that banning/regulating/controlling guns will reduce murders and improve social welfare. On the other side, gun-rights proponents argue that the illegal actions of a few shouldn't restrict the freedoms of the many.

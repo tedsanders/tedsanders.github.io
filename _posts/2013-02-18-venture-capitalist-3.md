@@ -2,6 +2,7 @@
 layout: default
 title: If I were a venture capitalist, what bets would I place on the future?
 subtitle: Part 3&#58; Companies that replace labor with capital
+alias: /venture-capitalist-3.php
 ---
 
 <p>(Read <a href="venture-capitalist-1.php">Part 1</a> and <a href="venture-capitalist-2.php">Part 2</a> first.)</p> 

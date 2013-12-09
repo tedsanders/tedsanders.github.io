@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Hello world
-subtitle:
+alias: /hello-world.php
 ---
 
 <p>Welcome to my blog. With this blog, I hope to:</p>

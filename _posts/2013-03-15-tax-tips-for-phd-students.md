@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Tax tips for PhD students
+alias: /tax-tips-for-phd-students.php
 ---
 
 <p>The following assumes that you are a childless PhD student earning a modest stipend plus tuition remittance.</p>

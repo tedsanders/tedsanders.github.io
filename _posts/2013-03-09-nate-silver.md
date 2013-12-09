@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Why the media is ignoring Nate Silver by praising Nate Silver
+alias: /nate-silver.php
 ---
 
 <p>Mr Blue claims a weighted coin is biased to land heads 90% of the time. Mr Red claims the coin is biased to land heads 50% of the time. You flip the coin only once, and it lands heads. Who was right?
@@ -19,21 +20,21 @@ title: Why the media is ignoring Nate Silver by praising Nate Silver
 </p>
 
 <figure>
-<img src="img/universes100.gif" />
+<img src="{{site.url}}/img/universes100.gif" />
 </figure>
 
 <p>Before the flip, let's suppose we trusted each man equally. In other words, in 50 possible universes Mr Blue was right and in the other 50 possible universes Mr Red was right.
 </p>
 
 <figure>
-<img src="img/universes50-50.gif" />
+<img src="{{site.url}}/img/universes50-50.gif" />
 </figure>
 
 <p>Now, in the universes where Mr Blue is right, the coin will land heads 90% of the time. But in the universes where Mr Red is right, the coin will land heads only 50% of the time.
 </p>
 
 <figure>
-<img src="img/universes-45-5-25-25.gif" />
+<img src="{{site.url}}/img/universes-45-5-25-25.gif" />
 </figure>
 
 <p>Before we flip the coin, we expect to find ourselves in any of these 100 possible universes with equal likelihood. But what about after the coin flip?
@@ -43,7 +44,7 @@ title: Why the media is ignoring Nate Silver by praising Nate Silver
 </p>
 
 <figure>
-<img src="img/universes45-25.gif" />
+<img src="{{site.url}}/img/universes45-25.gif" />
 </figure>
 
 <p>Before the coin flip, we believed each man equally. That is, we thought Mr Blue had a 50% chance of being right and we thought Mr Red had a 50% chance of being right. However, after the coin flip, we should believe Mr Blue has a 45/70 (64%) chance of being right while Mr Red only has a 25/70 (36%) chance of being right.
