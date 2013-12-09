@@ -12,6 +12,6 @@ relative_permalinks: false
 
 permalink:     :categories/:title
 paginate_path: 'page:num'
-paginate: 1
+paginate: 10
 
 
