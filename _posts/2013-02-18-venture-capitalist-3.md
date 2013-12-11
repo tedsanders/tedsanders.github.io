@@ -5,26 +5,26 @@ subtitle: Part 3&#58; Companies that replace labor with capital
 alias: /venture-capitalist-3.php
 ---
 
-<p>(Read <a href="venture-capitalist-1.php">Part 1</a> and <a href="venture-capitalist-2.php">Part 2</a> first.)</p> 
+<p>(Read <a href="/venture-capitalist-1/">Part 1</a> and <a href="/venture-capitalist-2/">Part 2</a> first.)</p> 
   
 <p>Robots are ideal for jobs that are repetitive or dangerous. Robots don't need sleep, air conditioning, or even <a href="http://en.wikipedia.org/wiki/Lights_out_(manufacturing)">lighting</a>. For these reasons and others, robots have already stolen most of America's manufacturing jobs. Today, even jobs in low-wage countries are at risk. China's largest private-sector employer Foxconn has already announced <a href="http://news.xinhuanet.com/english2010/china/2011-07/30/c_131018764.htm">plans</a> to replace part of its workforce with one million robots.</p>
 
 <p>For amazing videos on what robots are already capable of, take a look at the videos below:</p>
 
-<p>
+<p class="text-left">
 Kiva's robots grab packages in Amazon warehouses:
 <iframe width="640" height="360" src="http://www.youtube.com/embed/6KRjuuEVEZs#t=0m21s" frameborder="0" allowfullscreen="allowfullscreen">
 </iframe>
 </p>
-<p>
+<p class="text-left">
 ABB's speedy PickMaster robot is used especially for food sorting (the video is Japanese, but ABB is actually Swiss)
 <iframe width="640" height="360" src="http://www.youtube.com/embed/er9cdeX9gLc#t=0m4s" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 </p>
-<p>
+<p class="text-left">
 Watch robot arms in action at BMW's Munich plant:
 <iframe width="640" height="480" src="http://www.youtube.com/embed/iFKbpbe_9pw#t=0m11s" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 </p>
-<p>
+<p class="text-left">
 Robot arm positioning is accurate down to hundredths of a millimeter:
 <iframe width="640" height="360" src="http://www.youtube.com/embed/SOESSCXGhFo" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 </p>

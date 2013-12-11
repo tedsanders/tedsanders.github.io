@@ -36,7 +36,7 @@ alias: /tax-tips-for-phd-students.php
 
 <li><p>Fellowship stipends are taxable, even if they don't send you tax forms. (The only portion that isn't taxable is the portion spent on tuition and qualifying expenses like required fees and required books.)</p>
 </li>
-<li><p>If you didn't receive a W-2 for your fellowship, list it under OTHER INCOME (and weep, because it doesn't count toward earned income for the purposes of <a href="roth-ira.php">Roth IRAs</a>).</p>
+<li><p>If you didn't receive a W-2 for your fellowship, list it under OTHER INCOME (and weep, because it doesn't count toward earned income for the purposes of <a href="/roth-ira/">Roth IRAs</a>).</p>
 </li>
 <li><p>If you don't have Federal and State tax withholding from your fellowship, you are probably required to pay quarterly estimated tax. (Even though you file taxes only once per year, you should be paying taxes throughout the year. The US tax system is pay-as-you-go.)</p>
 

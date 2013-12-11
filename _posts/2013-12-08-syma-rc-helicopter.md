@@ -2,7 +2,7 @@
 layout: default
 title: Syma RC Helicopter
 subtitle:
-categories: product-reviews
+categories: reviews
 tags:
 stars: 5
 ---

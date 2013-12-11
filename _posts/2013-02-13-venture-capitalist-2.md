@@ -5,7 +5,7 @@ subtitle: Part 2&#58; Companies that increase capital efficiency
 alias: /venture-capitalist-2.php
 ---
 
-<p>(Read Part 1 <a href="venture-capitalist-1.php">here</a>.)</p> 
+<p>(Read Part 1 <a href="{{ site.url }}/venture-capitalist-1/">here</a>.)</p> 
   
 <p>Most of the day, your car is empty. Your kitchen is empty. Your camera isn't taking photos. Your computer's CPU is idling. Your utility's power plants and power lines are well below capacity. THESE ARE MASSIVE INEFFICIENCIES THAT SHOULD APPALL YOUR INNER ECONOMIST. Coordinating more efficient use of these high-fixed-cost-and-low-utilization resources is a market opportunity worth trillions of dollars.</p>
 

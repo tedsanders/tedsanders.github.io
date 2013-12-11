@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Ninety Percent of Everything
+categories: reviews
+stars: 4
 subtitle:
 ---
 

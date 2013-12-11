@@ -8,7 +8,7 @@ tags:
 stars:
 alias: /portfolio.php
 ---
-<img id="tedshot" src="img/tedshot.jpg" height="260" width="215" alt="tedshot" />
+<img id="tedshot" src="/img/tedshot.jpg" height="260" width="215" alt="tedshot" />
 
 <p>Welcome to my portfolio, the highlight reel of my scientific career (fortunately, the much longer blooper reel has been misplaced).</p>
 

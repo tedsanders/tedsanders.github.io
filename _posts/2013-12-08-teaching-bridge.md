@@ -26,6 +26,6 @@ alias: /teaching-bridge.php
 
 <p>Bridge has been a passion of mine since high school, ever since I founded a bridge club at my high school to teach myself and others to play bridge. At one point I got so obsessed with bridge that I pulled an all nighter on Christmas eve - not for normal reasons like last-minute gift wrapping or anxiety about coal - but because I was playing online bridge with one of my friends. Fortunately the <a href="http://www.acbl.org/index.html">American Contract Bridge League</a> doesn't discourage obsession when it comes to bridge, and they actually awarded me a modest scholarship for my bridge teaching.</p>
 
-<p>If you too would like to learn the game of bridge, take a look at at my <a href="bridge-handout.pdf">class handout</a> or better yet, visit <a href="http://bridgebase.com">bridgebase.com</a> to download their amazing interactive bridge tutorial software (the first link in the left box).</p>
+<p>If you too would like to learn the game of bridge, take a look at at my <a href="/bridge-handout.pdf">class handout</a> or better yet, visit <a href="http://bridgebase.com">bridgebase.com</a> to download their amazing interactive bridge tutorial software (the first link in the left box).</p>
 
 <p>Challenge me any time - I play as "BidBigger" on <a href="http://www.bridgebase.com/client/client.php">BridgeBaseOnline</a>.</p>

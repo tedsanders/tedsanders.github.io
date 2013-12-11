@@ -2,7 +2,7 @@
 layout: default
 title: So Good They Can't Ignore You
 subtitle:
-categories: book-reviews
+categories: reviews
 stars: 4
 ---
 
