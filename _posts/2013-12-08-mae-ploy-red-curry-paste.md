@@ -2,7 +2,7 @@
 layout: default
 title: Mae Ploy Red Curry Paste
 subtitle:
-categories: product-reviews
+categories: reviews
 tags:
 stars: 5
 ---

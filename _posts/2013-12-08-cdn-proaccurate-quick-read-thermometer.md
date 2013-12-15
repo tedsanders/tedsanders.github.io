@@ -2,7 +2,7 @@
 layout: default
 title: CDN ProAccurate Quick-Read Thermometer
 subtitle:
-categories: product-reviews
+categories: reviews
 tags:
 stars: 5
 ---
