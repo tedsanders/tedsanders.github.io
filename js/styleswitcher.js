@@ -44,7 +44,7 @@ function getPreferredStyleSheet() {
 function createCookie(name,value,days) {
   if (days) {
     var date = new Date();
-    date.setTime(date.getTime()+(days*24*60*60*1000));
+    date.setTime(date.getTime()+(days*24*60*60*1000)); //Milliseconds to seconds to minutes to hours to days
     var expires = "; expires="+date.toGMTString();
   }
   else expires = "";
@@ -70,7 +70,7 @@ window.onload = function(e) {
 
 window.onunload = function(e) {
   var title = getActiveStyleSheet();
-  createCookie("TedStyle", title, 1);  //Only a 1-day cookie. I'm so nice.
+  createCookie("TedStyle", title, 2);  //Only a 2-day cookie. I'm so nice.
 }
 
 var cookie = readCookie("TedStyle");

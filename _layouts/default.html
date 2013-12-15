@@ -13,6 +13,11 @@
         <link rel="stylesheet" href="{{site.url}}/css/normalize.css">
         <link rel="stylesheet" href="{{site.url}}/css/main.css">
         
+        <link rel="alternate stylesheet" href="{{site.url}}/css/3D.css" title="3D">
+        <link rel="alternate stylesheet" href="{{site.url}}/css/rainbow.css" title="rainbow">
+        <link rel="alternate stylesheet" href="{{site.url}}/css/dark.css" title="dark">
+        <link rel="alternate stylesheet" href="{{site.url}}/css/disco.css" title="disco">
+
         <script src="js/vendor/modernizr-2.7.0.min.js"></script>
     </head>
     <body>
@@ -73,6 +78,7 @@
             <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
             {% endif %}
 
+            <!-- FOOTER -->
             <footer class="page-footer vcard">
                 <hr>
                 <div class="align-left copyright">Copyright 2014</div>
@@ -89,13 +95,11 @@
         <div id="beam4" class="beam"></div>
 
         <!-- Blocking, non-essential elements go at the end of body to speed up site -->
-        <link rel="alternate stylesheet" href="{{site.url}}/css/3D.css" title="3D">
-        <link rel="alternate stylesheet" href="{{site.url}}/css/rainbow.css" title="rainbow">
-        <link rel="alternate stylesheet" href="{{site.url}}/css/dark.css" title="dark">
-        <link rel="alternate stylesheet" href="{{site.url}}/css/disco.css" title="disco">
+
 
 
         <!-- JavaScript -->
+        <!-- Google Analytics. The great gaze of Google sees all. Unless you close the page before this section loads. -->
         <script>
             (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
             function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
@@ -104,9 +108,9 @@
             r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
             ga('create','UA-20709002-1');ga('send','pageview');
         </script>
-        <script src="js/styleswitcher.js"></script>
+
         
-        <!-- Disqus Comments JavaScript-->
+        <!-- Disqus Comments JavaScript -->
         {% if page.comments == true %}
             <script type="text/javascript">
                 /* * * CONFIGURATION VARIABLES * * */
@@ -120,6 +124,8 @@
                 })();
             </script>
         {% endif %}
+
+        <script src="{{site.url}}/js/styleswitcher.js"></script>
 
         <!-- The fastest web request is the one not made - Glass Man
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
