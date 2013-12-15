@@ -5,7 +5,7 @@
    ========================================================================== */
 
 /*CSS reset. From HTML5 doctor, with p and hxs omitted.*/
-html, body, div, span, object, iframe,
+html, body, div, span, object, 
 blockquote, pre,
 abbr, address, cite, code,
 del, dfn, em, img, ins, kbd, q, samp,
@@ -45,8 +45,10 @@ html, body {
     height:100%; /*fix so footer stays at bottom*/
 }
 
-footer {
-    background: white;
+blockquote {
+    margin-left: 2em;
+    margin-right: 2em;
+    font: sans-serif;
 }
 
 /*
@@ -227,7 +229,10 @@ h3 {
     right: 0;
     position: absolute;
     padding-bottom: 1em;
+    padding-left: 1em;
+    padding-right: 1em;
     font-style:italic;
+    background: white;
 }
 
 .footer-fix {
@@ -258,6 +263,13 @@ h3 {
 .inline-block {
     display: inline-block;
 }
+
+/*#disqus-anchor {
+    bottom: 0;
+    left: 0;
+    right: 0;
+    position: absolute;
+}*/
 
 /* ==========================================================================
    Desktop-only version
@@ -311,6 +323,13 @@ h3 {
     #center-content-column {
         width: 60%;
         padding: 0;
+    }
+
+    /*Footer*/
+
+    .page-footer {
+        padding-left: 0;
+        padding-right: 0s;
     }
 }
 

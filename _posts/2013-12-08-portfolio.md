@@ -20,8 +20,3 @@ alias: /portfolio.php
 <li><a href="service.php">Service</a></li>
 <br />
 </ul>
-
-
-
-
-<?php include 'footer.php'; ?>

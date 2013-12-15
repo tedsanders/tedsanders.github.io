@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Hello world
+description: Ted's first blog post!
+comments: true
 alias: /hello-world.php
 ---
 

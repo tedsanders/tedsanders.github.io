@@ -7,6 +7,9 @@ categories:
 tags:
 stars:
 alias: /sports-score-simulator.php
+comments: true
 ---
 
-<!--<script type='text/javascript' src='http://demonstrations.wolfram.com/javascript/embed.js' ></script><script type='text/javascript'>var demoObj = new DEMOEMBED(); demoObj.run('SportsScores', '', '545', '650');</script><div id='DEMO_SportsScores'><a class='demonstrationHyperlink' href='http://demonstrations.wolfram.com/SportsScores/' target='_blank'>Sports Scores</a> from the <a class='demonstrationHyperlink' href='http://demonstrations.wolfram.com/' target='_blank'>Wolfram Demonstrations Project</a> by Ted Sanders</div>-->
+Um, my interactive javascript plot is not being parsed correctly Maruku, my markdown interpreter. See it <a href="http://demonstrations.wolfram.com/SportsScores/">here</a> for now.
+
+<!--<script type='text/javascript' src='http://demonstrations.wolfram.com/javascript/embed.js' ></script><script type='text/javascript'>var demoObj = new DEMOEMBED(); demoObj.run('SportsScores', '', '545', '650');</script><div id='DEMO_SportsScores'><a class='demonstrationHyperlink' href='http://demonstrations.wolfram.com/SportsScores/' target='_blank'>Sports Scores</a> from the <a class='demonstrationHyperlink' href='http://demonstrations.wolfram.com/' target='_blank'>Wolfram Demonstrations Project</a> by Ted Sanders</div><br />-->
