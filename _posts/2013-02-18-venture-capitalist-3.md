@@ -15,20 +15,19 @@ comments: true
 
 <p class="text-left">
 Kiva's robots grab packages in Amazon warehouses:
-<iframe width="640" height="360" src="http://www.youtube.com/embed/6KRjuuEVEZs#t=0m21s" frameborder="0" allowfullscreen="allowfullscreen">
-</iframe>
+<iframe width="640" height="360" src="http://www.youtube.com/embed/6KRjuuEVEZs#t=0m21s" frameborder="0" allowfullscreen="allowfullscreen">a</iframe>
 </p>
 <p class="text-left">
 ABB's speedy PickMaster robot is used especially for food sorting (the video is Japanese, but ABB is actually Swiss)
-<iframe width="640" height="360" src="http://www.youtube.com/embed/er9cdeX9gLc#t=0m4s" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe width="640" height="360" src="http://www.youtube.com/embed/er9cdeX9gLc#t=0m4s" frameborder="0" allowfullscreen="allowfullscreen">a</iframe>
 </p>
 <p class="text-left">
 Watch robot arms in action at BMW's Munich plant:
-<iframe width="640" height="480" src="http://www.youtube.com/embed/iFKbpbe_9pw#t=0m11s" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe width="640" height="480" src="http://www.youtube.com/embed/iFKbpbe_9pw#t=0m11s" frameborder="0" allowfullscreen="allowfullscreen">a</iframe>
 </p>
 <p class="text-left">
 Robot arm positioning is accurate down to hundredths of a millimeter:
-<iframe width="640" height="360" src="http://www.youtube.com/embed/SOESSCXGhFo" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe width="640" height="360" src="http://www.youtube.com/embed/SOESSCXGhFo" frameborder="0" allowfullscreen="allowfullscreen">a</iframe>
 </p>
 
 <p>If robots can already do this, what will they do next?</p>
@@ -60,7 +59,7 @@ Robot arm positioning is accurate down to hundredths of a millimeter:
 
 
 <p>Here's a video of an autonomous car trying to park:</p>
-<p><iframe width="640" height="480" src="http://www.youtube.com/embed/RY93kr8PaC4" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p><iframe width="640" height="480" src="http://www.youtube.com/embed/RY93kr8PaC4" frameborder="0" allowfullscreen="allowfullscreen">a</iframe></p>
 
 
 
@@ -77,4 +76,4 @@ Robot arm positioning is accurate down to hundredths of a millimeter:
 
 <br />
 
-<p>Coming soon or sometime: Part 4, companies that increase labor efficiency</p>
+<p>Coming sometime: Part 4, companies that increase labor efficiency</p>
