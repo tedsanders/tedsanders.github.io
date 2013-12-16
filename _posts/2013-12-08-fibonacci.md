@@ -1,6 +1,7 @@
 ---
 layout: default
 title: The Fibonacci Sequence
+description: The Fibonacci sequence is amazing. Literally.
 subtitle:
 categories:
 tags:
