@@ -8,7 +8,7 @@ comments: true
 
 Fun facts about the economics of computers.
 
-* In principle, a computer can use zero energy. However, if a computer erases information (ejects information might be a more accurate term), that should cost kT*log(2) on average. This is about 100,000 less than the energy used today.
+* In principle, a computer can use zero energy. However, if a computer erases information (ejects information might be a more accurate term), that should cost kT log(2) on average. This is about 100,000 less than the energy used today.
 
 * Moore's law will end, and it may be ending already. Historically, making transistors smaller made them faster, cheaper, and use less power. But since 2003, they haven't gotten any faster. And today we're at the point where they aren't getting cheaper. The savings that come from fitting more transistors on a wafer and finally being eaten by the costs of higher resolution lithography. EUV (extreme ultraviolet, also known as x-ray) lithography planned for the next process nodes, but it's still too expensive. Alternative to EUV are parallel e-beam (which has problems going fast because of space charge and data transfer limits) and also sideways transistors (which require extreme etch control).
 
