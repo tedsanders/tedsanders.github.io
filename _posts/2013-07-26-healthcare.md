@@ -2,7 +2,9 @@
 layout: default
 title: Healthcare
 subtitle: The two studies that everyone should know
+description: Ted talks healthcare.
 alias: /healthcare.php
+comments: true
 ---
 
 <p>Question: How does healthcare affect health?</p>

@@ -2,7 +2,9 @@
 layout: default
 title: If I were a venture capitalist, what bets would I place on the future?
 subtitle: Part 3&#58; Companies that replace labor with capital
+description: Manufacturing robots, robot chefs, robots robots robots.
 alias: /venture-capitalist-3.php
+comments: true
 ---
 
 <p>(Read <a href="/venture-capitalist-1/">Part 1</a> and <a href="/venture-capitalist-2/">Part 2</a> first.)</p> 

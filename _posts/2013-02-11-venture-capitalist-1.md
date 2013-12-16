@@ -3,6 +3,8 @@ layout: default
 title: If I were a venture capitalist, what bets would I place on the future?
 subtitle: Part 1&#58; The Three Industrial Revolutions
 alias: /venture-capitalist-1.php
+description: Ted talks about technology and the future.
+comments: true
 ---
 
 <p>Economist Robert Gordon made waves a few months ago when he published a controversial paper titled &ldquo;<a href="http://www.nber.org/papers/w18315.pdf">Is U.S. Economic Growth Over? Faltering Innovation Confronts the Six Headwinds</a>.&rdquo; Its central argument states that most of humanity's economic growth has come from three industrial revolutions:</p>
