@@ -7,6 +7,7 @@ categories:
 tags:
 stars:
 alias: /teaching-bridge.php
+hide: true
 ---
 
 

@@ -8,6 +8,7 @@ tags:
 stars:
 alias: /sports-score-simulator.php
 comments: true
+hide: true
 ---
 
 Um, my interactive javascript plot is not being parsed correctly Maruku, my markdown interpreter. See it <a href="http://demonstrations.wolfram.com/SportsScores/">here</a> for now.

@@ -7,6 +7,7 @@ categories:
 tags:
 stars:
 alias: /portfolio.php
+hide: true
 ---
 <img id="tedshot" src="/img/tedshot.jpg" height="260" width="215" alt="tedshot" />
 
