@@ -264,6 +264,10 @@ h3 {
     display: inline-block;
 }
 
+#tedshot {
+    float: right;
+}
+
 /*#disqus-anchor {
     bottom: 0;
     left: 0;

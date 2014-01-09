@@ -1,10 +1,13 @@
 ---
 layout: default
-description:
-title:
+description: blank
+title: Blank
 subtitle:
 categories:
 tags:
 stars:
-comments:
+hide: true
+comments: true
 ---
+
+Blank

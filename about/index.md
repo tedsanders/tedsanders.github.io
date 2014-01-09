@@ -5,6 +5,8 @@ description: Who is Ted Sanders?
 alias: /about.php
 ---
 
+<img id="tedshot" src="/img/tedshot.jpg" height="260" width="215" alt="tedshot" />
+
 <p>I am earning a PhD in Applied Physics at Stanford University.</p>
 
 <p>For more web goodness from the Sanders gene pool, visit <a href="http://hillarysanders.com/">hillarysanders.com</a> or <a href="http://www.kfc.com/">KFC.com</a>.</p>

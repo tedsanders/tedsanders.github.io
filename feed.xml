@@ -11,7 +11,7 @@
                 {% if post.hide != true %}
                         <item>
                                 <title>{{ post.title }}</title>
-                                <description>Description goes here</description>
+                                <description>{{ post.content }}</description>
                                 <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
                                 <link>{{ site.url }}{{ page.url | remove: 'index.html' }}</link>
                                 <guid isPermaLink="true">{{ site.url }}{{ page.url | remove: 'index.html' }}</guid>
