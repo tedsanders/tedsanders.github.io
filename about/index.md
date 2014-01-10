@@ -9,7 +9,7 @@ alias: /about.php
 
 <p>I am earning a PhD in Applied Physics at Stanford University.</p>
 
-<p>For more web goodness from the Sanders gene pool, visit <a href="http://hillarysanders.com/">hillarysanders.com</a> or <a href="http://www.kfc.com/">KFC.com</a>.</p>
+<p class="text-left">For more web goodness from the Sanders gene pool, visit <a href="http://hillarysanders.com/">hillarysanders.com</a> or <a href="http://www.kfc.com/">KFC.com</a>.</p>
 
 <p>You can also find me on:</p>
 

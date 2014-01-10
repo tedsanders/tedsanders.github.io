@@ -142,10 +142,6 @@ a:visited {
 	color: #0b0080; /*wikpedia color*/
 }
 
-p {
-	text-align:justify;
-}
-
 h1 {
 	font-size: 2em;
     font-family: serif;
@@ -282,6 +278,10 @@ h3 {
 
 /*desktop style*/
 @media all and (min-width: 56em) {
+
+    p {
+        text-align:justify;
+    }
 
     /*LEFT NAVIGATION SIDEBAR*/
     #tedsanders {
