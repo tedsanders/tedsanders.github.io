@@ -8,15 +8,15 @@
         <meta name="description" content=" LAO/STO. Why this materials pair is taking the condensed matter physics field by storm. |  The impersonal website of Ted Sanders.">
         <meta name="author" content="Ted Sanders"/>
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="alternate" type="application/rss+xml" title="RSS Feed" href="http://www.tedsanders.com/feed.xml" />
+        <link rel="alternate" type="application/rss+xml" title="RSS Feed" href="http://localhost:4000/feed.xml" />
 
-        <link rel="stylesheet" href="http://www.tedsanders.com/css/normalize.css">
-        <link rel="stylesheet" href="http://www.tedsanders.com/css/main-2013-12-15.css">
+        <link rel="stylesheet" href="http://localhost:4000/css/normalize.css">
+        <link rel="stylesheet" href="http://localhost:4000/css/main-2014-01-08.css">
         
-        <link rel="alternate stylesheet" href="http://www.tedsanders.com/css/3D.css" title="3D">
-        <link rel="alternate stylesheet" href="http://www.tedsanders.com/css/rainbow.css" title="rainbow">
-        <link rel="alternate stylesheet" href="http://www.tedsanders.com/css/dark.css" title="dark">
-        <link rel="alternate stylesheet" href="http://www.tedsanders.com/css/disco.css" title="disco">
+        <link rel="alternate stylesheet" href="http://localhost:4000/css/3D.css" title="3D">
+        <link rel="alternate stylesheet" href="http://localhost:4000/css/rainbow.css" title="rainbow">
+        <link rel="alternate stylesheet" href="http://localhost:4000/css/dark.css" title="dark">
+        <link rel="alternate stylesheet" href="http://localhost:4000/css/disco.css" title="disco">
 
         <script src="js/vendor/modernizr-2.7.0.min.js"></script>
     </head>
@@ -30,10 +30,11 @@
         <div id="left-navigation-sidebar">
             <nav role="navigation">
                 <ul>
-                    <li id="tedsanders"><a href="http://www.tedsanders.com/">Ted Sanders</a></li>
-                    <li><a href="http://www.tedsanders.com/about">About</a></li>
-                    <li><a href="http://www.tedsanders.com/blog">Blog</a></li>
-                    <li><a href="http://www.tedsanders.com/reviews">Reviews</a></li>
+                    <li id="tedsanders"><a href="http://localhost:4000/">Ted Sanders</a></li>
+                    <li><a href="http://localhost:4000/about">About</a></li>
+                    <li><a href="http://localhost:4000/blog">Blog</a></li>
+                    <li><a href="http://localhost:4000/reviews">Reviews</a></li>
+                    <li><a href="http://localhost:4000/graphs">Graphs</a></li>
                 </ul>
             </nav>
             
@@ -45,15 +46,15 @@
             <!-- Bling bling. Bling bling. Bling bling. We're sorry, "TED SANDERS" is not available. Please leave a message after the beep. BEEP! -->
             <ul>
                 <!-- Luke, join the light side! Together we shall meaninglessly participate in the gridlocked democracy of the galaxy! -->
-                <li><span onClick="setActiveStyleSheet('light'); return false;"><img src="http://www.tedsanders.com/img/light.png" alt="Luke, join the light side! Together we shall meaninglessly participate in the gridlocked democracy of the galaxy!" width="32" height="32"></span></li>
+                <li><span onClick="setActiveStyleSheet('light'); return false;"><img src="http://localhost:4000/img/light.png" alt="Luke, join the light side! Together we shall meaninglessly participate in the gridlocked democracy of the galaxy!" width="32" height="32"></span></li>
                 <!-- Luke, join the dark side! Together we shall rule the galaxy! -->
-                <li><span onClick="setActiveStyleSheet('dark'); return false;"><img src="http://www.tedsanders.com/img/dark.png" alt="Luke, join the dark side! Together we shall rule the galaxy!" width="32" height="32"></span></li>
+                <li><span onClick="setActiveStyleSheet('dark'); return false;"><img src="http://localhost:4000/img/dark.png" alt="Luke, join the dark side! Together we shall rule the galaxy!" width="32" height="32"></span></li>
                 <!-- THREE DEE PHONE HOME -->
                 <li><span onClick="setActiveStyleSheet('3D'); return false;"><img src="http://cdn1.iconfinder.com/data/icons/fatcow/32x32/3d_glasses.png" alt="Luke, join the third dimension! Together we shall see the depth of the galaxy!" width="32" height="32"></span></li>
                 <!-- RAINBOW ROAD -->
-                <li><span onClick="setActiveStyleSheet('rainbow'); return false;"><img src="http://www.tedsanders.com/img/rainboated.png" alt="Luke, join the colorful side! Together we shall match with the galaxy!" width="32" height="32"></span></li>
+                <li><span onClick="setActiveStyleSheet('rainbow'); return false;"><img src="http://localhost:4000/img/rainboated.png" alt="Luke, join the colorful side! Together we shall match with the galaxy!" width="32" height="32"></span></li>
                 <!-- DISCO DANCE -->
-                <li><span onClick="setActiveStyleSheet('disco'); return false;"><img src="http://www.tedsanders.com/img/disco.png" alt="Luke, join the disco side! Together we shall dance with the galaxy!" width="32" height="32"></span></li>
+                <li><span onClick="setActiveStyleSheet('disco'); return false;"><img src="http://localhost:4000/img/disco.png" alt="Luke, join the disco side! Together we shall dance with the galaxy!" width="32" height="32"></span></li>
             </ul>
             <audio src="http://hillarysanders.com/music/firestorm.mp3" controls loop preload="none" class="invisible discovisible"><p>"Your computer does not support my totally rad HTML5 audio player. LAME!"</p></audio>
 
@@ -108,13 +109,18 @@
           m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
           })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-          ga('create', 'UA-20709002-1', 'www.tedsanders.com');
+          ga('create', 'UA-20709002-1', 'tedsanders.com');
           ga('send', 'pageview');
 
         </script>
 
+        <!-- D3 does not support 3D, ironically. -->
+        
+        <script src="http://localhost:4000/js/d3.js"></script>
+        
+
         <!-- Style switcher -->
-        <script src="http://www.tedsanders.com/js/styleswitcher.js"></script>
+        <script src="http://localhost:4000/js/styleswitcher.js"></script>
 
         <!-- Disqus Comments JavaScript -->
         

@@ -11,7 +11,7 @@ hide: true
 ---
 <img id="tedshot" src="/img/tedshot.jpg" height="260" width="215" alt="tedshot" />
 
-<p>Welcome to my portfolio, the highlight reel of my scientific career (fortunately, the much longer blooper reel has been misplaced).</p>
+<p>Welcome to my portfolio, the highlight reel of my scientific career (fortunately, the much longer blooper reel has been misplaced). This portfolio was created in Spring 2013 as part of Stanford's pilot Portfolio to Professoriate (P2P) program.</p>
 
 
 <ul>

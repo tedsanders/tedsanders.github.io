@@ -5,8 +5,7 @@ description: Ted reviews things.
 ---
 
 <ul class="no-bullets">
-  {% for post in site.posts %}
-    {% if post.stars %}
+  {% for post in site.categories.reviews %}
     <li>
     	<div class="clearfix">
 	    	<a class="align-left" href="{{ post.url }}">{{ post.title }}</a>
@@ -20,6 +19,5 @@ description: Ted reviews things.
 	    	<span class="align-right date"><time datetime="{{post.date|date:"%F"}}">{{post.date|date:"%d %b %Y"}}</time></span>
     	</div>
     </li>
-    {% endif %}
   {% endfor %}
 </ul>

@@ -20,68 +20,62 @@
     
     
     
-    
-    
-    
-    
-    
-    
     <url>
-        <loc>http://www.tedsanders.com/healthcare</loc>
+        <loc>http://localhost:4000/healthcare</loc>
     </url>
     
     
     
     <url>
-        <loc>http://www.tedsanders.com/tax-tips-for-phd-students</loc>
+        <loc>http://localhost:4000/tax-tips-for-phd-students</loc>
     </url>
     
     
     
     <url>
-        <loc>http://www.tedsanders.com/nate-silver</loc>
+        <loc>http://localhost:4000/nate-silver</loc>
     </url>
     
     
     
     <url>
-        <loc>http://www.tedsanders.com/venture-capitalist-3</loc>
+        <loc>http://localhost:4000/venture-capitalist-3</loc>
     </url>
     
     
     
     <url>
-        <loc>http://www.tedsanders.com/venture-capitalist-2</loc>
+        <loc>http://localhost:4000/venture-capitalist-2</loc>
     </url>
     
     
     
     <url>
-        <loc>http://www.tedsanders.com/venture-capitalist-1</loc>
+        <loc>http://localhost:4000/venture-capitalist-1</loc>
     </url>
     
     
     
     <url>
-        <loc>http://www.tedsanders.com/the-first-week-of-traffic</loc>
+        <loc>http://localhost:4000/the-first-week-of-traffic</loc>
     </url>
     
     
     
     <url>
-        <loc>http://www.tedsanders.com/roth-ira</loc>
+        <loc>http://localhost:4000/roth-ira</loc>
     </url>
     
     
     
     <url>
-        <loc>http://www.tedsanders.com/the-is-ought-problem</loc>
+        <loc>http://localhost:4000/the-is-ought-problem</loc>
     </url>
     
     
     
     <url>
-        <loc>http://www.tedsanders.com/hello-world</loc>
+        <loc>http://localhost:4000/hello-world</loc>
     </url>
     
     
@@ -89,33 +83,19 @@
     
     
     <url>
-        <loc>http://www.tedsanders.com/404.html</loc>
+        <loc>http://localhost:4000/404.html</loc>
     </url>
     
     
     
     <url>
-        <loc>http://www.tedsanders.com/about/</loc>
+        <loc>http://localhost:4000/about/</loc>
     </url>
     
     
     
     <url>
-        <loc>http://www.tedsanders.com/blog/</loc>
-    </url>
-    
-    
-    
-    
-    
-    <url>
-        <loc>http://www.tedsanders.com/</loc>
-    </url>
-    
-    
-    
-    <url>
-        <loc>http://www.tedsanders.com/reviews/</loc>
+        <loc>http://localhost:4000/blog/</loc>
     </url>
     
     
@@ -123,7 +103,27 @@
     
     
     <url>
-        <loc>http://www.tedsanders.com/will/</loc>
+        <loc>http://localhost:4000/graphs/</loc>
+    </url>
+    
+    
+    
+    <url>
+        <loc>http://localhost:4000/</loc>
+    </url>
+    
+    
+    
+    <url>
+        <loc>http://localhost:4000/reviews/</loc>
+    </url>
+    
+    
+    
+    
+    
+    <url>
+        <loc>http://localhost:4000/will/</loc>
     </url>
     
     

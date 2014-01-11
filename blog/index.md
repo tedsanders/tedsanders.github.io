@@ -7,7 +7,7 @@ alias: /blog.php
 
 <ul class="no-bullets">
   {% for post in site.posts %}
-    {% if post.stars == nil %}
+    {% if post.categories == nil %}
     {% if post.hide != true %}
     <li>
     	<div class="clearfix">
