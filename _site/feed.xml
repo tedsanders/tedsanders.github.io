@@ -3,8 +3,8 @@
         <channel>
                 <title>Ted Sanders</title>
                 <description>The impersonal website of Ted Sanders.</description>
-                <link>http://localhost:4000</link>
-                <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+                <link>http://127.0.0.1:4000</link>
+                <atom:link href="http://127.0.0.1:4000/feed.xml" rel="self" type="application/rss+xml" />
                 
                 
                 
@@ -56,8 +56,8 @@
 <li><a href='http://www.thedailybeast.com/articles/2013/05/13/how-not-to-cherry-pick-the-results-of-the-oregon-study-ultrawonkish.html'>How Not to Cherry-Pick the Results of the Oregon Study by Jim Manzi</a></li>
 </ul><h3>Epilogue</h3><p>It's truly bizarre how nonreceptive the healthcare debate is to data. Some senators argue we should have more healthcare, some senators argue we should have less. But none argue that we should test our discordant beliefs by funding another $50 million RAND study ($50 million is miniscule compared to the $2,000,000 million the US spends on healthcare each year).</p><p>One silly way to break Washington gridlock could be to pass laws conditional on future empirical studies. E.g., pass a healthcare bill that runs a study on the effects of healthcare, and then depending on the outcome of the study, automatically boosts or cuts spending. Healthcare supporters, who believe the study will reveal the benefits of healthcare, should vote aye while healthcare detractors, who believe the study will reveal the non-benefits of healthcare, should also vote aye. Ah, to dream of a world with laws based on data... (or even just to dream of a world where Congress passes laws...)</p></description>
                                 <pubDate>Fri, 26 Jul 2013 00:00:00 -0700</pubDate>
-                                <link>http://localhost:4000/feed.xml</link>
-                                <guid isPermaLink="true">http://localhost:4000/feed.xml</guid>
+                                <link>http://127.0.0.1:4000/feed.xml</link>
+                                <guid isPermaLink="true">http://127.0.0.1:4000/feed.xml</guid>
                         </item>
                 
                 
@@ -112,8 +112,8 @@
 
 </ul></description>
                                 <pubDate>Fri, 15 Mar 2013 00:00:00 -0700</pubDate>
-                                <link>http://localhost:4000/feed.xml</link>
-                                <guid isPermaLink="true">http://localhost:4000/feed.xml</guid>
+                                <link>http://127.0.0.1:4000/feed.xml</link>
+                                <guid isPermaLink="true">http://127.0.0.1:4000/feed.xml</guid>
                         </item>
                 
                 
@@ -126,24 +126,24 @@
 </p><p>It turns out that there is a beautifully simple method for calculating how new evidence should affect old beliefs (like how a coin landing heads should affect your belief of whos right). Here's how it works:
 </p><p>To visualize the probabilities better, let's imagine that we live in 100 possible universes.
 </p><figure>
-<img src='http://localhost:4000/img/universes100.gif' />
+<img src='http://127.0.0.1:4000/img/universes100.gif' />
 </figure><p>Before the flip, let's suppose we trusted each man equally. In other words, in 50 possible universes Mr Blue was right and in the other 50 possible universes Mr Red was right.
 </p><figure>
-<img src='http://localhost:4000/img/universes50-50.gif' />
+<img src='http://127.0.0.1:4000/img/universes50-50.gif' />
 </figure><p>Now, in the universes where Mr Blue is right, the coin will land heads 90% of the time. But in the universes where Mr Red is right, the coin will land heads only 50% of the time.
 </p><figure>
-<img src='http://localhost:4000/img/universes-45-5-25-25.gif' />
+<img src='http://127.0.0.1:4000/img/universes-45-5-25-25.gif' />
 </figure><p>Before we flip the coin, we expect to find ourselves in any of these 100 possible universes with equal likelihood. But what about after the coin flip?
 </p><p>After the coin flips heads, it's time to update our beliefs. Now we know our universe cannot be one in which tails was flipped, narrowing down the number of possible universes to 70. Of these 70 universes remaining, we see Mr Blue is right in 45 of them while Mr Red is right in 25 of them.
 </p><figure>
-<img src='http://localhost:4000/img/universes45-25.gif' />
+<img src='http://127.0.0.1:4000/img/universes45-25.gif' />
 </figure><p>Before the coin flip, we believed each man equally. That is, we thought Mr Blue had a 50% chance of being right and we thought Mr Red had a 50% chance of being right. However, after the coin flip, we should believe Mr Blue has a 45/70 (64%) chance of being right while Mr Red only has a 25/70 (36%) chance of being right.
 </p><p>The coin flip increased our confidence in Mr Blue by only 14 <a href='http://xkcd.com/985/'>percentage points</a>!
 </p><p>So what does any of this have to do with Nate Silver and title of this post?</p><p>Some time before the 2012 US Presidential Election, Nate Silver's forecast model showed that Obama had a 90% chance of winning the election. At the time, people like David Brooks, Joe Scarborough, and others argued that the election was still a 50/50 toss up.</p><p>When Obama eventually won, many people in the media believed that the outcome vindicated Nate Silver's high degree of confidence and his polling model. But in doing so, they are ignoring the mathematical approach that Nate Silver preaches. The single data point of Obama's victory should only boost our belief in Nate Silver by a modest amount.
 </p><p>By itself, an Obama victory is not enough to prove the model right, and in fact a Romney victory (which Nate Silver predicted would happen with 10% confidence) would not have been enough to prove the model wrong either.</p><p>My point is not that Nate Silver's model is bad or that we shouldn't trust him (in fact, I think his model is great and there are many reasons to trust him). Rather, my point is that we shouldn't judge the success or failure of a model on limited, noisy data. The right way to judge a probabilistic model is to ask whether it makes sense, not whether it matches a few data points.</p></description>
                                 <pubDate>Sat, 09 Mar 2013 00:00:00 -0800</pubDate>
-                                <link>http://localhost:4000/feed.xml</link>
-                                <guid isPermaLink="true">http://localhost:4000/feed.xml</guid>
+                                <link>http://127.0.0.1:4000/feed.xml</link>
+                                <guid isPermaLink="true">http://127.0.0.1:4000/feed.xml</guid>
                         </item>
                 
                 
@@ -169,15 +169,15 @@ Robot arm positioning is accurate down to hundredths of a millimeter:
 <li>Bartending <a href='http://www.youtube.com/watch?feature=player_embedded&amp;v=7KRxHKaR2jo#'>robots</a> (1 video)</li>
 </ul><br /><h3>Robot Cashiers</h3><p>Self-checkout machines are already showing up at supermarkets and Jacks in the Boxes and other retailers. Admittedly, some self-checkout machines are terrible (e.g., &ldquo;unexpected item in the bagging area&rdquo;). However, as costs fall and designs improve, these <a href='http://www.youtube.com/watch?v=AhkP0RWQ68w'>robot cashiers</a> will become commonplace. They save the store money and space, and the save the consumer time wasted in lines. Technology like RFID tags, which cost as little as three cents and have already obviated the need for lines at tollbridges, may soon eliminate grocery lines altogether.</p><h3>Robot Drivers</h3><p>I don't know much about these, but smart people seem to think they're viable. And smart people in herds are never wrong.</p><p>Here's a video of an autonomous car trying to park:</p><p><iframe allowfullscreen='allowfullscreen' frameborder='0' height='480' src='http://www.youtube.com/embed/RY93kr8PaC4' width='640'>a</iframe></p><h3>Adaptable Robots</h3><p>A big barrier to widespread use of robots is the need to custom design or custom program them for each job. Specialization and programming are expensive. Multipurpose robots that can be trained by regular people with no programming experience is a huge opportunity that may pave the way for widespread adoption of robot labor. The robotics industry is already working on this, and if they succeed, it could be a game changer.</p><p>The biggest advantage that human labor has over machine labor is adaptability. Ironically, if technological innovation stagnates, the premium for adaptability will shrink, and we may see far more companies making long-term investments in mechanical labor.</p><br /><p>Coming sometime: Part 4, companies that increase labor efficiency</p></description>
                                 <pubDate>Mon, 18 Feb 2013 00:00:00 -0800</pubDate>
-                                <link>http://localhost:4000/feed.xml</link>
-                                <guid isPermaLink="true">http://localhost:4000/feed.xml</guid>
+                                <link>http://127.0.0.1:4000/feed.xml</link>
+                                <guid isPermaLink="true">http://127.0.0.1:4000/feed.xml</guid>
                         </item>
                 
                 
                 
                         <item>
                                 <title>If I were a venture capitalist, what bets would I place on the future?</title>
-                                <description><p>(Read Part 1 <a href='http://localhost:4000/venture-capitalist-1/'>here</a>.)</p><p>Most of the day, your car is empty. Your kitchen is empty. Your camera isn't taking photos. Your computer's CPU is idling. Your utility's power plants and power lines are well below capacity. THESE ARE MASSIVE INEFFICIENCIES THAT SHOULD APPALL YOUR INNER ECONOMIST. Coordinating more efficient use of these high-fixed-cost-and-low-utilization resources is a market opportunity worth trillions of dollars.</p><p>Of course, this great inefficiency is all by design. When you buy a car, part of what you pay for is the option value. Not only are you paying for the transportation, you are paying for the guarantee that transportation will be available when you need it. Option value is why it makes sense to buy something that spends most of its life doing nothing.</p><p>However, digital technology is enabling new ways of coordinating resources that have never been feasible in the past. Through schemes like variable pricing, online scheduling, and peer-to-peer business transactions it is now easier than ever before to share things without sacrificing the reliability or option value traditionally associated with ownership. That is the main idea behind the companies in this category.</p><p>Below are business ideas (most of which are already companies) that I predict will grow over the next few decades. They all succeed by using digital technology to coordinate the sharing of high-fixed-cost capital goods.</p><ul>
+                                <description><p>(Read Part 1 <a href='http://127.0.0.1:4000/venture-capitalist-1/'>here</a>.)</p><p>Most of the day, your car is empty. Your kitchen is empty. Your camera isn't taking photos. Your computer's CPU is idling. Your utility's power plants and power lines are well below capacity. THESE ARE MASSIVE INEFFICIENCIES THAT SHOULD APPALL YOUR INNER ECONOMIST. Coordinating more efficient use of these high-fixed-cost-and-low-utilization resources is a market opportunity worth trillions of dollars.</p><p>Of course, this great inefficiency is all by design. When you buy a car, part of what you pay for is the option value. Not only are you paying for the transportation, you are paying for the guarantee that transportation will be available when you need it. Option value is why it makes sense to buy something that spends most of its life doing nothing.</p><p>However, digital technology is enabling new ways of coordinating resources that have never been feasible in the past. Through schemes like variable pricing, online scheduling, and peer-to-peer business transactions it is now easier than ever before to share things without sacrificing the reliability or option value traditionally associated with ownership. That is the main idea behind the companies in this category.</p><p>Below are business ideas (most of which are already companies) that I predict will grow over the next few decades. They all succeed by using digital technology to coordinate the sharing of high-fixed-cost capital goods.</p><ul>
 <li><a href='http://members.zipcar.com/apply?promo_code=mbhxrrit'>Car</a> <a href='http://www.wheelz.com/'>rental</a> <a href='http://www.getaround.com/'>services</a>, <a href='https://relayrides.com/'>car</a> <a href='http://www.lyft.me/'>sharing</a> <a href='http://www.side.cr/'>services</a>, <a href='http://sfbay.craigslist.org/rid/'>carpooling</a> <a href='http://www.zimride.com/'>services</a>, <a href='https://www.uber.com/'>taxi services</a></li>
 <li><a href='http://www.smartgrid.gov/the_smart_grid'>Smart grid</a>, <a href='http://en.wikipedia.org/wiki/Advanced_Metering_Infrastructure#Advanced_metering_infrastructure'>smart meters</a>, <a href='http://www.geappliances.com/home-energy-manager/appliance-energy-consumption.htm'>smart appliances</a> that dynamically manage electrical load </li>
 <li><a href='http://sfpark.org/how-it-works/'>Parking meters</a> that charge variable prices <a href='http://www.amazon.com/gp/product/193236496X/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=193236496X&amp;linkCode=as2&amp;tag=tedsanderscom-20'>depending on demand</a></li>
@@ -188,8 +188,8 @@ Robot arm positioning is accurate down to hundredths of a millimeter:
 <li>Apartment buildings with <a href='http://en.wikipedia.org/wiki/Communal_apartment'>community</a> kitchens/TVs/etc. </li>
 </ul><p>One question a venture capitalist faces is whether to invest in early stage or late stage start ups. Another question is whether to make small investments or large investments. In this category, all things being equal, I'd prefer large investments in late stage companies. Most of these companies, which help share pooled resources, benefit from economies of scale. The bigger they are, the better they'll do.</p><p>[To see why these companies have economies of scale, consider the following example. You are the CEO of ZipCar. You rent cars to a population 100 customers who each want a car some random 10% of the time. To meet average demand, your fleet will only need 10 cars (100 people * 10% of the time). But your customers don't just want access cars; they want <em>reliable</em> access to cars. For 99% reliability, if you do the math, your fleet will need 17 cars total: 10 for the baseline demand and 7 to buffer random spikes in demand.</p><p>The math changes as your customer base gets bigger. Now suppose you serve 1,000 customers. To achieve the same 99% reliability, you'll only need 121 cars: 100 baseline and 21 as the buffer. Here's the key point: the for 100 customers, the buffer was 70% of the baseline fleet, but for 1,000 customers, the buffer was 21% of the baseline fleet. This is the law of large numbers - as your population gets larger, the random fluctuations in demand partially self-cancel. This means that the companies with the most customers will spend a smaller percentage of their budget on excess capacity. The bigger your business, the more profitable it will become.]</p><p>Most of the business ideas above aren't new. What is new is that computers and the internet are making it easy to rent capital goods, especially from peers. Of course, there are big barriers to many of these ideas, especially some forms of <a href='http://opim.wharton.upenn.edu/~cachon/pdf/dpricingV1all.pdf'>dynamic pricing</a>; nonetheless, I am optimistic that efficiency will eventually win out. The potential is just too great.</p><p>Coming soon: Companies that replace labor with capital (the post, not the companies. They came years ago).</p><p>Read Part 3 <a href='/venture-capitalist-3'>here</a>.</p></description>
                                 <pubDate>Wed, 13 Feb 2013 00:00:00 -0800</pubDate>
-                                <link>http://localhost:4000/feed.xml</link>
-                                <guid isPermaLink="true">http://localhost:4000/feed.xml</guid>
+                                <link>http://127.0.0.1:4000/feed.xml</link>
+                                <guid isPermaLink="true">http://127.0.0.1:4000/feed.xml</guid>
                         </item>
                 
                 
@@ -209,8 +209,8 @@ Robot arm positioning is accurate down to hundredths of a millimeter:
 <li>Miscellaneous speculative technologies</li>
 </ul><p>Over the coming week, I will write a post for each category and the compelling businesses it contains.</p><p>Read Part 2 <a href='/venture-capitalist-2'>here</a>.</p></description>
                                 <pubDate>Mon, 11 Feb 2013 00:00:00 -0800</pubDate>
-                                <link>http://localhost:4000/feed.xml</link>
-                                <guid isPermaLink="true">http://localhost:4000/feed.xml</guid>
+                                <link>http://127.0.0.1:4000/feed.xml</link>
+                                <guid isPermaLink="true">http://127.0.0.1:4000/feed.xml</guid>
                         </item>
                 
                 
@@ -218,39 +218,39 @@ Robot arm positioning is accurate down to hundredths of a millimeter:
                         <item>
                                 <title>The first week of traffic</title>
                                 <description><p>Below is some interesting demographic information from the 208 of you who have visited the blog so far:</p><h3>By Country</h3><figure>
-<img src='http://localhost:4000/img/traffic-by-country.png' />
+<img src='http://127.0.0.1:4000/img/traffic-by-country.png' />
 <figcaption>
 This blog has a slightly international readership with hits coming from the UK, Canada, Germany, France, India, Japan, and the very-hard-to-believe Turks and Caicos Islands. Curiously, the hit from Japan was from someone googling "Ted Sanders" in Japanese.
 </figcaption>
 </figure><h3>By State</h3><figure>
-<img src='http://localhost:4000/img/traffic-map-of-the-usa.png' />
+<img src='http://127.0.0.1:4000/img/traffic-map-of-the-usa.png' />
 <figcaption>
 Looking at the US alone, my readership extends as far west as Hawaii and as far east as Massachusetts, with big voids in the Rockies and the South. 18 states down, 32 to go.
 </figcaption>
 </figure><figure>
-<img src='http://localhost:4000/img/traffic-by-state.png' />
+<img src='http://127.0.0.1:4000/img/traffic-by-state.png' />
 <figcaption>
 Unsurprisingly, most readers are concentrated in California and Oregon, the only two states I've lived in.
 </figcaption>
 </figure><h3>By City</h3><figure>
-<img src='http://localhost:4000/img/traffic-by-city.png' />
+<img src='http://127.0.0.1:4000/img/traffic-by-city.png' />
 <figcaption>
 With only two unique visitors, Los Angeles doesn't make the top ten, but I think that's because the LA metro area is divided into so many small cities.
 </figcaption>
 </figure><h3>By Operating System</h3><figure>
-<img src='http://localhost:4000/img/traffic-by-OS.png' />
+<img src='http://127.0.0.1:4000/img/traffic-by-OS.png' />
 <figcaption>
 As always, Windows wins. The iOS hits are from 18 iPhones and 7 iPads.
 </figcaption>
 </figure><h3>By Browser</h3><figure>
-<img src='http://localhost:4000/img/traffic-by-browser.png' />
+<img src='http://127.0.0.1:4000/img/traffic-by-browser.png' />
 <figcaption>
 Which of you is still using Internet Explorer? Whoever you are, please know that I forgive you.
 </figcaption>
 </figure><p>My roomates have pledged a $5 donation to our apartment jar if I can get hits from all 50 states, so if you'd like to contribute our next community purchase (likely a giant living room white board), please tell all of your Wyoming friends about this blog.</p></description>
                                 <pubDate>Sun, 03 Feb 2013 00:00:00 -0800</pubDate>
-                                <link>http://localhost:4000/feed.xml</link>
-                                <guid isPermaLink="true">http://localhost:4000/feed.xml</guid>
+                                <link>http://127.0.0.1:4000/feed.xml</link>
+                                <guid isPermaLink="true">http://127.0.0.1:4000/feed.xml</guid>
                         </item>
                 
                 
@@ -264,32 +264,32 @@ Which of you is still using Internet Explorer? Whoever you are, please know that
 <li>There is <strong>no penalty to withdraw early</strong> (though there is a penalty to withdraw <em>profits</em> early)</li>
 <li>The Roth IRA is such a great deal that you're limited to adding <strong>$5.5k per year</strong> (if you earn six figures a year (or zero), you might not be eligible at all)</li>
 <li>There is <strong>no inherent risk</strong> to a Roth IRA. The money can be invested in almost anything you want, such as stocks (risky) or regular savings accounts (not risky).</li>
-</ul><p>So why open a Roth IRA? What's so good about not paying capital gains tax?</p><p>If, from age 24 to 65, you invest $5k per year with a 5% return, you will <strong>save $100,000</strong> in taxes. <span class='tiny'>*assuming a 20% capital gains tax rate</span></p><figure><img src='http://localhost:4000/img/roth-ira.png' /></figure><p>(If you live past 65, you'll save even more.)</p><p>The capital gains tax is a tax on investment profits. In the plot above, the green curve is how your money grows without tax and the red curve is how your money grows with a 20% capital gains tax.</p><p>With different growth rates and tax rates the numerical details may change but the conclusion won't: the Roth IRA is a no-brainer way to save thousands on taxes. And there is almost no downside: remember, should you ever need the money early you can withdraw it without penalty.</p><p>If you do open a Roth IRA, you'll need to decide how to invest your money. I recommend choosing <strong>Vanguard's Target Retirement Index Funds</strong>.</p><p>Why index funds?</p><p>Index funds are the easiest, cheapest, and most diversified way to invest in the stock market. In essense, an index fund is a savings account that follows the stock market. If the stock market goes up, the index fund makes money. If the stock market goes down, the index fund loses money. Usually these swings are between -15% and +20% each year.</p><p>Even billionaire investor Warren Buffet <a href='http://www.youtube.com/watch?v=idr6c8NHuWs&amp;amp;list=PLEjYtacsM-X6uppgT_Zbd0bnmdzchFLe1&amp;amp;index=3'>says</a> that <a href='http://www.reuters.com/article/2007/05/07/berkshire-indexfunds-idUSN0628419820070507'>index funds are best</a> for individual investors; it's the expert and <a href='http://www.altruistfa.com/readingroomarticles.htm'>academic</a> consensus. (I plan to write a future post about index funds, so I'll say more then.)</p><p>Why Vanguard's Target Retirement Funds?</p><p>Vanguard is the biggest and cheapest provider of index funds. Their Target Retirement funds are especially easy to use. Vanguard Target Retirement funds automatically balance across US stocks/foreign stocks/bonds, and they automatically change the balance to be more conservative as you age. And they even do it cheaply, charging only 0.18% per year.</p><a name='open' /><p>Ok, great. How do you open one?</p><p>To open a Roth IRA with Vanguard, go <a href='https://personal.vanguard.com/us/openaccount?CompLocation=IRA_overview&amp;Component=OpenIRAOnlineRN&amp;acctType=NewAcct'>here</a>. The page should look like this:</p><ol>
-    <figure><img src='http://localhost:4000/img/vanguard1x600.png' /></figure>
+</ul><p>So why open a Roth IRA? What's so good about not paying capital gains tax?</p><p>If, from age 24 to 65, you invest $5k per year with a 5% return, you will <strong>save $100,000</strong> in taxes. <span class='tiny'>*assuming a 20% capital gains tax rate</span></p><figure><img src='http://127.0.0.1:4000/img/roth-ira.png' /></figure><p>(If you live past 65, you'll save even more.)</p><p>The capital gains tax is a tax on investment profits. In the plot above, the green curve is how your money grows without tax and the red curve is how your money grows with a 20% capital gains tax.</p><p>With different growth rates and tax rates the numerical details may change but the conclusion won't: the Roth IRA is a no-brainer way to save thousands on taxes. And there is almost no downside: remember, should you ever need the money early you can withdraw it without penalty.</p><p>If you do open a Roth IRA, you'll need to decide how to invest your money. I recommend choosing <strong>Vanguard's Target Retirement Index Funds</strong>.</p><p>Why index funds?</p><p>Index funds are the easiest, cheapest, and most diversified way to invest in the stock market. In essense, an index fund is a savings account that follows the stock market. If the stock market goes up, the index fund makes money. If the stock market goes down, the index fund loses money. Usually these swings are between -15% and +20% each year.</p><p>Even billionaire investor Warren Buffet <a href='http://www.youtube.com/watch?v=idr6c8NHuWs&amp;amp;list=PLEjYtacsM-X6uppgT_Zbd0bnmdzchFLe1&amp;amp;index=3'>says</a> that <a href='http://www.reuters.com/article/2007/05/07/berkshire-indexfunds-idUSN0628419820070507'>index funds are best</a> for individual investors; it's the expert and <a href='http://www.altruistfa.com/readingroomarticles.htm'>academic</a> consensus. (I plan to write a future post about index funds, so I'll say more then.)</p><p>Why Vanguard's Target Retirement Funds?</p><p>Vanguard is the biggest and cheapest provider of index funds. Their Target Retirement funds are especially easy to use. Vanguard Target Retirement funds automatically balance across US stocks/foreign stocks/bonds, and they automatically change the balance to be more conservative as you age. And they even do it cheaply, charging only 0.18% per year.</p><a name='open' /><p>Ok, great. How do you open one?</p><p>To open a Roth IRA with Vanguard, go <a href='https://personal.vanguard.com/us/openaccount?CompLocation=IRA_overview&amp;Component=OpenIRAOnlineRN&amp;acctType=NewAcct'>here</a>. The page should look like this:</p><ol>
+    <figure><img src='http://127.0.0.1:4000/img/vanguard1x600.png' /></figure>
     <figcaption>
     <li>Choose "Open a new account"</li>
     <li>Click START</li>
     </figcaption>
     
-    <figure><img src='http://localhost:4000/img/vanguard2x600.png' /></figure>
+    <figure><img src='http://127.0.0.1:4000/img/vanguard2x600.png' /></figure>
     <figcaption>
     <li>Choose "No" (assuming you don't already have an account)</li>
     <li>Click CONTINUE</li>
 	</figcaption>
     
-    <figure><img src='http://localhost:4000/img/vanguard3x600.png' /></figure>
+    <figure><img src='http://127.0.0.1:4000/img/vanguard3x600.png' /></figure>
     <figcaption>
     <li>Click CONTINUE</li>
     </figcaption>
         
-    <figure><img src='http://localhost:4000/img/vanguard4x600.png' /></figure>
+    <figure><img src='http://127.0.0.1:4000/img/vanguard4x600.png' /></figure>
     <figcaption>
     <li>Choose "Retirement"</li>
     <li>Choose "Roth IRA"</li>
     <li>Click CONTINUE</li>
     </figcaption>
         
-    <figure><img src='http://localhost:4000/img/vanguard5x600.png' /></figure>
+    <figure><img src='http://127.0.0.1:4000/img/vanguard5x600.png' /></figure>
     <figcaption>
     <li>Fill out your personal information</li>
     <li>Click CONTINUE</li>
@@ -307,8 +307,8 @@ Which of you is still using Internet Explorer? Whoever you are, please know that
 <li>Did I mention the $100,000?</li>
 </ul><p>Opening a Roth IRA is seriously a no-brainer (<em>if</em> you have savings and income). And the sooner you start, the bigger the benefit. So think about it, make a plan, and follow through. You'll be ahead of 90% of your friends.</p><p>[If you have any questions about this stuff, feel free to email me or gchat me or <a href='http://www.facebook.com/tedsanders'>Facebook me</a>. No tweets.]</p><p><h3>The epilogue:</h3></p><p>What about inflation?</p><p>Inflation, by itself, doesn't change the analysis much - in fact, it makes the case for the Roth IRA stronger because without one, you end up being taxed on phantom nominal gains. (Contribution limits are indexed to inflation so they are unaffected. The real growth of stock prices should also be unaffected by inflation, for the most part.)</p><p>What about Traditional IRAs?</p><p>There is also a type of IRA called a <a href='http://en.wikipedia.org/wiki/Traditional_IRA'>Traditional IRA</a>, which is often, but not always, worse than the Roth IRA. With the Traditional IRA, you pay income tax on the money you withdraw and you get to skip paying income tax on the money you contribute. If your tax rates are the same at age 25 and 75, then this makes little difference. But if you expect your tax rates today to be higher than in your retirement, a Traditional IRA may be a better deal. The Traditional IRA has some downsides, though. First, you must pay a penalty if you withdraw early (though there are some exceptions). Second, you are forced to start withdrawing money at age 70.5. Third, the effective contribution limit is lower. Even though Traditional and Roth IRAs have the same contribution limit, post-income-tax dollars go in the Roth IRA whereas pre-income-tax dollars go into the traditional IRA. Since post-income-tax dollars are worth more, the Roth IRA effetively has a higher contribution limit.</p><p>How much can I contribute exactly?</p><p>How much you can contribute depends on your income. If you make too little or too much, your limits may be different or you might not even be eligible at all. In tax year 2012, the Roth IRA contribution limit was $5,000. In 2013, it is $5,500. The limit is indexed to inflation and rounded to the nearest $500.</p><p>If you earn less income than the limit, you can only contribute as much as you earned that year. Make sure your income meets the IRS's definition of <a href='http://www.irs.gov/Individuals/What-is-Earned-Income%3F'>earned income</a>, which is not always intuitive. Regular salary and paychecks count, but some other types of income don't.</p><p>If you are (1) Single and earning above $112,000 in 2013 or (2) Married and jointly earning above $178,000 or (3) Married Filing Separately then you can't contribute up to the normal limits. There's a phase-out income range where you can contribute a fraction of the regular limit, and at income levels beyond that you cannot contribute at all. Google for more information if this applies to you.</p><p>Are the benefits of a Roth IRA guaranteed?</p><p>Because the government can change laws, the benefits are not guaranteed. It is possible that the government could rescind the benefit to boost its tax revenue. I think this is unlikely, but no one can accurately predict the future.</p><p>Other questions?</p><p>Google.</p></description>
                                 <pubDate>Sat, 02 Feb 2013 00:00:00 -0800</pubDate>
-                                <link>http://localhost:4000/feed.xml</link>
-                                <guid isPermaLink="true">http://localhost:4000/feed.xml</guid>
+                                <link>http://127.0.0.1:4000/feed.xml</link>
+                                <guid isPermaLink="true">http://127.0.0.1:4000/feed.xml</guid>
                         </item>
                 
                 
@@ -347,8 +347,8 @@ Which of you is still using Internet Explorer? Whoever you are, please know that
 
 <p>Philosopher <a href='http://en.wikipedia.org/wiki/David_Hume'>David Hume</a> first wrote about the is-ought problem 300 years ago in his <a href='http://www.gutenberg.org/ebooks/4705'>Treatise of Human Nature</a>. But despite having hundreds of years, it&#8217;s sad that the debate over gun control still hasn’t absorbed his wisdom.</p></description>
                                 <pubDate>Tue, 29 Jan 2013 00:00:00 -0800</pubDate>
-                                <link>http://localhost:4000/feed.xml</link>
-                                <guid isPermaLink="true">http://localhost:4000/feed.xml</guid>
+                                <link>http://127.0.0.1:4000/feed.xml</link>
+                                <guid isPermaLink="true">http://127.0.0.1:4000/feed.xml</guid>
                         </item>
                 
                 
@@ -400,8 +400,8 @@ Which of you is still using Internet Explorer? Whoever you are, please know that
 <li>...and more!</li>
 </ul><p>Stay tuned. :)</p></description>
                                 <pubDate>Fri, 25 Jan 2013 00:00:00 -0800</pubDate>
-                                <link>http://localhost:4000/feed.xml</link>
-                                <guid isPermaLink="true">http://localhost:4000/feed.xml</guid>
+                                <link>http://127.0.0.1:4000/feed.xml</link>
+                                <guid isPermaLink="true">http://127.0.0.1:4000/feed.xml</guid>
                         </item>
                 
                 
