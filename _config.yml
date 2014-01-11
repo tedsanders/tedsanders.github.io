@@ -1,0 +1,15 @@
+name:        Ted Sanders
+description: The impersonal website of Ted Sanders.
+url:         http://www.tedsanders.com
+author:      Ted Sanders
+
+future:      true
+show_drafts: false
+limit_posts: 0
+pygments:    true
+
+relative_permalinks: false
+
+permalink:     :categories/:title
+paginate_path: 'page:num'
+paginate: 100
