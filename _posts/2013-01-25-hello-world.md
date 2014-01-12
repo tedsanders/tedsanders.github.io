@@ -4,6 +4,7 @@ title: Hello world
 description: Ted's first blog post!
 comments: true
 alias: /hello-world.php
+categories: blog
 ---
 
 <p>Welcome to my blog. With this blog, I hope to:</p>

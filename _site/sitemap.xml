@@ -4,60 +4,162 @@
     
     
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
     <url>
-        <loc>http://127.0.0.1:4000/healthcare</loc>
+        <loc>http://127.0.0.1:4000/2014-01-08-accurate-horoscopes</loc>
     </url>
     
     
     
     <url>
-        <loc>http://127.0.0.1:4000/tax-tips-for-phd-students</loc>
+        <loc>http://127.0.0.1:4000/graphs/d3-pie-chart</loc>
+    </url>
+    
+    
+    
+    
+    
+    
+    
+    <url>
+        <loc>http://127.0.0.1:4000/2013-12-08-computer-economics</loc>
     </url>
     
     
     
     <url>
-        <loc>http://127.0.0.1:4000/nate-silver</loc>
+        <loc>http://127.0.0.1:4000/reviews/2013-12-08-cdn-proaccurate-quick-read-thermometer</loc>
     </url>
     
     
     
     <url>
-        <loc>http://127.0.0.1:4000/venture-capitalist-3</loc>
+        <loc>http://127.0.0.1:4000/reviews/2013-12-08-mae-ploy-red-curry-paste</loc>
     </url>
     
     
     
     <url>
-        <loc>http://127.0.0.1:4000/venture-capitalist-2</loc>
+        <loc>http://127.0.0.1:4000/2013-12-08-fibonacci</loc>
     </url>
     
     
     
     <url>
-        <loc>http://127.0.0.1:4000/venture-capitalist-1</loc>
+        <loc>http://127.0.0.1:4000/2013-12-08-magnet-economics</loc>
     </url>
     
     
     
     <url>
-        <loc>http://127.0.0.1:4000/the-first-week-of-traffic</loc>
+        <loc>http://127.0.0.1:4000/2013-12-08-monetary-economics</loc>
+    </url>
+    
+    
+    
+    <url>
+        <loc>http://127.0.0.1:4000/reviews/2013-12-08-ninety-percent-of-everything</loc>
+    </url>
+    
+    
+    
+    <url>
+        <loc>http://127.0.0.1:4000/reviews/2013-12-08-so-good-they-cant-ignore-you</loc>
+    </url>
+    
+    
+    
+    <url>
+        <loc>http://127.0.0.1:4000/2013-12-08-solar-economics</loc>
+    </url>
+    
+    
+    
+    <url>
+        <loc>http://127.0.0.1:4000/2013-12-08-space-economics</loc>
+    </url>
+    
+    
+    
+    <url>
+        <loc>http://127.0.0.1:4000/reviews/2013-12-08-syma-rc-helicopter</loc>
+    </url>
+    
+    
+    
+    <url>
+        <loc>http://127.0.0.1:4000/2013-12-08-transportation-economics</loc>
+    </url>
+    
+    
+    
+    <url>
+        <loc>http://127.0.0.1:4000/2013-12-08-energy-economics</loc>
+    </url>
+    
+    
+    
+    <url>
+        <loc>http://127.0.0.1:4000/2013-12-08-space-economics-2</loc>
+    </url>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <url>
+        <loc>http://127.0.0.1:4000/blog/healthcare</loc>
+    </url>
+    
+    
+    
+    <url>
+        <loc>http://127.0.0.1:4000/blog/tax-tips-for-phd-students</loc>
+    </url>
+    
+    
+    
+    <url>
+        <loc>http://127.0.0.1:4000/blog/nate-silver</loc>
+    </url>
+    
+    
+    
+    <url>
+        <loc>http://127.0.0.1:4000/blog/venture-capitalist-3</loc>
+    </url>
+    
+    
+    
+    <url>
+        <loc>http://127.0.0.1:4000/blog/venture-capitalist-2</loc>
+    </url>
+    
+    
+    
+    <url>
+        <loc>http://127.0.0.1:4000/blog/venture-capitalist-1</loc>
+    </url>
+    
+    
+    
+    <url>
+        <loc>http://127.0.0.1:4000/blog/the-first-week-of-traffic</loc>
     </url>
     
     
@@ -69,13 +171,13 @@
     
     
     <url>
-        <loc>http://127.0.0.1:4000/the-is-ought-problem</loc>
+        <loc>http://127.0.0.1:4000/blog/the-is-ought-problem</loc>
     </url>
     
     
     
     <url>
-        <loc>http://127.0.0.1:4000/hello-world</loc>
+        <loc>http://127.0.0.1:4000/blog/hello-world</loc>
     </url>
     
     

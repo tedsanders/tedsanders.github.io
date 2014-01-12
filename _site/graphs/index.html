@@ -19,6 +19,11 @@
         <link rel="alternate stylesheet" href="http://127.0.0.1:4000/css/disco.css" title="disco">
 
         <script src="js/vendor/modernizr-2.7.0.min.js"></script>
+
+        <!-- D3 does not support 3D, ironically. -->
+        
+        <script src="http://127.0.0.1:4000/js/vendor/d3.v3.min.js"></script>
+        
     </head>
     <body>
         <!--[if lt IE 8]>
@@ -71,6 +76,13 @@
                 </header>
                 <ul class='no-bullets'>
   
+    <li>
+    	<div class='clearfix'>
+	    	<a class='align-left' href='/graphs/d3-pie-chart'>My first pie chart</a>
+	    	<span class='align-right date'><time datetime='2014-01-11'>11 Jan 2014</time></span>
+    	</div>
+    </li>
+  
 </ul><p>I'm learning to make internet graphs with d3. In the meantime, here are some <a href='http://d3js.org/'>d3.js</a> resources:</p><h2>D3 Examples</h2><ul>
 <li><a href='https://github.com/mbostock/d3/wiki/Gallery'>https://github.com/mbostock/d3/wiki/Gallery</a></li>
 <li><a href='http://nvd3.org/ghpages/examples.html'>http://nvd3.org/ghpages/examples.html</a></li>
@@ -119,11 +131,6 @@
           ga('send', 'pageview');
 
         </script>
-
-        <!-- D3 does not support 3D, ironically. -->
-        
-        <script src="http://127.0.0.1:4000/js/d3.js"></script>
-        
 
         <!-- Style switcher -->
         <script src="http://127.0.0.1:4000/js/styleswitcher.js"></script>

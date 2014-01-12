@@ -5,6 +5,7 @@ subtitle: An audience analysis
 alias: /the-first-week-of-traffic.php
 description: Ted's traffic.
 comments: true
+categories: blog
 ---
 
 <p>Below is some interesting demographic information from the 208 of you who have visited the blog so far:</p>

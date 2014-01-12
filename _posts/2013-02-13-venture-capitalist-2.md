@@ -5,6 +5,7 @@ subtitle: Part 2&#58; Companies that increase capital efficiency
 alias: /venture-capitalist-2.php
 description: Digital technology will enable efficient sharing like never before.
 comments: true
+categories: blog
 ---
 
 <p>(Read Part 1 <a href="{{ site.url }}/venture-capitalist-1/">here</a>.)</p> 

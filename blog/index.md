@@ -6,8 +6,7 @@ alias: /blog.php
 ---
 
 <ul class="no-bullets">
-  {% for post in site.posts %}
-    {% if post.hide != true %}
+  {% for post in site.categories.blog %}
 
     <li>
     	<div class="clearfix">
@@ -16,6 +15,5 @@ alias: /blog.php
     	</div>
     </li>
 
-    {% endif %}
   {% endfor %}
 </ul>

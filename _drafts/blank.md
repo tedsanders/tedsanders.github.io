@@ -1,6 +1,6 @@
 ---
 layout: default
-description: blank
+description:
 title: Blank
 subtitle:
 categories:
