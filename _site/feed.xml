@@ -48,23 +48,7 @@
 <p>White - the success I had in making a pie chart</p>
 
 <p>Black - the success I had in making a pie chart with multiple slices</p>
-<div id='viz' /><script type='text/javascript'>
-
-    var sampleSVG = d3.select("#viz")
-        .append("svg")
-        .attr("width", 100)
-        .attr("height", 100);    
-
-    sampleSVG.append("circle")
-        .style("stroke", "gray")
-        .style("fill", "white")
-        .attr("r", 40)
-        .attr("cx", 50)
-        .attr("cy", 50)
-        .on("mouseover", function(){d3.select(this).style("fill", "aliceblue");})
-        .on("mouseout", function(){d3.select(this).style("fill", "white");});
-    
-    </script></description>
+<div id='viz' /><script src='http://127.0.0.1:4000/js/my-first-pie-chart.js' /></description>
                                 <pubDate>Sat, 11 Jan 2014 00:00:00 -0800</pubDate>
                                 <link>http://127.0.0.1:4000/feed.xml</link>
                                 <guid isPermaLink="true">http://127.0.0.1:4000/feed.xml</guid>
