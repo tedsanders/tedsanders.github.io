@@ -46,9 +46,12 @@ html, body {
 }
 
 blockquote {
-    margin-left: 2em;
-    margin-right: 2em;
-    font: sans-serif;
+    margin-left: 1em;
+    padding-left: 1em;
+    margin-right: 1em;
+    padding-right: 1em;
+    font: serif;
+    background: #eee;
 }
 
 /*

@@ -26,7 +26,7 @@ categories: blog
 
 <p>Jim Manzi, author of <a href="http://www.amazon.com/gp/product/B007V2VEQO/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B007V2VEQO&amp;linkCode=as2&amp;tag=tedsanderscom-20">Uncontrolled: The Surprising Payoff of Trial-and-Error for Business, Politics, and Society</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=tedsanderscom-20&amp;l=as2&amp;o=1&amp;a=B007V2VEQO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />, <a href="http://theamericanscene.com/2011/03/04/would-universal-healthcare-coverage-actually-improve-health">points out</a> that although the study isn't definitive, it's the best we've got:</p>
 
-<p class="quotation">&ldquo;A single experiment like the RAND HIE is not definitive. Among other things: it finished in 1982, and we live in a different world; any such experiment requires replication; it might be that the important health effects take much longer than 5 years to materialize, and so on. But as an observer of the health care debates, it always struck me as fascinating that the fact that the &ldquo;best evidence we have&rdquo; showed that providing health care coverage doesn't actually improve average health wasn't treated as more central.&rdquo;</p>
+>&ldquo;A single experiment like the RAND HIE is not definitive. Among other things: it finished in 1982, and we live in a different world; any such experiment requires replication; it might be that the important health effects take much longer than 5 years to materialize, and so on. But as an observer of the health care debates, it always struck me as fascinating that the fact that the &ldquo;best evidence we have&rdquo; showed that providing health care coverage doesn't actually improve average health wasn't treated as more central.&rdquo;
 
 
 <h3>#2: Oregon Medicaid Health Experiment</h3>
@@ -45,7 +45,7 @@ categories: blog
 
 <p>From the study, economist Robin Hanson <a href="http://www.overcomingbias.com/2011/07/the-oregon-health-insurance-experiment.html">concludes</a>:</p>
 
-<p class="quotation">&ldquo;So far, the new Oregon Health Insurance Experiment shows that for very poor and sick folks who go out of their way to request medical insurance, giving them such insurance makes them report feeling healthier. Two-thirds of this effect appears immediately on granting their request, and before they actually got more medical treatment. It remains to be seen if these healthy feelings will be reflected in more direct health measures, though that seems plausible, and we'll probably never see mortality effects.&rdquo;</p>
+>&ldquo;So far, the new Oregon Health Insurance Experiment shows that for very poor and sick folks who go out of their way to request medical insurance, giving them such insurance makes them report feeling healthier. Two-thirds of this effect appears immediately on granting their request, and before they actually got more medical treatment. It remains to be seen if these healthy feelings will be reflected in more direct health measures, though that seems plausible, and we'll probably never see mortality effects.&rdquo;
 
 <h3>The bottom line:</h3>
 
