@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
     
-    
-    
     <url>
-        <loc>http://127.0.0.1:4000/2014-01-08-accurate-horoscopes</loc>
+        <loc>http://127.0.0.1:4000/graphs/my-first-pie-chart-with-d3</loc>
     </url>
     
     
     
     <url>
-        <loc>http://127.0.0.1:4000/graphs/d3-pie-chart</loc>
+        <loc>http://127.0.0.1:4000/blog/accurate-horoscopes</loc>
     </url>
+    
+    
     
     
     
