@@ -13,8 +13,8 @@
                                 <title>{{ post.title }}</title>
                                 <description>Right now, some quotation marks are breaking my xml feed. In the meantime, read my posts on <a href="http://www.tedsanders.com">http://www.tedsanders.com</a>.</description>
                                 <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
-                                <link>{{ site.url }}{{ page.url | remove: 'index.html' }}</link>
-                                <guid isPermaLink="true">{{ site.url }}{{ page.url | remove: 'index.html' }}</guid>
+                                <link>{{ site.url }}{{ post.url | remove: 'index.html' }}</link>
+                                <guid isPermaLink="true">{{ site.url }}{{ post.url | remove: 'index.html' }}</guid>
                         </item>
                 {% endif %}
                 {% endfor %}
