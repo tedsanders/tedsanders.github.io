@@ -4,7 +4,7 @@ url:         http://www.tedsanders.com
 author:      Ted Sanders
 
 future:      true
-show_drafts: true
+show_drafts: false
 limit_posts: 0
 pygments:    true
 
