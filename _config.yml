@@ -10,6 +10,6 @@ pygments:    true
 
 relative_permalinks: false
 
-permalink:     :title
+permalink:     :categories/:title
 paginate_path: 'page:num'
 paginate: 100
