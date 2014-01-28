@@ -3,55 +3,25 @@
     
     
     <url>
-        <loc>http://localhost:4000/2014-01-27-ipos/</loc>
+        <loc>http://www.tedsanders.com/ipos</loc>
     </url>
     
     
     
     <url>
-        <loc>http://localhost:4000/ipos/</loc>
+        <loc>http://www.tedsanders.com/graphs/my-second-pie-chart-with-d3</loc>
     </url>
     
     
     
     <url>
-        <loc>http://localhost:4000/blank/</loc>
+        <loc>http://www.tedsanders.com/graphs/my-first-pie-chart-with-d3</loc>
     </url>
     
     
     
     <url>
-        <loc>http://localhost:4000/reviews/2013-12-08-so-good-they-cant-ignore-you/</loc>
-    </url>
-    
-    
-    
-    <url>
-        <loc>http://localhost:4000/reviews/2014-01-05-limits-to-growth/</loc>
-    </url>
-    
-    
-    
-    <url>
-        <loc>http://localhost:4000/graphs/my-third-pie-chart-with-d3/</loc>
-    </url>
-    
-    
-    
-    <url>
-        <loc>http://localhost:4000/graphs/my-second-pie-chart-with-d3/</loc>
-    </url>
-    
-    
-    
-    <url>
-        <loc>http://localhost:4000/graphs/my-first-pie-chart-with-d3/</loc>
-    </url>
-    
-    
-    
-    <url>
-        <loc>http://localhost:4000/accurate-horoscopes/</loc>
+        <loc>http://www.tedsanders.com/accurate-horoscopes</loc>
     </url>
     
     
@@ -59,81 +29,7 @@
     
     
     <url>
-        <loc>http://localhost:4000/2013-12-08-computer-economics/</loc>
-    </url>
-    
-    
-    
-    <url>
-        <loc>http://localhost:4000/reviews/2013-12-08-cdn-proaccurate-quick-read-thermometer/</loc>
-    </url>
-    
-    
-    
-    <url>
-        <loc>http://localhost:4000/reviews/2013-12-08-mae-ploy-red-curry-paste/</loc>
-    </url>
-    
-    
-    
-    <url>
-        <loc>http://localhost:4000/2013-12-08-fibonacci/</loc>
-    </url>
-    
-    
-    
-    <url>
-        <loc>http://localhost:4000/2013-12-08-magnet-economics/</loc>
-    </url>
-    
-    
-    
-    <url>
-        <loc>http://localhost:4000/2013-12-08-monetary-economics/</loc>
-    </url>
-    
-    
-    
-    <url>
-        <loc>http://localhost:4000/reviews/2013-12-08-ninety-percent-of-everything/</loc>
-    </url>
-    
-    
-    
-    <url>
-        <loc>http://localhost:4000/2013-12-08-solar-economics/</loc>
-    </url>
-    
-    
-    
-    <url>
-        <loc>http://localhost:4000/2013-12-08-space-economics/</loc>
-    </url>
-    
-    
-    
-    <url>
-        <loc>http://localhost:4000/2013-12-08-transportation-economics/</loc>
-    </url>
-    
-    
-    
-    <url>
-        <loc>http://localhost:4000/2013-12-08-energy-economics/</loc>
-    </url>
-    
-    
-    
-    <url>
-        <loc>http://localhost:4000/2013-12-08-space-economics-2/</loc>
-    </url>
-    
-    
-    
-    
-    
-    <url>
-        <loc>http://localhost:4000/reviews/syma-rc-helicopter/</loc>
+        <loc>http://www.tedsanders.com/reviews/syma-rc-helicopter</loc>
     </url>
     
     
@@ -155,61 +51,61 @@
     
     
     <url>
-        <loc>http://localhost:4000/healthcare/</loc>
+        <loc>http://www.tedsanders.com/healthcare</loc>
     </url>
     
     
     
     <url>
-        <loc>http://localhost:4000/tax-tips-for-phd-students/</loc>
+        <loc>http://www.tedsanders.com/tax-tips-for-phd-students</loc>
     </url>
     
     
     
     <url>
-        <loc>http://localhost:4000/nate-silver/</loc>
+        <loc>http://www.tedsanders.com/nate-silver</loc>
     </url>
     
     
     
     <url>
-        <loc>http://localhost:4000/venture-capitalist-3/</loc>
+        <loc>http://www.tedsanders.com/venture-capitalist-3</loc>
     </url>
     
     
     
     <url>
-        <loc>http://localhost:4000/venture-capitalist-2/</loc>
+        <loc>http://www.tedsanders.com/venture-capitalist-2</loc>
     </url>
     
     
     
     <url>
-        <loc>http://localhost:4000/venture-capitalist-1/</loc>
+        <loc>http://www.tedsanders.com/venture-capitalist-1</loc>
     </url>
     
     
     
     <url>
-        <loc>http://localhost:4000/the-first-week-of-traffic/</loc>
+        <loc>http://www.tedsanders.com/the-first-week-of-traffic</loc>
     </url>
     
     
     
     <url>
-        <loc>http://localhost:4000/roth-ira/</loc>
+        <loc>http://www.tedsanders.com/roth-ira</loc>
     </url>
     
     
     
     <url>
-        <loc>http://localhost:4000/the-is-ought-problem/</loc>
+        <loc>http://www.tedsanders.com/the-is-ought-problem</loc>
     </url>
     
     
     
     <url>
-        <loc>http://localhost:4000/hello-world/</loc>
+        <loc>http://www.tedsanders.com/hello-world</loc>
     </url>
     
     
@@ -217,39 +113,19 @@
     
     
     <url>
-        <loc>http://localhost:4000/404.html</loc>
+        <loc>http://www.tedsanders.com/404.html</loc>
     </url>
     
     
     
     <url>
-        <loc>http://localhost:4000/about/</loc>
+        <loc>http://www.tedsanders.com/about/</loc>
     </url>
     
     
     
     <url>
-        <loc>http://localhost:4000/blog/</loc>
-    </url>
-    
-    
-    
-    
-    
-    <url>
-        <loc>http://localhost:4000/graphs/</loc>
-    </url>
-    
-    
-    
-    <url>
-        <loc>http://localhost:4000/</loc>
-    </url>
-    
-    
-    
-    <url>
-        <loc>http://localhost:4000/reviews/</loc>
+        <loc>http://www.tedsanders.com/blog/</loc>
     </url>
     
     
@@ -257,7 +133,27 @@
     
     
     <url>
-        <loc>http://localhost:4000/will/</loc>
+        <loc>http://www.tedsanders.com/graphs/</loc>
+    </url>
+    
+    
+    
+    <url>
+        <loc>http://www.tedsanders.com/</loc>
+    </url>
+    
+    
+    
+    <url>
+        <loc>http://www.tedsanders.com/reviews/</loc>
+    </url>
+    
+    
+    
+    
+    
+    <url>
+        <loc>http://www.tedsanders.com/will/</loc>
     </url>
     
     
