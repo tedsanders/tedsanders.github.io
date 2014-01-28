@@ -5,24 +5,24 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <title>Service | Ted Sanders</title>
-        <meta name="description" content=" Ted is bad at tennis, but great at serving. |  The impersonal website of Ted Sanders.">
+        <meta name="description" content=" Ted is bad at tennis, but great at serving. |  Ted Sanders is an Applied Physics PhD student at Stanford University. He believes the best way to predict the future is to study the past.">
         <meta name="author" content="Ted Sanders"/>
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="alternate" type="application/rss+xml" title="RSS Feed" href="http://127.0.0.1:4000/feed.xml" />
+        <link rel="alternate" type="application/rss+xml" title="RSS Feed" href="http://localhost:4000/feed.xml" />
 
-        <link rel="stylesheet" href="http://127.0.0.1:4000/css/normalize.css">
-        <link rel="stylesheet" href="http://127.0.0.1:4000/css/main-2014-01-08.css">
+        <link rel="stylesheet" href="http://localhost:4000/css/normalize.css">
+        <link rel="stylesheet" href="http://localhost:4000/css/main-2014-01-08.css">
         
-        <link rel="alternate stylesheet" href="http://127.0.0.1:4000/css/3D.css" title="3D">
-        <link rel="alternate stylesheet" href="http://127.0.0.1:4000/css/rainbow.css" title="rainbow">
-        <link rel="alternate stylesheet" href="http://127.0.0.1:4000/css/dark.css" title="dark">
-        <link rel="alternate stylesheet" href="http://127.0.0.1:4000/css/disco.css" title="disco">
+        <link rel="alternate stylesheet" href="http://localhost:4000/css/3D.css" title="3D">
+        <link rel="alternate stylesheet" href="http://localhost:4000/css/rainbow.css" title="rainbow">
+        <link rel="alternate stylesheet" href="http://localhost:4000/css/dark.css" title="dark">
+        <link rel="alternate stylesheet" href="http://localhost:4000/css/disco.css" title="disco">
 
-        <script src="http://127.0.0.1:4000/js/vendor/modernizr-2.7.0.min.js"></script>
+        <script src="http://localhost:4000/js/vendor/modernizr-2.7.0.min.js"></script>
 
         <!-- D3 does not support 3D, ironically. -->
         
-        <script src="http://127.0.0.1:4000/js/vendor/d3.v3.min.js"></script>
+        <script src="http://localhost:4000/js/vendor/d3.v3.min.js"></script>
         
     </head>
     <body>
@@ -35,11 +35,11 @@
         <div id="left-navigation-sidebar">
             <nav role="navigation">
                 <ul>
-                    <li id="tedsanders"><a href="http://127.0.0.1:4000/">Ted Sanders</a></li>
-                    <li><a href="http://127.0.0.1:4000/about">About</a></li>
-                    <li><a href="http://127.0.0.1:4000/blog">Blog</a></li>
-                    <li><a href="http://127.0.0.1:4000/reviews">Reviews</a></li>
-                    <li><a href="http://127.0.0.1:4000/graphs">Graphs</a></li>
+                    <li><a id="tedsanders" href="http://localhost:4000/">Ted Sanders</a></li>
+                    <li><a href="http://localhost:4000/about">About</a></li>
+                    <li><a href="http://localhost:4000/blog">Blog</a></li>
+                    <li><a href="http://localhost:4000/reviews">Reviews</a></li>
+                    <li><a href="http://localhost:4000/graphs">Graphs</a></li>
                 </ul>
             </nav>
             
@@ -51,15 +51,15 @@
             <!-- Bling bling. Bling bling. Bling bling. We're sorry, "TED SANDERS" is not available. Please leave a message after the beep. BEEP! -->
             <ul>
                 <!-- Luke, join the light side! Together we shall meaninglessly participate in the gridlocked democracy of the galaxy! -->
-                <li><span onClick="setActiveStyleSheet('light'); return false;"><img src="http://127.0.0.1:4000/img/light.png" alt="Luke, join the light side! Together we shall meaninglessly participate in the gridlocked democracy of the galaxy!" width="32" height="32"></span></li>
+                <li><span onClick="setActiveStyleSheet('light'); return false;"><img src="http://localhost:4000/img/light.png" alt="Luke, join the light side! Together we shall meaninglessly participate in the gridlocked democracy of the galaxy!" width="32" height="32"></span></li>
                 <!-- Luke, join the dark side! Together we shall rule the galaxy! -->
-                <li><span onClick="setActiveStyleSheet('dark'); return false;"><img src="http://127.0.0.1:4000/img/dark.png" alt="Luke, join the dark side! Together we shall rule the galaxy!" width="32" height="32"></span></li>
+                <li><span onClick="setActiveStyleSheet('dark'); return false;"><img src="http://localhost:4000/img/dark.png" alt="Luke, join the dark side! Together we shall rule the galaxy!" width="32" height="32"></span></li>
                 <!-- THREE DEE PHONE HOME -->
                 <li><span onClick="setActiveStyleSheet('3D'); return false;"><img src="http://cdn1.iconfinder.com/data/icons/fatcow/32x32/3d_glasses.png" alt="Luke, join the third dimension! Together we shall see the depth of the galaxy!" width="32" height="32"></span></li>
                 <!-- RAINBOW ROAD -->
-                <li><span onClick="setActiveStyleSheet('rainbow'); return false;"><img src="http://127.0.0.1:4000/img/rainboated.png" alt="Luke, join the colorful side! Together we shall match with the galaxy!" width="32" height="32"></span></li>
+                <li><span onClick="setActiveStyleSheet('rainbow'); return false;"><img src="http://localhost:4000/img/rainboated.png" alt="Luke, join the colorful side! Together we shall match with the galaxy!" width="32" height="32"></span></li>
                 <!-- DISCO DANCE -->
-                <li><span onClick="setActiveStyleSheet('disco'); return false;"><img src="http://127.0.0.1:4000/img/disco.png" alt="Luke, join the disco side! Together we shall dance with the galaxy!" width="32" height="32"></span></li>
+                <li><span onClick="setActiveStyleSheet('disco'); return false;"><img src="http://localhost:4000/img/disco.png" alt="Luke, join the disco side! Together we shall dance with the galaxy!" width="32" height="32"></span></li>
             </ul>
             <audio src="http://hillarysanders.com/music/firestorm.mp3" controls loop preload="none" class="invisible discovisible"><p>"Your computer does not support my totally rad HTML5 audio player. LAME!"</p></audio>
 
@@ -150,7 +150,7 @@
         </script>
 
         <!-- Style switcher -->
-        <script src="http://127.0.0.1:4000/js/styleswitcher.js"></script>
+        <script src="http://localhost:4000/js/styleswitcher.js"></script>
 
         <!-- Disqus Comments JavaScript -->
         

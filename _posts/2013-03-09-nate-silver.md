@@ -4,7 +4,7 @@ title: Why the media is ignoring Nate Silver by praising Nate Silver
 description: An introduction to Bayesian reasoning that doesn't use the phrase Bayesian reasoning. Until now. Oops.
 alias: /nate-silver.php
 comments: true
-categories: blog
+tags: blog
 ---
 
 <p>Mr Blue claims a weighted coin is biased to land heads 90% of the time. Mr Red claims the coin is biased to land heads 50% of the time. You flip the coin only once, and it lands heads. Who was right?

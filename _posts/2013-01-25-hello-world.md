@@ -1,10 +1,11 @@
 ---
 layout: default
 title: Hello world
-description: Ted's first blog post!
+description: Ted's first blog post! Hello world!
 comments: true
 alias: /hello-world.php
-categories: blog
+categories:
+tags: blog
 ---
 
 <p>Welcome to my blog. With this blog, I hope to:</p>

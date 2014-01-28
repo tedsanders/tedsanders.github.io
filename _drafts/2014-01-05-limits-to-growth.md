@@ -7,7 +7,6 @@ categories: reviews
 tags:
 stars:
 comments:
-hide: true
 ---
 
 The Stanford Design School tries to teach students to be more creative and open-minded. In a class I took with Dave Evans, he asked us to be mindful of "the things we know, but were never taught." Assumptions that are unjustified but "obvious" cause big blind spots in logical or creative thinking.

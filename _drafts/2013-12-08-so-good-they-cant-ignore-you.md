@@ -15,7 +15,7 @@ This short, structured book profiles a series of successful professionals to lay
 * Rule #3: Turn Down a Promotion (Or, the Importance of Control)
 * Rule #4: Think Small, Act Big (Or, the Importance of Mission)
 
-The thesis of the book is that the best way to find a fulfilling career is to build career capital and leverage that capital into a job with autonomy and mission.
+The book's thesis is that the best way to find a fulfilling career is to build career capital and leverage that capital into a job with autonomy and mission.
 
 The author asks what makes a job great? His answer: creativity, impact, control. But since great jobs are rare and valuable, how do you get one? His answer: become rare and valuable yourself, by building career capital (accumulating useful skills/experience).
 

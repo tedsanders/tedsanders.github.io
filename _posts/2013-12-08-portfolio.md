@@ -16,8 +16,8 @@ hide: true
 
 <ul>
 <br />
-<li><a href="research.php">Research</a></li>
+<li><a href="{{ site.url }}/research">Research</a></li>
 <br />
-<li><a href="service.php">Service</a></li>
+<li><a href="{{ site.url }}/service">Service</a></li>
 <br />
 </ul>

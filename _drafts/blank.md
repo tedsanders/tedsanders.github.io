@@ -4,9 +4,7 @@ description:
 title: Blank
 subtitle:
 categories:
-tags:
-stars:
-hide: true
+tags: blog
 comments: true
 ---
 

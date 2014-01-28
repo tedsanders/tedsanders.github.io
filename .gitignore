@@ -1,6 +1,5 @@
 _site/
-_posts/blank.md
-_junk
+_junk/
 Gemfile
 Gemfile.lock
 _config.yml
