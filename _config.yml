@@ -3,13 +3,12 @@ description: Ted Sanders is an Applied Physics PhD student at Stanford Universit
 url:         http://www.tedsanders.com
 author:      Ted Sanders
 
-future:      true
+future:      false
 show_drafts: false
-limit_posts: 0
-pygments:    true
+
 
 relative_permalinks: false
 
 permalink:     :categories/:title
 paginate_path: 'page:num'
-paginate: 100
+paginate: 10

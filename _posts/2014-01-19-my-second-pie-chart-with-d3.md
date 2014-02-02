@@ -10,7 +10,7 @@ hide:
 comments:
 ---
 
-<svg id="svg_donut" width="600" height="400"></svg>
+<svg id="svg_donut" width="600" height="400"> </svg>
 
 Legend:
 
@@ -20,4 +20,4 @@ Gray - The proportion of pie charts I've made with slices, so far
 
 
 
-<script src="{{site.url}}/js/my-second-pie-chart.js"></script>
+<script src="{{site.url}}/js/my-second-pie-chart.js"> </script>

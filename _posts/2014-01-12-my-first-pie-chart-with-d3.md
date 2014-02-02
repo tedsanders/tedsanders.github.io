@@ -20,4 +20,4 @@ Black - the success I had in making a pie chart with multiple slices
 
 
 
-<script src="{{site.url}}/js/my-first-pie-chart.js"></script>
+<script src="{{site.url}}/js/my-first-pie-chart.js"> </script>
