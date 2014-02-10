@@ -32,7 +32,7 @@ time, mark, audio, video
 }
 
 /* center images */
-img, svg {
+img {
     display: block;
     max-width: 100%;
 }
@@ -56,7 +56,7 @@ blockquote {
     margin-right: 1em;
     padding-right: 1em;
     font: serif;
-    background: #eee;
+    background: #ddd;
 }
 
 /*
@@ -273,8 +273,9 @@ pre {
 }
 
 #tedshot {
-    float: right;
-    margin: 1em;
+    float: left;
+    margin-right: 1em;
+    margin-top: 0.5em;
 }
 
 /*#disqus-anchor {
@@ -292,7 +293,7 @@ pre {
 @media all and (min-width: 56em) {
 
     p {
-        text-align:justify;
+        /*text-align:justify;*/
     }
 
     /*LEFT NAVIGATION SIDEBAR*/

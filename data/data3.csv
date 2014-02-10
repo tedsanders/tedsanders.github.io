@@ -1,6 +1,6 @@
-age,population
-Diner1,11
-Diner2,22
-Diner3,33
-Diner4,44
-Diner5,55
+age,population,pop2
+Diner1,11,11
+Diner2,11,11
+Diner3,22,11
+Diner4,33,11
+Diner5,55,11

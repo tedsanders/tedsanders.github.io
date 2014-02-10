@@ -5,6 +5,12 @@ description: Ted graphs data.
 ---
 
 <ul class="no-bullets">
+	<li>
+		<div class="clearfix">
+	    	<a class="align-left" href="http://www.tedsanders.com/graphs/my-fourth-pie-chart-with-d3">My fourth pie chart with d3</a>
+	    	<span class="align-right date"><time datetime="2014-02-09">09 Feb 2014</time></span>
+    	</div>
+    </li>
   {% for post in site.categories.graphs %}
     <li>
     	<div class="clearfix">
