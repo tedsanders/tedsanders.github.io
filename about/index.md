@@ -11,7 +11,7 @@ I am earning a PhD in [Applied Physics](http://www.stanford.edu/dept/app-physics
 
 <p>I've published research on a variety of technologies, including <a href="http://link.aps.org/doi/10.1103/PhysRevLett.109.076603">organic spintronic devices</a>, <a href="http://dx.doi.org/10.1063/1.4795725">writeable nanotransistors</a>, metal-insulator transitions, quantum well solar cells, <a href="http://www.tedsanders.com/LaFePO">high-temperature superconductors</a>, and the smart grid.</p>
 
-As an NSF Graduate Fellow, I also spend a great deal of time promoting science to the public at events like the the San Francisco Science Fair, the Bay Area Science Festival, and Science Bowl. Recently, I helped pilot early demonstrations of the [world's cheapest microscope](http://www.moore.org/grants/list/GBMF3797), which magnifies images 140x while costing less than a dollar. Some of my volunteering has even been [covered by the White House](http://www.whitehouse.gov/blog/2010/05/12/national-lab-day-dinner-with-a-scientist).
+As an NSF Graduate Fellow, I also spend a great deal of time promoting science at events like the the San Francisco Science Fair, the Bay Area Science Festival, and Science Bowl. Recently, I helped pilot early demonstrations of the [world's cheapest microscope](http://www.moore.org/grants/list/GBMF3797), which magnifies images 140x while costing less than a dollar. Some of my volunteering has even been [covered by the White House](http://www.whitehouse.gov/blog/2010/05/12/national-lab-day-dinner-with-a-scientist).
 
 <p class="text-left">For more web goodness from the Sanders gene pool, visit <a href="http://hillarysanders.com/">hillarysanders.com</a> or <a href="http://www.kfc.com/">KFC.com</a>.</p>
 
