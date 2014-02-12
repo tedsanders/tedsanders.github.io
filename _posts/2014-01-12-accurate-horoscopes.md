@@ -1,7 +1,7 @@
 ---
 layout: default
 description: Tired of horoscopes based on pseudoscience and psychobabble? These horoscopes are 100% accurate, guaranteed!
-title: Accurate Horoscopes
+title: Accurate horoscopes
 subtitle:
 tags: blog
 stars:

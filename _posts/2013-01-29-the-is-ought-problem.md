@@ -12,13 +12,13 @@ Recent mass shootings in the US have renewed the national debate over gun contro
 Striking the right balance between social welfare and personal liberty is an important debate for every society, but lately I've noticed the debate over gun control being tainted by a recurring logical error. See if you can spot the fallacy in the following fictitious debate.
 
 >**Alice**: Guns are dangerous. Countries with heavy gun regulation have fewer murders. We dislike murder; therefore we should heavily regulate guns.
-
+>
 >**Bob**: No way! The 2nd amendment protects our right to own guns. Heavily regulating guns would violate the constitution.
-
+>
 >**Alice**: I disagree! The founders had no conception of today's gun technology; the 2nd amendment should only apply to muskets and similar weaponry.
-
+>
 >**Bob**: No, in writing the 2nd amendment the founders were establishing a fundamental right of self-protection and self-determination that exists irrespective of the technology in question.
-
+>
 >**Alice and Bob**: yada yada yada ...
 
 Did you spot any fallacies?
