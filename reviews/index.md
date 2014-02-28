@@ -20,4 +20,67 @@ description: Ted reviews things.
     	</div>
     </li>
   {% endfor %}
+
+    <li>
+    	<div class="clearfix">
+	    	Average is Over (★★★☆☆)
+	    	<span class="align-right date">2014</span>
+    	</div>
+    </li>
+    <li>
+    	<div class="clearfix">
+	    	On Writing (★★☆☆☆)
+	    	<span class="align-right date">2013</span>
+    	</div>
+    </li>
+    <li>
+    	<div class="clearfix">
+	    	Ninety Percent of Everything (★★★★☆)
+	    	<span class="align-right date">2013</span>
+    	</div>
+    </li>
+    <li>
+    <div class="clearfix">
+	    	So Good They Can't Ignore You (★★★★☆)
+	    	<span class="align-right date">2013</span>
+    	</div>
+    </li>
+    <li>
+    	<div class="clearfix">
+	    	Europe's Financial Crisis (★★★☆☆)
+	    	<span class="align-right date">2013</span>
+    	</div>
+    </li>
+    <li>
+    	<div class="clearfix">
+	    	The Lights in the Tunnel (★★☆☆☆)
+	    	<span class="align-right date">2013</span>
+    	</div>
+    </li>
+    <li>
+    	<div class="clearfix">
+	    	Harry Potter and the Methods of Rationality (★★★☆☆)
+	    	<span class="align-right date">2013</span>
+    	</div>
+    </li>
+    <li>
+    	<div class="clearfix">
+	    	Thinking, Fast and Slow (★★★★☆)
+	    	<span class="align-right date">2012</span>
+    	</div>
+    </li>
+
 </ul>
+
+What do the stars mean?
+
+★★★★★ = it was amazing
+★★★★☆ = really liked it
+★★★☆☆ = liked it
+★★☆☆☆ = it was ok
+★☆☆☆☆ = did not like it
+☆☆☆☆☆ = nothing is worse
+
+But really they don't mean anything.
+
+They are a complex function of my history, my mood, and my desire to signal a false image of myself to you.

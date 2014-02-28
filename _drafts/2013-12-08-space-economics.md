@@ -12,7 +12,7 @@ Fun facts about the economics of launching things into space.
 
 2. Today, the most expensive component of rockets is high-skill Russian labor. The best way to make rockets cheaper is to find ways to use less labor. (E.g., cut bureaucracy, automate manufacturing, simplify designs)
 
-3. The minimum energy required to get a person into orbit is about 50 kWh, or $1 worth of electricity. The minimum energy to get a person into geostationary orbit or beyond is about 1000 kWh, or $20 worth of electricity. Rockets are inefficient! (That said, about 10x this energy is needed to accelerate to orbital speeds. Still, the point remains.)
+3. The minimum energy required to get a person into orbit is about 50 kWh, or $1 worth of electricity. The minimum energy to get a person into geostationary orbit or beyond is about 1000 kWh, or $20 worth of electricity. Rockets are inefficient! (That said, about 10-20x this energy is needed to accelerate to orbital speeds. Still, the point remains.)
 
 4. Today's rockets are powered with chemical energy, but back in 50's the US <a href="https://en.wikipedia.org/wiki/Project_Orion_(nuclear_propulsion)">seriously investigated</a> ships that would propel themselves by dropping nuclear bombs and then riding the blasts forward.
 
