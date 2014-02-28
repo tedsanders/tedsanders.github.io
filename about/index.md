@@ -27,5 +27,5 @@ As an [NSF Graduate Fellow](http://www.nsfgrfp.org/), I also [spend a great deal
 <!--<li><a href="http://www.neopets.com/userlookup.phtml?user=tedsanders"><img class="icon-bump inline-block" src="http://www.neopets.com/favicon.ico" width="16" height="16" /> Neopets</a></li>-->
 <li><a href="https://github.com/tedsanders"><img class="icon-bump inline-block" src="http://github.com/favicon.ico" width="16" height="16" /> GitHub</a></li>
 <li><a href="https://news.ycombinator.com/threads?id=tedsanders"><img class="icon-bump inline-block" src="https://news.ycombinator.com/favicon.ico" width="16" height="16" /> Hacker News</a></li>
-</ul>
 <li><a href="https://en.wikipedia.org/wiki/Special:Contributions/Tedsanders"><img class="icon-bump inline-block" src="http://www.wikipedia.org/favicon.ico" width="16" height="16" /> Wikipedia</a></li>
+</ul>
