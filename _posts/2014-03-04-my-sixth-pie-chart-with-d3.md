@@ -15,11 +15,17 @@ jquery: true
 
 svg {
     -webkit-animation: rotation 6s infinite linear;
+    animation: rotation 6s infinite linear;
 }
 
 @-webkit-keyframes rotation {
     from {-webkit-transform: rotate(0deg);}
     to   {-webkit-transform: rotate(359deg);}
+}
+
+@keyframes rotation {
+    from {transform: rotate(0deg);}
+    to   {transform: rotate(359deg);}
 }
 
 </style>
