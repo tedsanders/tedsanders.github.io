@@ -16,4 +16,5 @@ Now with animation!
   <label><input type="radio" name="dataset" value="apples" checked> Restaurant  </label>
   <label><input type="radio" name="dataset" value="oranges"> Buffet  </label>
 </form>
-<div id='pie'> </div><script src='{{ site.url }}/js/my-fourth-pie-chart.js'> </script>
+
+<div id='piediv'> </div><script src='{{ site.url }}/js/my-fourth-pie-chart.js'> </script>
