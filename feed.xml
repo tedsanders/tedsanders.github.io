@@ -13,7 +13,9 @@
                                 <title>{{ post.title }}</title>
                                 
                                 <description>{{ post.content | xml_escape }}
+                                        {% if post.comments == true %}
                                         <a href="{{ site.url }}{{ post.url | remove: 'index.html' }}#comments"><p>Read the comments here.</p></a>
+                                        {% endif %}
                                 </description>
                                 <!--<description>Right now, some quotation marks are breaking my xml feed. In the meantime, read my posts on <a href="http://www.tedsanders.com">http://www.tedsanders.com</a>.</description>-->
                                 

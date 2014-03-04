@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Wills
+description: The last wills and testament of Ted Sanders.
 subtitle:
 categories:
 tags:

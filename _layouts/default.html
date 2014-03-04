@@ -19,11 +19,22 @@
         <link rel="alternate stylesheet" href="{{site.url}}/css/dark.css" title="dark">
         <link rel="alternate stylesheet" href="{{site.url}}/css/disco.css" title="disco">
 
+
+        <!-- Head JavaScript -->
+
+        <!-- Modernizr 2.7.0 -->
         <script src="{{site.url}}/js/vendor/modernizr-2.7.0.min.js"></script>
 
         <!-- D3 does not support 3D, ironically. -->
         {% if post.categories == graphs %}
         <script src="{{site.url}}/js/vendor/d3.v3.min.js"></script>
+        {% endif %}
+
+
+        <!-- The fastest web request is the one not made - Glass Man -->
+        {% if page.jquery == true %}
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+        <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
         {% endif %}
     </head>
     <body>
@@ -110,6 +121,10 @@
 
 
         <!-- JavaScript -->
+
+        <!-- Style switcher -->
+        <script src="{{site.url}}/js/styleswitcher.js"></script>
+
         <!-- Google Analytics. The great gaze of Google sees all. Unless you close the page before this section loads. -->
         <script>
           (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -121,9 +136,6 @@
           ga('send', 'pageview');
 
         </script>
-
-        <!-- Style switcher -->
-        <script src="{{site.url}}/js/styleswitcher.js"></script>
 
         <!-- Disqus Comments JavaScript -->
         {% if page.comments == true %}
@@ -140,12 +152,6 @@
             </script>
         {% endif %}
 
-        <!-- The fastest web request is the one not made - Glass Man
-        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-        <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
-        <script src="js/plugins.js"></script>
-        <script src="js/main.js"></script>
-        -->
 
 
 
