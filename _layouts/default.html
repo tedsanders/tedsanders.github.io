@@ -8,6 +8,12 @@
         <meta name="description" content="{% if page.description %} {{ page.description }} | {% endif %} {{ site.description }}">
         <meta name="author" content="{{site.author}}"/>
         <meta name="viewport" content="width=device-width, initial-scale=1">
+        
+        <meta property="og:title" content="{{ page.title }}" />
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="{{site.url}}/{{page.url}}" />
+        <meta property="og:image" content="{{site.url}}/img/light.png" />
+        
         <link rel="alternate" type="application/rss+xml" title="RSS Feed" href="{{site.url}}/feed.xml" />
         <link rel="icon" href="favicon.ico" type="image/x-icon" />
 
