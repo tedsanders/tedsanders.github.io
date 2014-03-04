@@ -18,7 +18,7 @@ jquery: true
 
 
 <ul id="options" class="no-bullets">
-    <li><a href="#restaurant">Restaurant</a> </li>
+    <li><a href="{{site.url}}/{{page.url}}#restaurant">Restaurant</a> </li>
     <li><a href="#buffet">Buffet</a> </li>
     <li><a href="#date">Date</a> </li>
     <li><a href="#bigBertha">Big Bertha</a> </li>
