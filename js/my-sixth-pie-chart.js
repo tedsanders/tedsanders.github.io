@@ -126,7 +126,7 @@ function onClick() {
     this.removeAttribute('style');
 
     wheelposition = wheelposition + 720 + Math.random()*360;
-    console.log(wheelposition);
+    //console.log(wheelposition);
     var css = '-webkit-transform: rotate(' + wheelposition + 'deg);'
             + 'transform: rotate(' + wheelposition + 'deg);';
 
