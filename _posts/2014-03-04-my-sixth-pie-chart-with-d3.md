@@ -1,12 +1,12 @@
 ---
 layout: default
-description: My sixth d3 pie chart.
+description: A pie chart that spins!
 title: My sixth pie chart with d3
 subtitle:
 categories: graphs
 tags:
 stars:
-hide: true
+hide:
 comments: true
 jquery: true
 ---
@@ -14,25 +14,31 @@ jquery: true
 <style>
 
 svg {
-    -webkit-animation: rotation 6s infinite linear;
-    animation: rotation 6s infinite linear;
+    -webkit-transition: -webkit-transform 2s ease-out;
+    transition: transform 2s ease-out;
 }
 
-@-webkit-keyframes rotation {
-    from {-webkit-transform: rotate(0deg);}
-    to   {-webkit-transform: rotate(359deg);}
+#sixth-pie {
+    position:relative;
 }
 
-@keyframes rotation {
-    from {transform: rotate(0deg);}
-    to   {transform: rotate(359deg);}
+#arrow {
+    position:absolute;
+    top: 268px;
+    left: 568px;
+    z-index:2;
+
+
+    width: 0; 
+    height: 0; 
+    border-top: 32px solid transparent;
+    border-bottom: 32px solid transparent;    
+    border-right:32px solid black; 
 }
 
 </style>
 
-<div id="sixth-pie"></div>
-
-
+<p>Click a link to transform the pie chart!</p>
 
 <ul id="options" class="no-bullets">
     <li><a href="#restaurant">Restaurant</a> </li>
@@ -41,6 +47,13 @@ svg {
     <li><a href="#bigBertha">Big Bertha</a> </li>
 </ul>
 
-Click a link to transform the pie chart!
+<div id="sixth-pie"><div id="arrow"></div></div>
+
+<p>Click the wheel to spin it! (The more you click, the faster it goes!)</p>
+
+
+
+And if something doesn't look right, please leave a comment below and mention which browser you're using. The spinning pie chart looks fine on my version of Chrome, but I wouldn't be surprised if my code is buggy in other browsers. Thanks!
+
 
 <script src='{{ site.url }}/js/my-sixth-pie-chart.js'> </script>

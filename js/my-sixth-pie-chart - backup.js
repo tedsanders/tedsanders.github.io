@@ -1,7 +1,7 @@
 var restaurant = { label: 'Restaurant', pct: [0, 1, 1, 2, 3, 5] },
     buffet = { label: 'Buffet',   pct: [1, 1, 1, 1, 1, 1] },
     date = { label: 'Date',   pct: [1, 1, 0, 0, 0, 0] },
-    bigBertha = { label: 'Big Bertha',     pct: [ 100, 1, 1, 2, 3, 5] },
+    bigBertha = { label: 'Big Bertha',     pct: [ 88, 1, 1, 2, 3, 5] },
 
     data = restaurant;
 
@@ -62,7 +62,9 @@ sliceLabel.enter().append("svg:text")
             return "rotate(" + rotationangle + ")"; })
     .attr("text-anchor", "middle")
     .attr("alignment-baseline", "middle")
-    .attr("style","font-size: 32px;")
+    .attr("style", function(d) {
+                    if(d.data == 0) { return "font-size: 0;"}
+                    else { return "font-size: 32px;"};})
     .text(function(d, i) {return labels[i]; });
 
 // --------- "PAY NO ATTENTION TO THE MAN BEHIND THE CURTAIN" ---------
@@ -86,12 +88,21 @@ function updateChart(model) {
 
     sliceLabel.data(donut(data.pct));
     sliceLabel.transition().ease("elastic").duration(dur)
-        .attr("transform", function(d) {
+    .attr("x", r-100)
+    .attr("y", 0)
+    .attr("transform", function(d) {
             var coordinates = arc.centroid(d);
-            return "translate(" + 1.5*coordinates[0] + "," + 1.5*coordinates[1] + ")"; })
-        .style("fill-opacity", function(d) {return d.value==0 ? 1e-6 : 1;});
+            var rotationangle = Math.atan(coordinates[1]/coordinates[0])*180/3.1415926;
+            if(coordinates[0] < 0) { rotationangle = rotationangle-180; }
+            return "rotate(" + rotationangle + ")"; })
+    .attr("text-anchor", "middle")
+    .attr("alignment-baseline", "middle")
+    .attr("style", function(d) {
+                    if(d.data == 0) { return "font-size: 0;"}
+                    else { return "font-size: 32px;"};})
+    .text(function(d, i) {return labels[i]; });
         
-    pieLabel.text(data.label);
+    //pieLabel.text(data.label);
 }
 
 // click handler

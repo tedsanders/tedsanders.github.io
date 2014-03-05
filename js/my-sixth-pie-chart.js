@@ -109,3 +109,28 @@ function updateChart(model) {
 $("#options a").click(function() {
     updateChart(this.href.slice(this.href.indexOf('#') + 1));
 });
+
+
+// ----------Spinner Button-----------------------------
+
+
+var wheel = document.querySelector('svg');
+var wheelposition = 0;
+
+wheel.addEventListener('click', onClick, false);
+
+
+
+function onClick() {
+
+    this.removeAttribute('style');
+
+    wheelposition = wheelposition + 720 + Math.random()*360;
+    console.log(wheelposition);
+    var css = '-webkit-transform: rotate(' + wheelposition + 'deg);'
+            + 'transform: rotate(' + wheelposition + 'deg);';
+
+    this.setAttribute(
+        'style', css
+    );
+}
