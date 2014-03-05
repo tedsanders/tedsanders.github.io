@@ -14,8 +14,11 @@ jquery: true
 <style>
 
 svg {
-    -webkit-transition: -webkit-transform 2s ease-out;
-    transition: transform 2s ease-out;
+    -webkit-transition: all 2000ms cubic-bezier(0.250, 0.460, 0.450, 0.940); 
+       -moz-transition: all 2000ms cubic-bezier(0.250, 0.460, 0.450, 0.940); 
+         -o-transition: all 2000ms cubic-bezier(0.250, 0.460, 0.450, 0.940); 
+            transition: all 2000ms cubic-bezier(0.250, 0.460, 0.450, 0.940); /* constant friction approximation */
+
 }
 
 #sixth-pie {
