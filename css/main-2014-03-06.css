@@ -73,7 +73,7 @@ img {
 }
 
 ul, ol {
-	margin-left: 2em;
+    margin-left: 2em;
 }
 
 html, body {
@@ -170,22 +170,22 @@ textarea {
    ========================================================================== */
 
 a {
-	text-decoration: none;
-	color: #0645ad; /*wikipedia color*/
-	color: #4183c4; /*github color*/
-	color: #26b; /*compromise*/
+    text-decoration: none;
+    color: #0645ad; /*wikipedia color*/
+    color: #4183c4; /*github color*/
+    color: #26b; /*compromise*/
 }
 
 a:hover {
-	text-decoration: underline;
+    text-decoration: underline;
 }
 
 a:visited {
-	color: #0b0080; /*wikpedia color*/
+    color: #0b0080; /*wikpedia color*/
 }
 
 h1 {
-	font-size: 2em;
+    font-size: 2em;
     font-family: serif;
     margin-top: 0.5em;
     line-height: 1.1;
@@ -197,8 +197,8 @@ h2 {
 }
 
 h3 {
-	font-size: 1.2em;
-	font-weight:bold;
+    font-size: 1.2em;
+    font-weight:bold;
 }
 
 pre {
