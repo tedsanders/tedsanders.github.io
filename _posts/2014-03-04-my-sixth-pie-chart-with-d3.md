@@ -14,10 +14,10 @@ jquery: true
 <style>
 
 svg {
-    -webkit-transition: all 3000ms cubic-bezier(0.250, 0.460, 0.450, 0.940); 
-       -moz-transition: all 3000ms cubic-bezier(0.250, 0.460, 0.450, 0.940); 
-         -o-transition: all 3000ms cubic-bezier(0.250, 0.460, 0.450, 0.940); 
-            transition: all 3000ms cubic-bezier(0.250, 0.460, 0.450, 0.940); /* constant friction approximation */
+    -webkit-transition: all 2345ms cubic-bezier(0.250, 0.460, 0.450, 0.940); 
+       -moz-transition: all 2345ms cubic-bezier(0.250, 0.460, 0.450, 0.940); 
+         -o-transition: all 2345ms cubic-bezier(0.250, 0.460, 0.450, 0.940); 
+            transition: all 2345ms cubic-bezier(0.250, 0.460, 0.450, 0.940); /* constant friction approximation */
   }
 
 #sixth-pie {
