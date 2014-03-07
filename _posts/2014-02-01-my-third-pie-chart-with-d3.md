@@ -11,6 +11,12 @@ comments: true
 javascript: d3
 ---
 
+<style>
+.arc path {
+  stroke: #000;
+}
+</style>
+
 Woohoo!
 
 <div id="pie"> </div>
