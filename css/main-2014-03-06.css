@@ -24,7 +24,6 @@ time, mark, audio, video
 }
 
 /*! normalize.css v3.0.0-custom*/
-
 html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}
 article,aside,details,figcaption,figure,footer,header,hgroup,main,nav,section,summary{display:block}
 audio,canvas,progress,video{display:inline-block;vertical-align:baseline}
@@ -61,15 +60,11 @@ b,strong,optgroup{font-weight:bold}
 pre,textarea{overflow:auto}
 button::-moz-focus-inner,input::-moz-focus-inner,legend{border:0;padding:0}
 
-
-
 /*! Based off of HTML5 Boilerplate v4.3.0 | MIT License | http://h5bp.com/ */
 
 /* ==========================================================================
    Base styles: opinionated defaults
    ========================================================================== */
-
-
 
 /* center images */
 img {
@@ -80,7 +75,6 @@ img {
 ul, ol {
 	margin-left: 2em;
 }
-
 
 html, body {
     font-size: 1em;
