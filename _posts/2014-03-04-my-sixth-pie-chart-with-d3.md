@@ -8,7 +8,7 @@ tags:
 stars:
 hide:
 comments: true
-jquery: true
+javascript: jquery, d3
 ---
 
 <style>

@@ -8,6 +8,7 @@ tags:
 stars:
 hide:
 comments: true
+javascript: d3
 ---
 
 Now with animation!

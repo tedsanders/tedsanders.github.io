@@ -7,7 +7,8 @@ categories: graphs
 tags:
 stars:
 hide:
-comments:
+comments: true
+javascript: d3
 ---
 
 <svg id="svg_donut" width="600" height="400"> </svg>

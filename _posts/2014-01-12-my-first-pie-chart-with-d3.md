@@ -7,7 +7,8 @@ categories: graphs
 tags:
 stars:
 hide:
-comments:
+comments: true
+javascript: d3
 ---
 
 <div id="viz"></div>
