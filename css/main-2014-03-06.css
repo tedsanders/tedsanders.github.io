@@ -309,6 +309,13 @@ nav {
     display: inline-block;
 }
 
+#google-author {
+    color: #333;
+    text-decoration: none;
+}
+
+/* other? */
+
 .inline-block {
     display: inline-block;
 }
