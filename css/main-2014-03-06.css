@@ -235,17 +235,24 @@ pre {
 }
 
 /*LEFT NAVIGATION SIDEBAR*/
-#tedsanders, #tedsanders:visited {
-    font-weight: bold;
-    font-size: 1.2em;
-    color: #333;
-}
-
 #left-navigation-sidebar ul {
     list-style:none;
     padding-top: 1em;
+    padding-bottom: 1em;
     margin-left: 0;
     padding-left: 5%;
+}
+
+#tedsanders, #tedsanders:visited {
+    font-weight: bold;
+    font-size: 1.4em;
+    color: #333;
+    font-family: sans-serif;
+}
+
+nav {
+    font-size: 1.4em;
+    font-family: serif;
 }
 
 /*RIGHT STYLE SIDEBAR*/
@@ -331,10 +338,6 @@ pre {
     }
 
     /*LEFT NAVIGATION SIDEBAR*/
-    #tedsanders {
-        font-weight: bold;
-        font-size: 1.2em;
-    }
 
     #left-navigation-sidebar {
         position: fixed;
@@ -345,6 +348,17 @@ pre {
     }
     #left-navigation-sidebar ul {
         padding-left: 1em; /*reset mobile version*/
+        padding-bottom: 0;
+    }
+    #tedsanders, #tedsanders:visited {
+    font-weight: bold;
+    font-size: 1.2em;
+    color: #333;
+    }
+
+    nav {
+        font-size: 1em;
+        font-family: sans-serif;
     }
 
     /*RIGHT STYLE SIDEBAR*/
