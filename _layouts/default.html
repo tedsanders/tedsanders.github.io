@@ -11,13 +11,13 @@
         
         <meta property="og:title" content="{{ page.title }}" />
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="{{ site.url }}{{ page.url | remove: 'index.html' }}/" />
+        <meta property="og:url" content="{{ site.url }}{{ page.url | remove: 'index.html' }}" />
         <meta property="og:image" content="{{site.url}}/img/og-ted.PNG" />
         <meta property="og:description" content="{% if page.description %} {{ page.description }} {% else %} {{ site.description }} {% endif %}" />
         <meta property="og:locale" content="en_US" />
         
         <link rel="alternate" type="application/rss+xml" title="RSS Feed" href="{{site.url}}/feed.xml" />
-        <link rel="icon" href="favicon.ico" type="image/x-icon" />
+        <link rel="icon" href="{{ site.url }}/favicon.ico" type="image/x-icon" />
 
         <link rel="stylesheet" href="{{site.url}}/css/main-2014-03-06.css">
         
