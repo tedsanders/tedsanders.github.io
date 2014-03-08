@@ -13,7 +13,7 @@
     {% for page in site.pages %}
     {% if page.layout != nil %}
     <url>
-        <loc>{{ site.url }}{{ page.url | remove: 'index.html' }}/</loc>
+        <loc>{{ site.url }}{{ page.url | remove: 'index.html' }}</loc>
     </url>
     {% endif %}
     {% endfor %}
