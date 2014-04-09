@@ -14,16 +14,17 @@
                                 
                                 <description>{{ post.content | xml_escape }}
                                         {% if post.comments == true %}
-                                        <a href="{{ site.url }}{{ post.url | remove: 'index.html' }}#comments"><p>Read the comments here.</p></a>
+                                        <a href="{{ site.url }}{{ post.url | remove: 'index.html' }}/#comments"><p>Read the comments here.</p></a>
                                         {% endif %}
                                 </description>
                                 <!--<description>Right now, some quotation marks are breaking my xml feed. In the meantime, read my posts on <a href="http://www.tedsanders.com">http://www.tedsanders.com</a>.</description>-->
                                 
                                 <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
                                 
-                                <link>{{ site.url }}{{ post.url | remove: 'index.html' }}</link>
+                                <link>{{ site.url }}{{ post.url | remove: 'index.html' }}/</link>
                                 
                                 <guid isPermaLink="true">{{ site.url }}{{ post.url | remove: 'index.html' }}</guid>
+                                <!-- I'd prefer a trailing slash, but I don't want to rewrite the GUIDs midstream -->
                         </item>
                 {% endif %}
                 {% endfor %}

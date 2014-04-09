@@ -5,19 +5,19 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <title>{{ page.title }} | {{ site.name }}</title>
-        <meta name="description" content="{% if page.page %} {{ description.description }} {% else %} {{ site.description }} {% endif %}">
+        <meta name="description" content="{% if page.description %} {{ page.description }} {% else %} {{ site.description }} {% endif %}">
         <meta name="author" content="{{site.author}}"/>
         <meta name="viewport" content="width=device-width, initial-scale=1">
         
         <meta property="og:title" content="{{ page.title }}" />
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="{{site.url}}/{{page.url}}/" />
+        <meta property="og:url" content="{{ site.url }}{{ page.url | remove: 'index.html' }}" />
         <meta property="og:image" content="{{site.url}}/img/og-ted.PNG" />
         <meta property="og:description" content="{% if page.description %} {{ page.description }} {% else %} {{ site.description }} {% endif %}" />
         <meta property="og:locale" content="en_US" />
         
         <link rel="alternate" type="application/rss+xml" title="RSS Feed" href="{{site.url}}/feed.xml" />
-        <link rel="icon" href="favicon.ico" type="image/x-icon" />
+        <link rel="icon" href="{{ site.url }}/favicon.ico" type="image/x-icon" />
 
         <link rel="stylesheet" href="{{site.url}}/css/main-2014-03-06.css">
         
@@ -35,6 +35,9 @@
             <!--[if lt IE 9]>
             <script src="{{site.url}}/js/vendor/html5shiv.js"></script>
             <![endif]-->
+            
+        <!-- Style switcher -->
+        <script src="{{site.url}}/js/styleswitcher.js"></script>
         
         <!-- Jake is wary of jQuery -->
         {% if page.javascript contains 'jquery' %}
@@ -59,10 +62,10 @@
             <nav role="navigation">
                 <ul>
                     <li><a id="tedsanders" href="{{site.url}}">Ted Sanders</a></li>
-                    <li><a href="{{site.url}}/about">About</a></li>
-                    <li><a href="{{site.url}}/blog">Blog</a></li>
-                    <li><a href="{{site.url}}/reviews">Reviews</a></li>
-                    <li><a href="{{site.url}}/graphs">Graphs</a></li>
+                    <li><a href="{{site.url}}/about/">About</a></li>
+                    <li><a href="{{site.url}}/blog/">Blog</a></li>
+                    <li><a href="{{site.url}}/reviews/">Reviews</a></li>
+                    <li><a href="{{site.url}}/graphs/">Graphs</a></li>
                 </ul>
             </nav>
             
@@ -116,7 +119,7 @@
                 <hr>
                 <div class="align-left copyright">Copyright 2014</div>
                 <div id="feedbox"><a href="http://feeds.feedburner.com/tedsanders" title="Subscribe to my feed" rel="alternate" type="application/rss+xml"><img class="icon-bump" src="http://www.feedburner.com/fb/images/pub/feed-icon16x16.png" alt="RSS"/></a></div>
-                <div class="align-right fn">Ted Sanders</div>
+                <div class="align-right fn"><a id="google-author" href="https://plus.google.com/+TedSandersDoublePlusGood?rel=author">Ted Sanders</a></div>
             </footer>
         </div>
 
@@ -133,8 +136,7 @@
 
         <!-- JavaScript -->
 
-        <!-- Style switcher -->
-        <script src="{{site.url}}/js/styleswitcher.js"></script>
+
 
         <!-- Google Analytics. The great gaze of Google sees all. Unless you close the page before this section loads. -->
         <script>
@@ -167,7 +169,5 @@
         <!-- Customized Modernizr with HTML5shiv removed (among other things) -->
         <script src="{{site.url}}/js/vendor/modernizr.custom.95326.js"></script>
 
-        <!-- Google Authorship link -->
-        <a href="https://plus.google.com/+TedSandersDoublePlusGood?rel=author"></a>
     </body>
 </html>

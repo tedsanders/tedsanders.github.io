@@ -5,7 +5,7 @@
     {% for post in site.posts %}
     {% if post.hide != true %}
     <url>
-        <loc>{{ site.url }}{{ post.url | remove: 'index.html' }}</loc>
+        <loc>{{ site.url }}{{ post.url | remove: 'index.html' }}/</loc>
     </url>
     {% endif %}
     {% endfor %}
