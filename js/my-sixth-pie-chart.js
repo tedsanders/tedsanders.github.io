@@ -27,12 +27,12 @@ var label_group = svg.append("svg:g")
     .attr("class", "lblGroup")
     .attr("transform", "translate(" + (w / 2) + "," + (h / 2) + ")");
 
-// GROUP FOR CENTER TEXT
+/*// GROUP FOR CENTER TEXT
 var center_group = svg.append("svg:g")
     .attr("class", "ctrGroup")
     .attr("transform", "translate(" + (w / 2) + "," + (h / 2) + ")");
 
-/*// CENTER LABEL
+// CENTER LABEL
 var pieLabel = center_group.append("svg:text")
     .attr("dy", ".35em").attr("class", "chartLabel")
     .attr("text-anchor", "middle")

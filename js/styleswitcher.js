@@ -62,17 +62,17 @@ function readCookie(name) {
   return null;
 }
 
-window.onload = function(e) {
-  var cookie = readCookie("TedStyle");
+/*window.onload = function(e) {
+  var cookie = readCookie("tedstyle");
   var title = cookie ? cookie : getPreferredStyleSheet();
   setActiveStyleSheet(title);
-}
+}*/
 
 window.onunload = function(e) {
   var title = getActiveStyleSheet();
-  createCookie("TedStyle", title, 2);  //Only a 2-day cookie. I'm so nice.
+  createCookie("tedstyle", title, 0.5);  //Only a half-day cookie. I'm so nice.
 }
 
-var cookie = readCookie("TedStyle");
+var cookie = readCookie("tedstyle");
 var title = cookie ? cookie : getPreferredStyleSheet();
 setActiveStyleSheet(title);
