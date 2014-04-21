@@ -25,10 +25,22 @@ description: Ted reviews things.
     <br>
     Coming soon:
     <li>
-    	<div class="clearfix">
-	    	Average is Over ★★★☆☆
-	    	<span class="align-right date">2014</span>
-    	</div>
+        <div class="clearfix">
+            Snow Crash ★★★☆☆
+            <span class="align-right date">2014</span>
+        </div>
+    </li>
+    <li>
+        <div class="clearfix">
+            The Rent is Too Damn High ★★★★☆
+            <span class="align-right date">2014</span>
+        </div>
+    </li>
+    <li>
+        <div class="clearfix">
+            Average is Over ★★★☆☆
+            <span class="align-right date">2014</span>
+        </div>
     </li>
     <li>
     	<div class="clearfix">

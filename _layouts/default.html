@@ -35,9 +35,6 @@
             <!--[if lt IE 9]>
             <script src="{{site.url}}/js/vendor/html5shiv.js"></script>
             <![endif]-->
-            
-        <!-- Style switcher -->
-        <script src="{{site.url}}/js/styleswitcher.js"></script>
         
         <!-- Jake is wary of jQuery -->
         {% if page.javascript contains 'jquery' %}
@@ -73,7 +70,7 @@
 
         <!-- The RIGHT style column-->  
         <div id="right-style-sidebar">
-          
+                      
             <!-- Bling bling. Bling bling. Bling bling. We're sorry, "TED SANDERS" is not available. Please leave a message after the beep. BEEP! -->
             <ul>
                 <!-- Luke, join the light side! Together we shall meaninglessly participate in the gridlocked democracy of the galaxy! -->
@@ -87,6 +84,7 @@
                 <!-- DISCO DANCE -->
                 <li><span onClick="setActiveStyleSheet('disco'); return false;"><img src="{{site.url}}/img/disco.png" alt="Luke, join the disco side! Together we shall dance with the galaxy!" width="32" height="32"></span></li>
             </ul>
+            
             <audio src="http://hillarysanders.com/music/firestorm.mp3" controls loop preload="none" class="invisible discovisible"><p>"Your computer does not support my totally rad HTML5 audio player. LAME!"</p></audio>
 
         </div>
@@ -103,7 +101,7 @@
                 {{ content }}
             </article>
             
-            <!--Disqus comments-->
+            <!--Disqus comments -->
             {% if page.comments == true %}
             <div id="comments">
             <div id="disqus-anchor">
@@ -136,7 +134,8 @@
 
         <!-- JavaScript -->
 
-
+        <!-- Style switcher -->
+        <script src="{{site.url}}/js/styleswitcher.js"></script>
 
         <!-- Google Analytics. The great gaze of Google sees all. Unless you close the page before this section loads. -->
         <script>
@@ -167,7 +166,7 @@
 
 
         <!-- Customized Modernizr with HTML5shiv removed (among other things) -->
-        <script src="{{site.url}}/js/vendor/modernizr.custom.95326.js"></script>
+        <script src="{{site.url}}/js/vendor/modernizr.custom.95326.js"></script>-->
 
     </body>
 </html>
