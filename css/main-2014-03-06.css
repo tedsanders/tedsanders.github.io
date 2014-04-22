@@ -230,10 +230,6 @@ pre {
     margin-left:0; /*Undo bullet fix*/
 }
 
-.no-justify {
-    text-align: left;
-}
-
 .text-left {
     text-align: left;
 }
