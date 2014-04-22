@@ -173,6 +173,10 @@ textarea {
    Style
    ========================================================================== */
 
+p {
+    text-align: justify;
+}
+
 a {
     text-decoration: none;
     color: #0645ad; /*wikipedia color*/
@@ -224,6 +228,10 @@ pre {
 .no-bullets {
     list-style:none;
     margin-left:0; /*Undo bullet fix*/
+}
+
+.no-justify {
+    text-align: left;
 }
 
 .text-left {
@@ -344,10 +352,6 @@ nav {
 
 /*desktop style*/
 @media all and (min-width: 56em) {
-
-    p {
-        /*text-align:justify;*/
-    }
 
     /*LEFT NAVIGATION SIDEBAR*/
 
