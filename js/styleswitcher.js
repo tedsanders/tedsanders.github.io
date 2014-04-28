@@ -3,20 +3,20 @@
 
 //The main function
 function setActiveStyleSheet(title) {
-	
+  
   //These will be needed
   var i, a, main;
   
   //Ok. Loop through all of the style sheets.
   for(i=0; (a = document.getElementsByTagName("link")[i]); i++) {
-	  
-	//If the stylesheet exists and has a title (i.e., is an alternate stylesheet), then proceed:
+    
+  //If the stylesheet exists and has a title (i.e., is an alternate stylesheet), then proceed:
     if(a.getAttribute("rel").indexOf("style") != -1 && a.getAttribute("title")) {
-		
-	  //Disable the stylesheet no matter what.
+    
+    //Disable the stylesheet no matter what.
       a.disabled = true;
-	  
-	  //Now toggle the stylesheet if the title matches
+    
+    //Now toggle the stylesheet if the title matches
       if(a.getAttribute("title") == title) a.disabled = false;
     }
   }

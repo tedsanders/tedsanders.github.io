@@ -53,3 +53,9 @@ h3 {
 .page-footer {
 	background: #1a1;
 }
+
+body{
+	opacity:.88;
+	background-image:url('http://www.tedsanders.com/img/gridlines24.png') !important;
+	background-repeat:repeat !important;
+}

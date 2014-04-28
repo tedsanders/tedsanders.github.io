@@ -11,7 +11,7 @@ tags: blog
 
 <p>Don't sue me.</p>
 
-<h3>How to properly claim tuition deductions/credits</h3>
+<h2>How to properly claim tuition deductions/credits</h2>
 
 <ul>
 <li><p>Most PhD students should not be claiming any education deductions/credits.</p></li>
@@ -33,7 +33,7 @@ tags: blog
 </li>
 
 </ul>
-<h3>Fellowships &amp; Scholarships</h3>
+<h2>Fellowships &amp; Scholarships</h2>
 <ul>
 
 
@@ -49,7 +49,7 @@ tags: blog
 </li>
 
 </ul>
-<h3>Miscellaneous</h3>
+<h2>Miscellaneous</h2>
 <ul>
 
 <li><p>You can e-file federal taxes for free at <br /><a href="http://www.irs.gov/uac/Free-File:-Do-Your-Federal-Taxes-for-Free">http://www.irs.gov/uac/Free-File:-Do-Your-Federal-Taxes-for-Free</a>.</p>

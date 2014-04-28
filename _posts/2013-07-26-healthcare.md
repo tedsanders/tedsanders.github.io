@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Healthcare
-subtitle: The two studies that everyone should know
+subtitle: The two studies everyone should know
 description: Ted talks healthcare.
 alias: /healthcare.php
 comments: true
@@ -10,9 +10,9 @@ tags: blog
 
 <p>Question: How does healthcare affect health?</p>
 
-<p>No one knows for sure. Only two randomized controlled studies have tried to answer that question. These are those two studies:</p>
+<p>No one knows for sure. Two major randomized controlled studies have tried to answer that question. These are those two studies:</p>
 
-<h3>#1: RAND Health Insurance Experiment</h3>
+<h2>#1: RAND Health Insurance Experiment</h2>
 
 <p>This $50 million study from the 70s is the gold standard of healthcare research, because it was randomized and controlled (and thus measured causation instead of correlation).</p>
 
@@ -29,7 +29,7 @@ tags: blog
 >&ldquo;A single experiment like the RAND HIE is not definitive. Among other things: it finished in 1982, and we live in a different world; any such experiment requires replication; it might be that the important health effects take much longer than 5 years to materialize, and so on. But as an observer of the health care debates, it always struck me as fascinating that the fact that the &ldquo;best evidence we have&rdquo; showed that providing health care coverage doesn't actually improve average health wasn't treated as more central.&rdquo;
 
 
-<h3>#2: Oregon Medicaid Health Experiment</h3>
+<h2>#2: Oregon Medicaid Health Experiment</h2>
 
 <p>In 2008, Oregon received extra money to enroll new patients in Medicaid. Oregon officials decided to enroll patients through a lottery, thereby creating a naturally randomized and controlled experiment for researchers to study. Roughly 90,000 people applied, and about a third were accepted (interestingly, only 60% of those accepted actually went ahead and signed up for free healthcare).</p>
 
@@ -47,11 +47,11 @@ tags: blog
 
 >&ldquo;So far, the new Oregon Health Insurance Experiment shows that for very poor and sick folks who go out of their way to request medical insurance, giving them such insurance makes them report feeling healthier. Two-thirds of this effect appears immediately on granting their request, and before they actually got more medical treatment. It remains to be seen if these healthy feelings will be reflected in more direct health measures, though that seems plausible, and we'll probably never see mortality effects.&rdquo;
 
-<h3>The bottom line:</h3>
+<h2>The bottom line:</h2>
 
 <p><em>Healthcare has only a small effect on mortality markers like blood pressure and cholesterol.</em></p>
 
-<h4>Three more surprising conclusions:</h4>
+<h3>Three more surprising conclusions:</h3>
 
 <ul class="bullets">
 <li>Increasing copays reduced &ldquo;appropriate&rdquo; care just as much as &ldquo;inappropriate&rdquo; care</li>
@@ -59,7 +59,7 @@ tags: blog
 <li>Patients report feeling healthier and less depressed before getting any treatment</li>
 </ul>
 
-<h4>And for balance, three unsurprising conclusions:</h4>
+<h3>And for balance, three unsurprising conclusions:</h3>
 
 <ul class="bullets">
 <li>Increasing healthcare access and subsidies raises utilization/costs (duh)</li>
@@ -71,7 +71,7 @@ tags: blog
 
 <p>Ultimately, I think the lesson is that you control your health far more than your doctor. If you have bad health habits, there's not much your doctor can do to stop you - statin pills are no match for Big Macs. Doctors can certainly help with short-term conditions like broken bones, but when it comes to risk factors for heart disease and cancer, they may be mostly powerless.</p>
 
-<h3>Further Reading</h3>
+<h2>Further Reading</h2>
 
 <ul>
 <li><a href="http://www.rand.org/pubs/research_briefs/RB9174/index1.html">The RAND Corporation on the RAND experiment</a></li>
@@ -88,7 +88,7 @@ tags: blog
 <li><a href="http://www.thedailybeast.com/articles/2013/05/13/how-not-to-cherry-pick-the-results-of-the-oregon-study-ultrawonkish.html">How Not to Cherry-Pick the Results of the Oregon Study by Jim Manzi</a></li>
 </ul>
 
-<h3>Epilogue</h3>
+<h2>Epilogue</h2>
 
 <p>It's truly bizarre how nonreceptive the healthcare debate is to data. Some senators argue we should have more healthcare, some senators argue we should have less. But none argue that we should test our discordant beliefs by funding another $50 million RAND study ($50 million is miniscule compared to the $2,000,000 million the US spends on healthcare each year).</p>
 

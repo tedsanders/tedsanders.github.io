@@ -59,7 +59,7 @@ tags: blog
 
 <p>So what does any of this have to do with Nate Silver and title of this post?</p>
 
-<p>Some time before the 2012 US Presidential Election, Nate Silver's forecast model showed that Obama had a 90% chance of winning the election. At the time, people like David Brooks, Joe Scarborough, and others argued that the election was still a 50/50 toss up.</p>
+<p>Some time before the 2012 US Presidential Election, Nate Silver's forecast model showed that Obama had a 90% chance of winning the election. At the same time, David Brooks, Joe Scarborough, and others argued that the election was still a 50/50 toss up.</p>
 
 <p>When Obama eventually won, many people in the media believed that the outcome vindicated Nate Silver's high degree of confidence and his polling model. But in doing so, they are ignoring the mathematical approach that Nate Silver preaches. The single data point of Obama's victory should only boost our belief in Nate Silver by a modest amount.
 </p>

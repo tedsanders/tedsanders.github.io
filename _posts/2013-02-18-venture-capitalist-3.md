@@ -35,7 +35,7 @@ Robot arm positioning is accurate down to hundredths of a millimeter:
 
 <p>Manufacturing and agriculture have already lost millions of jobs to machines, but so far the service sector, which employs 80% of working Americans, has remained largely unmechanized. This is not to say that the service sector doesn't use technology - clearly it does. Rather, in the service sector technology is a complement, not a substitute, to labor. However, robots are only getting better. It's only a matter of time before robots are cheaper than humans at performing service sector jobs. Below are the jobs I think are ripest for replacement by robots:</p>
 
-<h3>Robot Cooks</h3>
+<h2>Robot Cooks</h2>
 
 <p>Suppose you invented a machine that could prepare hamburgers less expensively than a minimum wage worker. How much do you think such a machine would be worth to McDonald's? McDonald's has about half a million employees, many of whom repeat simple tasks like assembling burgers, frying fries, and taking orders from customers. Machines that can cheaply and reliably make food are another multibillion dollar opportunity.</p>
 
@@ -50,11 +50,11 @@ Robot arm positioning is accurate down to hundredths of a millimeter:
 
 <br />
 
-<h3>Robot Cashiers</h3>
+<h2>Robot Cashiers</h2>
 
 <p>Self-checkout machines are already showing up at supermarkets and Jacks in the Boxes and other retailers. Admittedly, some self-checkout machines are terrible (e.g., &ldquo;unexpected item in the bagging area&rdquo;). However, as costs fall and designs improve, these <a href="http://www.youtube.com/watch?v=AhkP0RWQ68w">robot cashiers</a> will become commonplace. They save the store money and space, and the save the consumer time wasted in lines. Technology like RFID tags, which cost as little as three cents and have already obviated the need for lines at tollbridges, may soon eliminate grocery lines altogether.</p>
 
-<h3>Robot Drivers</h3>
+<h2>Robot Drivers</h2>
 
 <p>I don't know much about these, but smart people seem to think they're viable. And smart people in herds are never wrong.</p>
 
@@ -67,7 +67,7 @@ Robot arm positioning is accurate down to hundredths of a millimeter:
 
 
 
-<h3>Adaptable Robots</h3>
+<h2>Adaptable Robots</h2>
 
 <p>A big barrier to widespread use of robots is the need to custom design or custom program them for each job. Specialization and programming are expensive. Multipurpose robots that can be trained by regular people with no programming experience is a huge opportunity that may pave the way for widespread adoption of robot labor. The robotics industry is already working on this, and if they succeed, it could be a game changer.</p>
 
