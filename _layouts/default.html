@@ -8,19 +8,19 @@
         <meta name="description" content="{% if page.description %} {{ page.description }} {% else %} {{ site.description }} {% endif %}">
         <meta name="author" content="{{site.author}}"/>
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        
+
         <meta property="og:title" content="{{ page.title }}" />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="{{ site.url }}{{ page.url | remove: 'index.html' }}" />
         <meta property="og:image" content="{{site.url}}/img/og-ted.PNG" />
         <meta property="og:description" content="{% if page.description %} {{ page.description }} {% else %} {{ site.description }} {% endif %}" />
         <meta property="og:locale" content="en_US" />
-        
+
         <link rel="alternate" type="application/rss+xml" title="RSS Feed" href="{{site.url}}/feed.xml" />
         <link rel="icon" href="{{ site.url }}/favicon.ico" type="image/x-icon" />
 
-        <link rel="stylesheet" href="{{site.url}}/css/main-2014-05-24.css">
-        
+        <link rel="stylesheet" href="{{site.url}}/css/main-2014-07-24.css">
+
         <link rel="alternate stylesheet" href="{{site.url}}/css/3D.css" title="3D">
         <link rel="alternate stylesheet" href="{{site.url}}/css/rainbow.css" title="rainbow">
         <link rel="alternate stylesheet" href="{{site.url}}/css/dark.css" title="dark">
@@ -35,7 +35,7 @@
             <!--[if lt IE 9]>
             <script src="{{site.url}}/js/vendor/html5shiv.js"></script>
             <![endif]-->
-        
+
         <!-- Jake is wary of jQuery -->
         {% if page.javascript contains 'jquery' %}
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
@@ -65,12 +65,12 @@
                     <li><a href="{{site.url}}/graphs/">Graphs</a></li>
                 </ul>
             </nav>
-            
+
         </div>
 
-        <!-- The RIGHT style column-->  
+        <!-- The RIGHT style column-->
         <div id="right-style-sidebar">
-                      
+
             <!-- Bling bling. Bling bling. Bling bling. We're sorry, "TED SANDERS" is not available. Please leave a message after the beep. BEEP! -->
             <ul>
                 <!-- Luke, join the light side! Together we shall meaninglessly participate in the gridlocked democracy of the galaxy! -->
@@ -84,7 +84,7 @@
                 <!-- DISCO DANCE -->
                 <li><span onClick="setActiveStyleSheet('disco'); return false;"><img src="{{site.url}}/img/disco.png" alt="Luke, join the disco side! Together we shall dance with the galaxy!" width="32" height="32"></span></li>
             </ul>
-            
+
             <audio src="http://hillarysanders.com/music/firestorm.mp3" controls loop preload="none" class="invisible discovisible"><p>"Your computer does not support my totally rad HTML5 audio player. LAME!"</p></audio>
 
         </div>
@@ -100,7 +100,7 @@
                 </header>
                 {{ content }}
             </article>
-            
+
             <!--Disqus comments -->
             {% if page.comments == true %}
             <div id="comments">
@@ -114,7 +114,7 @@
 
             <!-- FOOTER -->
             <footer class="page-footer vcard">
-                <hr>
+                <hr class="mobile-hidden">
                 <div class="align-left copyright">Copyright 2014</div>
                 <div id="feedbox"><a href="http://feeds.feedburner.com/tedsanders" title="Subscribe to my feed" rel="alternate" type="application/rss+xml"><img class="icon-bump" src="http://www.feedburner.com/fb/images/pub/feed-icon16x16.png" alt="RSS"/></a></div>
                 <div class="align-right fn"><a id="google-author" href="https://plus.google.com/+TedSandersDoublePlusGood?rel=author">Ted Sanders</a></div>
@@ -137,7 +137,7 @@
         <!-- Style switcher -->
         <script src="{{site.url}}/js/styleswitcher.js"></script>
 
-        <!-- Google Analytics. The great gaze of Google sees all. Unless you close the page before this section loads. --> 
+        <!-- Google Analytics. The great gaze of Google sees all. Unless you close the page before this section loads. -->
         <script>
           (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
           (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

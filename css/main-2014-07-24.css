@@ -295,15 +295,17 @@ pre {
 /*LEFT NAVIGATION SIDEBAR*/
 #left-navigation-sidebar ul {
   list-style: none;
-  padding-top: 0.6rem;
-  padding-bottom: 1rem;
-  margin: 0;
-  padding-left: 5%;
+  margin:0;
+  padding: 0.5rem 0;
+  overflow:auto;
+  background: #DDD;}
 
-  display: inline-block;
+#left-navigation-sidebar li {
   float: left;
   width: 50%;
   text-align: center;}
+
+#left-navigation-sidebar li:first-child {width:100%;}
 
 #tedsanders, #tedsanders:visited {
   font-weight: bold;
@@ -335,13 +337,11 @@ nav {
   left: 0;
   right: 0;
   position: absolute;
-  padding-bottom: 1rem;
-  padding-left: 1rem;
-  padding-right: 1rem;
+  padding: 1rem;
   font-style: italic;
-  background: white; }
+  background: #DDD; }
 
-.footer-fix {
+.footer-fix:last-of-type {
   margin-bottom: 6rem; }
 
 #feedbox {
@@ -386,6 +386,16 @@ nav {
   color: #000;
   padding: 0.2rem 0; }
 
+/*phablet style?*/
+@media all and (min-width: 28rem) {
+  #left-navigation-sidebar li {width:25%;}
+  }
+
+/*subtractive mobile styles*/
+@media all and (max-width: 56rem) {
+  .mobile-hidden {display: none !important;visibility:hidden;}
+}
+
 /*desktop style*/
 @media all and (min-width: 56rem) {
   /*LEFT NAVIGATION SIDEBAR*/
@@ -399,7 +409,15 @@ nav {
   #left-navigation-sidebar ul {
     padding-left: 1rem;
     /*reset mobile version*/
-    padding-bottom: 0; }
+    padding-top: 0.6rem;
+    margin: 0;
+    background: none;
+    padding-bottom: 0;}
+
+  #left-navigation-sidebar li{
+    float:none;
+    text-align:left;
+    width:100%;}
 
   #tedsanders, #tedsanders:visited {
     font-weight: bold;
@@ -438,8 +456,9 @@ nav {
 
   /*Footer*/
   .page-footer {
-    padding-left: 0;
-    padding-right: 0s; } }
+    padding: 1rem 0;
+    background:white; /*this is on purpose, future Ted*/}
+  }
 /*bigger desktop*/
 @media all and (min-width: 75rem) {
   #center-content-column {
