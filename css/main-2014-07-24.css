@@ -294,15 +294,15 @@ pre {
 
 /* Other classes? */
 .list-row:nth-child(even) {
-  background: #DEF;
-  margin: 0 -2rem;
-  padding:0.5rem 2rem;
+  background: #FED;
+  margin: 0 -1rem;
+  padding:0.5rem 1rem;
 }
 
 .list-row:nth-child(odd) {
-  background: #EEE;
-  margin: 0 -2rem;
-  padding:0.5rem 2rem;
+  background: #EFD;
+  margin: 0 -1rem;
+  padding:0.5rem 1rem;
 }
 
 .list-title {
@@ -351,7 +351,7 @@ nav {
 /*CENTER COLUMN*/
 #center-content-column {
   width: auto;
-  padding: 0 2rem;
+  padding: 0 1rem;
   min-height: 100%;
   position: relative;
   overflow: auto; }
