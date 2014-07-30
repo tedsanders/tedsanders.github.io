@@ -6,10 +6,10 @@ description: Ted graphs data.
 
 <ul class="no-bullets">
   {% for post in site.categories.graphs %}
-    <li>
+    <li class="list-row">
     	<div class="clearfix">
-	    	<a class="align-left" href="{{ post.url }}">{{ post.title }}</a>
-	    	<span class="align-right date"><time datetime="{{post.date|date:"%F"}}">{{post.date|date:"%d %b %Y"}}</time></span>
+	    	<a class="align-left list-title" href="{{ post.url }}">{{ post.title }}</a>
+	    	<span class="align-right list-date date"><time datetime="{{post.date|date:"%F"}}">{{post.date|date:"%d %b %Y"}}</time></span>
     	</div>
     </li>
   {% endfor %}
@@ -34,4 +34,3 @@ description: Ted graphs data.
 <li><a href="http://www.janwillemtulp.com/category/d3/">http://www.janwillemtulp.com/category/d3/</a></li>
 <li><a href="http://blog.visual.ly/creating-animations-and-transitions-with-d3-js/">http://blog.visual.ly/creating-animations-and-transitions-with-d3-js/</a></li>
 </ul>
-

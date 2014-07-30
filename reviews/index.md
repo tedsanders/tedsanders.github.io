@@ -6,9 +6,9 @@ description: Ted reviews things.
 
 <ul class="no-bullets">
   {% for post in site.categories.reviews %}
-    <li>
+    <li class="list-row">
     	<div class="clearfix">
-	    	<a class="align-left" href="{{ post.url }}">{{ post.title }}
+	    	<a class="align-left list-title" href="{{ post.url }}">{{ post.title }}
 	    	{% if post.stars == 0 %} &nbsp;&nbsp;☆☆☆☆☆
 	    	{% elsif post.stars == 1 %} &nbsp;&nbsp;★☆☆☆☆
 	    	{% elsif post.stars == 2 %} &nbsp;&nbsp;★★☆☆☆
@@ -17,68 +17,68 @@ description: Ted reviews things.
 	    	{% elsif post.stars == 5 %} &nbsp;&nbsp;★★★★★
 	    	{% endif %}
         </a>
-	    	<span class="align-right date"><time datetime="{{post.date|date:"%F"}}">{{post.date|date:"%d %b %Y"}}</time></span>
+	    	<span class="align-right list-date date"><time datetime="{{post.date|date:"%F"}}">{{post.date|date:"%d %b %Y"}}</time></span>
     	</div>
     </li>
   {% endfor %}
 
     <br>
     Coming soon:
-    <li>
+    <li class="list-row">
         <div class="clearfix">
             Snow Crash ★★★☆☆
             <span class="align-right date">2014</span>
         </div>
     </li>
-    <li>
+    <li class="list-row">
         <div class="clearfix">
             The Rent is Too Damn High ★★★★☆
             <span class="align-right date">2014</span>
         </div>
     </li>
-    <li>
+    <li class="list-row">
         <div class="clearfix">
             Average is Over ★★★☆☆
             <span class="align-right date">2014</span>
         </div>
     </li>
-    <li>
+    <li class="list-row">
     	<div class="clearfix">
 	    	On Writing ★★☆☆☆
 	    	<span class="align-right date">2013</span>
     	</div>
     </li>
-    <li>
+    <li class="list-row">
     	<div class="clearfix">
 	    	Ninety Percent of Everything ★★★★☆
 	    	<span class="align-right date">2013</span>
     	</div>
     </li>
-    <li>
+    <li class="list-row">
     <div class="clearfix">
 	    	So Good They Can't Ignore You ★★★★☆
 	    	<span class="align-right date">2013</span>
     	</div>
     </li>
-    <li>
+    <li class="list-row">
     	<div class="clearfix">
 	    	Europe's Financial Crisis ★★★☆☆
 	    	<span class="align-right date">2013</span>
     	</div>
     </li>
-    <li>
+    <li class="list-row">
     	<div class="clearfix">
 	    	The Lights in the Tunnel ★★☆☆☆
 	    	<span class="align-right date">2013</span>
     	</div>
     </li>
-    <li>
+    <li class="list-row">
     	<div class="clearfix">
 	    	Harry Potter and the Methods of Rationality ★★★☆☆
 	    	<span class="align-right date">2013</span>
     	</div>
     </li>
-    <li>
+    <li class="list-row">
     	<div class="clearfix">
 	    	Thinking, Fast and Slow ★★★★☆
 	    	<span class="align-right date">2012</span>
