@@ -293,14 +293,14 @@ pre {
 
 
 /* Other classes? */
-.list-row:nth-child(even) {
-  background: #FED;
+.list-row:nth-child(odd) {
+  background: #DEF;
   margin: 0 -1rem;
   padding:0.5rem 1rem;
 }
 
-.list-row:nth-child(odd) {
-  background: #EFD;
+.list-row:nth-child(even) {
+  background: #EEE;
   margin: 0 -1rem;
   padding:0.5rem 1rem;
 }
