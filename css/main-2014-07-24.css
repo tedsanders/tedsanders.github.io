@@ -293,16 +293,16 @@ pre {
 
 
 /* Other classes? */
-.list-row:nth-child(even) {
+.list-row:nth-child(odd) {
   background: #DEF;
-  margin: 0 -2rem;
-  padding:0.5rem 2rem;
+  margin: 0 -1rem;
+  padding:0.5rem 1rem;
 }
 
-.list-row:nth-child(odd) {
+.list-row:nth-child(even) {
   background: #EEE;
-  margin: 0 -2rem;
-  padding:0.5rem 2rem;
+  margin: 0 -1rem;
+  padding:0.5rem 1rem;
 }
 
 .list-title {
@@ -351,7 +351,7 @@ nav {
 /*CENTER COLUMN*/
 #center-content-column {
   width: auto;
-  padding: 0 2rem;
+  padding: 0 1rem;
   min-height: 100%;
   position: relative;
   overflow: auto; }
@@ -425,7 +425,8 @@ nav {
 @media all and (min-width: 56rem) {
   .list-row:nth-child(n) {
     background:none;
-    padding-bottom:0;
+    padding:0;
+    margin:0;
     }
 
   /*LEFT NAVIGATION SIDEBAR*/
