@@ -7,16 +7,17 @@ alias: /about.php
 
 <img id="tedshot" src="/img/tedshot.jpg" height="260" width="215" alt="tedshot" />
 
-I am earning a PhD in [Applied Physics](http://www.stanford.edu/dept/app-physics/cgi-bin/) at [Stanford University](http://www.stanford.edu).
+I am a technologist earning a PhD in [Applied Physics](http://www.stanford.edu/dept/app-physics/cgi-bin/) at [Stanford University](http://www.stanford.edu). I am in awe of humankind's accomplishments and excited about where we're headed.
 
-<p class="text-left">I've published research on a variety of technologies, including <a href="http://link.aps.org/doi/10.1103/PhysRevLett.109.076603">organic spintronic devices</a>, <a href="http://dx.doi.org/10.1063/1.4795725">writeable nanotransistors</a>, <a href="https://en.wikipedia.org/wiki/Lanthanum_aluminate-strontium_titanate_interface">metal-insulator transitions</a>, quantum well solar cells, <a href="{{ site.url }}/LaFePO">high-temperature superconductors</a>, and the smart grid.</p>
+As a scientist & engineer, I've published research on magnetic thin films, [organic spintronics](http://dx.doi.org/10.1103/PhysRevLett.109.076603), [writeable nanotransistors](http://dx.doi.org/10.1063/1.4795725), [2D electron gases](https://en.wikipedia.org/wiki/Lanthanum_aluminate-strontium_titanate_interface), quantum well solar cells, [high-temperature superconductors]({{ site.url }}/LaFePO), and batteries for the smart grid. Soon my website will have a new section that looks at how different technologies have progressed over the last century.
 
-<p class="text-left">As an <a href="http://www.nsfgrfp.org/">NSF Graduate Fellow</a>, I also spend <a href="{{ site.url }}/service">a great deal of time</a> promoting science at events like the the <a href="http://www.sfbasf.org/">San Francisco Science Fair</a>, the <a href="http://www.bayareascience.org/">Bay Area Science Festival</a>, and <a href="http://science.energy.gov/wdts/nsb/">Science Bowl</a>. Recently, I helped pilot early demonstrations of the <a href="http://www.moore.org/grants/list/GBMF3797">world's cheapest microscope</a>, which has 140x magnification yet costs less than a dollar. Some of my volunteering has even been <a href="http://www.whitehouse.gov/blog/2010/05/12/national-lab-day-dinner-with-a-scientist">covered by the White House</a>.</p>
+As an [NSF Graduate Fellow](http://www.nsfgrfp.org/) & science communicator, I've co-hosted a weekly science/comedy [podcast](http://gogglesoptional.com/) with 30k+ downloads, judged at science fairs/[competitions](http://science.energy.gov/wdts/nsb/), [volunteered]({{ site.url }}/service) at science events around the Bay, and piloted early demonstrations of [the world's cheapest microscope](http://www.moore.org/grants/list/GBMF3797). Some of my volunteering has even been covered by the White House[(http://www.whitehouse.gov/blog/2010/05/12/national-lab-day-dinner-with-a-scientist).
 
-<p class="text-left">For more web goodness from the Sanders gene pool, visit <a href="http://hillarysanders.com/">hillarysanders.com</a> or <a href="http://www.kfc.com/">KFC.com</a>.</p>
+<p class="text-left">As a humanitarian & effective altruist, I donate [10% of my income](https://www.givingwhatwecan.org/get-involved/what-you-can-achieve) to help solve [malaria](http://www.givewell.org/international/top-charities/amf), [parasitic worms](http://www.givewell.org/international/top-charities/deworm-world-initiative), and [poverty](http://www.givewell.org/international/top-charities/give-directly). If you are able, I encourage you to join. Your actions matter.
 
-<p>You can also find me on:</p>
+For more web goodness from the Sanders gene pool, visit [hillarysanders.com](http://hillarysanders.com/) or [KFC.com](http://www.kfc.com/).
 
+You can also find me on:
 
 <ul class="no-bullets">
 <li><a href="http://www.facebook.com/tedsanders"><img class="icon-bump inline-block" src="http://www.facebook.com/favicon.ico" width="16" height="16" /> Facebook</a></li>
