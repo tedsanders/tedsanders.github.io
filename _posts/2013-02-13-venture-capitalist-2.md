@@ -14,7 +14,7 @@ tags: blog
 
 <p>Of course, this great inefficiency is all by design. When you buy a car, part of what you pay for is the option value. Not only are you paying for the transportation, you are paying for the guarantee that transportation will be available when you need it. Option value is why it makes sense to buy something that spends most of its life doing nothing.</p>
 
-<p>However, digital technology is enabling new ways of coordinating resources that have never been feasible in the past. Through schemes like variable pricing, online scheduling, and peer-to-peer business transactions it is now easier than ever before to share things without sacrificing the reliability or option value traditionally associated with ownership. That is the main idea behind the companies in this category.</p>
+<p>However, digital technology is enabling new ways of coordinating resources that have never been feasible in the past. Through schemes like variable pricing, online scheduling, and peer-to-peer business transactions, it is now easier than ever before to share things without sacrificing the reliability or option value traditionally associated with ownership. That is the main idea behind the companies in this category.</p>
 
 <p>Below are business ideas (most of which are already companies) that I predict will grow over the next few decades. They all succeed by using digital technology to coordinate the sharing of high-fixed-cost capital goods.</p>
 

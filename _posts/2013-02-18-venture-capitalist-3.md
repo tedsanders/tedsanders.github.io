@@ -56,7 +56,7 @@ Robot arm positioning is accurate down to hundredths of a millimeter:
 
 <h2>Robot Drivers</h2>
 
-<p>I don't know much about these, but smart people seem to think they're viable. And smart people in herds are never wrong.</p>
+<p>I don't know much about these, but smart people seem to think they're viable. And smart people in herds have never been wrong.</p>
 
 
 <p>Here's a video of an autonomous car trying to park:</p>

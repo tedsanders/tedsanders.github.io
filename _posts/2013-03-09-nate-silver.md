@@ -10,7 +10,7 @@ tags: blog
 <p>Mr Blue claims a weighted coin is biased to land heads 90% of the time. Mr Red claims the coin is biased to land heads 50% of the time. You flip the coin only once, and it lands heads. Who was right?
 </p>
 
-<p>This question is a deep one.
+<p>This question is surprisingly deep, so let's take it one step at a time.
 </p>
 
 <p>Clearly, after only one flip, we can't say for certain who was right, since both men predicted that heads had a chance of coming up (they only disagreed on the probabilities, not the possibilities). And yet, there is a sense that Mr Blue, who predicted a 90% chance of heads, was more corroborated by reality than Mr Red, who predicted only a 50% chance. But how much more credit does Mr Blue deserve?

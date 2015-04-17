@@ -8,7 +8,7 @@ tags: blog
 comments: true
 ---
 
-Nine theses about the future, excerpted from a message I wrote to a friend last year:
+Nine theses about the future, excerpted from my late-night flirting on OkCupid:
 
 1) "The Great Stagnation": Technological growth is slowing down. The industrial revolution has mostly petered out. Digital technology is an exception, but even now we're already starting to hit the end of Moore's law. Software will advance longer and faster than hardware, but it too will hit diminishing returns.
 
@@ -22,7 +22,7 @@ Nine theses about the future, excerpted from a message I wrote to a friend last 
 
 6) "Average is over": Another consequence of digital goods being so cheap to distribute is that economies of scale will kick in and markets for digital goods will become more winner-take-all. This will result in fewer companies and possibly fewer jobs producing fewer products with giant budgets (i.e., blockbusters). This is already happening with movies, video games, and TV. (People don't realize it, but in this sense sports are a digital good. It costs about the same to televise an NFL game to 1 million people or 1 billion people.) A result of all this is that digital goods will get cheaper and people will consume more of them.
 
-7) "Personalization": In some ways, technology will reduce personalization. Because smartphones must be mass produced to be economical, it's not feasible for everyone to have a unique smartphone like they have more unique art or clothes. Nonetheless, as wealth rises, people tend to spend more on fashion and style and personalization, and I predict this trend will not abate. Personalization will flourish as new manufacturing technologies like 3D printing make it easier to personalize physical goods and software makes it easier to personalize digital goods.
+7) "Personalization": In some ways, technology will reduce personalization. Because smartphones must be mass produced to be economical, it's not feasible for everyone to have a unique smartphone like they have more unique art or clothes. Nonetheless, as wealth rises, people tend to spend more on fashion and style and personalization, and I predict this trend will not abate. Personalization will flourish as computer-controlled manufacturing technologies make it easier to personalize physical goods and software makes it easier to personalize digital goods.
 
 8) "Social stratification": A consequence of increasing automation and winner-take-all digital markets is that income inequality will continue to rise. There may also be fewer jobs, as innovation slows and the creation of new jobs fails to match the automation of old jobs. The average person may enjoy cheaper goods, but not necessarily a higher income. When people realize that economic growth is slowing down and that the average worker is not necessarily getting richer, it may change generational attitudes.
 
