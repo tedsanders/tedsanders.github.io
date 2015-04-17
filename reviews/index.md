@@ -49,12 +49,6 @@ description: Ted reviews things.
     	</div>
     </li>
     <li class="list-row">
-    	<div class="clearfix">
-	    	Ninety Percent of Everything ★★★★☆
-	    	<span class="align-right date">2013</span>
-    	</div>
-    </li>
-    <li class="list-row">
     <div class="clearfix">
 	    	So Good They Can't Ignore You ★★★★☆
 	    	<span class="align-right date">2013</span>
