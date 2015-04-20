@@ -8,7 +8,7 @@ tags: blog
 comments: true
 ---
 
-Nine theses about the future, excerpted from my late-night flirting on OkCupid:
+Nine theses about the future, excerpted from a late-night message to a friend:
 
 1) "The Great Stagnation": Technological growth is slowing down. The industrial revolution has mostly petered out. Digital technology is an exception, but even now we're already starting to hit the end of Moore's law. Software will advance longer and faster than hardware, but it too will hit diminishing returns.
 
