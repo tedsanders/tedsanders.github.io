@@ -16,9 +16,9 @@ tags: blog
 <li><b>1960 - Present</b>: Computers, internet, mobile phones</li>
 </ul>
 
-<p>The first two industrial revolutions each took about 100 years to percolate all the way through the American economy, before diminishing returns set in. Gordon believes the third industrial revolution (the digital revolution) is already sputtering out after 40 years, considering how productivity growth has been falling since 2004.</p>
+<p>The first two industrial revolutions each took about 100 years to percolate all the way through the American economy, before diminishing returns set in significantly. Gordon believes the third industrial revolution (the digital revolution) is already sputtering out after 40 years, seeing how productivity growth has been decelerating since 2004.</p>
 
-<p>Nevertheless, I think the digital revolution is still in its infancy. Imagine the worst case scenario: starting tomorrow, society stops making new scientific and technological discoveries. Even amidst such stagnation, I believe our society has decades and decades of innovation and investment left, just by using today's technology in new ways.</p>
+<p>Nevertheless, I think the digital revolution is still in its infancy. Imagine the worst case scenario: starting tomorrow, Moore's law halts. Even amidst such stagnation, I believe society has decades of innovation and investment left, just by using today's technology in new ways.</p>
 
 <p>Today you can buy a computer for <a href="http://www.raspberrypi.org/">$25</a>, and embedded chips for even less. Yet most things in our lives are not yet networked or sensing or intelligent. Why? I think this is not an issue of technology, but time. It does not cost much to manufacture networking, sensing, and intelligence capability into everyday devices. But it doesn't happen right away because there are large fixed development costs and large barriers to market acceptance. However, with enough time (<em>and needing no new fundamental technology</em>) these obstacles will be eventually overcome. The potential is too tremendous to be ignored.</p>
 
