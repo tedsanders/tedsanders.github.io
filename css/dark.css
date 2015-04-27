@@ -4,8 +4,8 @@ html,button,input,select,textarea,blockquote,
 h1,h2,h3,h4,h5,h6,
 header,body,footer,
 article,span,div,nav,
-ol,ul,li, 
+ol,ul,li,
 a {
 	background: #000 !important;
-	color: #FFF !important;
+	color: #DDD !important;
 }
