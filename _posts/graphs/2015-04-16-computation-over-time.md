@@ -2,7 +2,7 @@
 layout: default
 description: The past, present, and future of computation
 title: Progress in computation
-subtitle: 
+subtitle:
 categories: graphs
 tags: trends
 comments: true
@@ -14,6 +14,6 @@ comments: true
 
 [![Cost of computing over time](http://www.extremetech.com/wp-content/uploads/2015/04/MooresLaw2.png)](http://www.extremetech.com/extreme/203490-moores-law-is-dead-long-live-moores-law)
 
-And a bunch of great plots that this page (http://www.cgee.org.br/atividades/redirKori/3694) used to link to. :(
+And this superb paper, with even better plots than I showed above: [A functional approach for studying technological progress: Application to information technology](https://dx.doi.org/10.1016/j.techfore.2006.06.001)
 
 Analysis coming soon.
