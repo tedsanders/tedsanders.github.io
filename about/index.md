@@ -7,7 +7,7 @@ alias: /about.php
 
 <img id="tedshot" src="/img/tedshot.jpg" height="260" width="215" alt="tedshot" />
 
-I am a technologist earning a PhD in [Applied Physics](http://www.stanford.edu/dept/app-physics/cgi-bin/) at [Stanford University](http://www.stanford.edu). In my spare time, I like to simulate old age by playing bridge and accumulating knee injuries.
+I am a technologist earning a PhD in [Applied Physics](http://www.stanford.edu/dept/app-physics/cgi-bin/) at [Stanford University](http://www.stanford.edu).
 
 As a scientist & engineer, I've published research on magnetic thin films, [organic spintronics](http://dx.doi.org/10.1103/PhysRevLett.109.076603), [writeable nanotransistors](http://dx.doi.org/10.1063/1.4795725), [2D electron gases](https://en.wikipedia.org/wiki/Lanthanum_aluminate-strontium_titanate_interface), nanowire solar cells, [high-temperature superconductors]({{ site.url }}/LaFePO), and batteries for the smart grid. (Soon my website will have a new section that looks at how various technologies have progressed - or not progressed - over the last century.)
 
