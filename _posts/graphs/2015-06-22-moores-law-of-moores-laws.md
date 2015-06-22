@@ -1,11 +1,10 @@
 ---
 layout: default
-description:
+description: The number of Moore's laws doubles every five years.
 title: Moore's Law of Moore's Laws
-subtitle: The number of "Moore's Law for/of XYZ" doubles every 5 years.
+subtitle: Every five years, the number of Moore's Laws doubles.
 categories: graphs
 tags:
-comments: false
 javascript: d3
 ---
 
