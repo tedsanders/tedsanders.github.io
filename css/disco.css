@@ -1,6 +1,5 @@
 .discovisible {
-  margin-top: 1em;
-  visibility: visible !important;	
+  visibility: visible !important;
 }
 
 .beam{
@@ -24,31 +23,31 @@ opacity: 0.5;
 }
 
 @-webkit-keyframes spintheball{
-50% { 
+50% {
 -webkit-transform: skewX(40deg) translate(100px,0);
 }
 }
 
 @-moz-keyframes spintheball{
-50% { 
+50% {
 -moz-transform: skewX(40deg) translate(100%,0);
 }
 }
 
 @-ms-keyframes spintheball{
-50% { 
+50% {
 -ms-transform: skewX(40deg) translate(100%,0);
 }
 }
 
 @-o-keyframes spintheball{
-50% { 
+50% {
 -o-transform: skewX(40deg) translate(100%,0);
 }
 }
 
 @keyframes spintheball{
-50% { 
+50% {
 transform: skewX(40deg) translate(100px,0);
 }
 }

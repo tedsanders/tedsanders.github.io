@@ -5,7 +5,7 @@ h1,h2,h3,h4,h5,h6,
 header,body,footer,
 article,span,div,nav,
 ol,ul,li,
-a {
+a,p {
 	background: #000 !important;
 	color: #DDD !important;
 }

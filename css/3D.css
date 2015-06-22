@@ -3,17 +3,17 @@ h1,h2,h3,h4,h5,h6,
 header,body,footer,
 article,span,div,nav,
 ol,ul,li,
-a {
+a, p {
 	color:rgba(255,0,0,0.5)!important;
-	text-shadow: rgba(0,255,255,0.5) 4px 0px 0px!important;	
+	text-shadow: rgba(0,255,255,0.5) 4px 0px 0px!important;
 }
 
 h1, h2, h3, h1 a, h2 a, h3 a, h1 a:visited, h2 a:visited, h3 a:visited, article time {
 	color:rgba(255,0,0,0.5)!important;
-	text-shadow: rgba(0,255,255,0.5) 6px 0px 0px!important;	
+	text-shadow: rgba(0,255,255,0.5) 6px 0px 0px!important;
 }
 
 #tedsanders {
 	color:rgba(255,0,0,0.5)!important;
-	text-shadow: rgba(0,255,255,0.5) 8px 0px 0px!important;	
+	text-shadow: rgba(0,255,255,0.5) 8px 0px 0px!important;
 }
