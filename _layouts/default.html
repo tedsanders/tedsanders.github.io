@@ -85,7 +85,7 @@
                 <li><span onClick="setActiveStyleSheet('disco'); return false;"><img src="{{site.url}}/img/disco.png" alt="Luke, join the disco side! Together we shall dance with the galaxy!" width="32" height="32"></span></li>
             </ul>
 
-            <audio src="{{ site.url }}/Martinibomb_-_01_-_cha_lectro_cha_cha.mp3" controls loop preload="none" type="audio/mpeg" class="invisible discovisible"><p>"Your computer does not support my totally rad HTML5 audio player. LAME!"</p></audio>
+            <audio src="{{ site.url }}/Martinibomb_-_01_-_cha_lectro_cha_cha.mp3" controls loop preload="none" type="audio/mpeg" class="invisible discovisible" id="disco-music-player"><p>"Your computer does not support my totally rad HTML5 audio player. LAME!"</p></audio>
             <p id="disco-text" class="invisible discovisible"><a href="https://freemusicarchive.org/music/Martinibomb/The_Coconut_Monkeyrocket__Martinibomb_SPLIT/csr016_01_martinibomb_-_cha-letctro-cha-cha">Martinibomb's cha l'ectro cha cha</a></p>
 
         </div>
@@ -170,5 +170,9 @@
         <!-- Customized Modernizr with HTML5shiv removed (among other things) -->
         <script src="{{site.url}}/js/vendor/modernizr.custom.95326.js"></script>
 
+        <!-- Set music player volume to 50% -->
+        <script>
+              document.getElementById("disco-music-player").backgroundAudio.volume=0.5;
+        </script>
     </body>
 </html>
