@@ -39,7 +39,7 @@
         <!-- Jake wary of jQuery -->
         {% if page.javascript contains 'jquery' %}
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-        <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
+        <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.2.min.js"></script>')</script>
         {% endif %}
 
         <!-- D3 does not support 3D, ironically. -->
@@ -85,7 +85,7 @@
                 <li><span onClick="setActiveStyleSheet('disco'); return false;"><img src="{{site.url}}/img/disco.png" alt="Luke, join the disco side! Together we shall dance with the galaxy!" width="32" height="32"></span></li>
             </ul>
 
-            <audio src="{{ site.url }}/Martinibomb_-_01_-_cha_lectro_cha_cha.mp3" controls loop preload="none" class="invisible discovisible"><p>"Your computer does not support my totally rad HTML5 audio player. LAME!"</p></audio>
+            <audio src="{{ site.url }}/Martinibomb_-_01_-_cha_lectro_cha_cha.mp3" controls loop preload="none" type="audio/mpeg" class="invisible discovisible"><p>"Your computer does not support my totally rad HTML5 audio player. LAME!"</p></audio>
             <p id="disco-text" class="invisible discovisible"><a href="https://freemusicarchive.org/music/Martinibomb/The_Coconut_Monkeyrocket__Martinibomb_SPLIT/csr016_01_martinibomb_-_cha-letctro-cha-cha">Martinibomb's cha l'ectro cha cha</a></p>
 
         </div>
