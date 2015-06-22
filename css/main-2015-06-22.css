@@ -441,13 +441,13 @@ nav {/*for mobile*/
 
   #tedsanders, #tedsanders:visited {
     font-weight: bold;
-    font-size: 1.5rem;
+    font-size: 1.25rem;
     color: #333; }
 
   nav {
     font-size: 1rem;
     margin: 1rem;
-    margin-top: 0.9rem; /*hacky adjustment*/
+    margin-top: 0.8rem; /*hacky adjustment*/
 }
 
   /*RIGHT STYLE SIDEBAR*/
