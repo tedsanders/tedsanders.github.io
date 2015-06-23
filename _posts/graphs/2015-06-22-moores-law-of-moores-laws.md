@@ -22,7 +22,7 @@ Blank
   <defs>
 
     <linearGradient id="bar" x1="0%" y1="0%" x2="100%" y2="0%" spreadMethod="pad">
-      <stop offset="72%" style="stop-color:rgb(255,170,170)" />
+      <stop offset="72%" style="stop-color:rgb(137,207,240)" />
       <stop offset="100%" style="stop-color:rgb(255,255,255)" />
     </linearGradient>
 
