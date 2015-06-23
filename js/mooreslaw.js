@@ -93,7 +93,7 @@ var points = svg.selectAll('circle')
                 cx:function(d){return 12*(d[0]-1970)},
                 cy:function(d,i){return 700-barheight*i+barheight/2},
                 fill:'black',
-                stroke:'#FAA',
+                stroke:'#89CFF0',
                 "stroke-width":'3'
               });
 
@@ -106,7 +106,8 @@ var labels = svg.selectAll('text')
                 x:function(d){return 12*(d[0]-1970)+7},
                 y:function(d,i){return 700-barheight*i+barheight-3},
                 fill:'black',
-                "font-size":barheight-2
+                "font-size":barheight-2,
+                "font-family":'sans-serif'
               });
 
 var fit = svg.append("path")
