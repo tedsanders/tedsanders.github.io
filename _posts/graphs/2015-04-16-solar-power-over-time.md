@@ -12,4 +12,6 @@ comments: true
 
 [![solar efficiency](http://www.nrel.gov/ncpv/images/efficiency_chart.jpg)](http://www.nrel.gov/ncpv/)
 
+Also, an interesting paper that looks at the historical rate of solar cell improvement (~9% W/$ per year for the past 30 years): [On improvement rates for renewable energy technologies: Solar PV, wind turbines, capacitors, and batteries](https://dx.doi.org/10.1016/j.renene.2014.03.002)
+
 Analysis coming soon.
