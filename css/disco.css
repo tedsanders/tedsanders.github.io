@@ -2,6 +2,35 @@
   visibility: visible !important;
 }
 
+body,footer{
+	background: #CCC !important;
+}
+
+#disco-lights {
+  /*Snow effect from the internet*/
+  pointer-events:none;
+  background: none;
+	background-image: url('http://www.wearewebstars.dk/codepen/img/s1.png'), url('http://www.wearewebstars.dk/codepen/img//s3.png');
+	height: 100%;
+	left: 0;
+	position: fixed;
+	top: 0;
+	width: 100%;
+	z-index:1;
+	-webkit-animation: snow 20s linear infinite;
+	-moz-animation: snow 20s linear infinite;
+	-ms-animation: snow 20s linear infinite;
+	animation: snow 20s linear infinite;
+}
+@keyframes snow {
+  0% {background-position: 0px 0px, 0px 0px;}
+  100% {background-position: 5000px 500px, -1000px -100px;}
+}
+
+
+
+
+
 .beam{
 position:fixed;
 top:-100%;

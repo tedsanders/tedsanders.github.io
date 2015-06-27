@@ -36,15 +36,14 @@
             <script src="{{site.url}}/js/vendor/html5shiv.js"></script>
             <![endif]-->
 
-        <!-- Jake wary of jQuery -->
+        <!-- Jake wary of jQuery (should have fallback, but it was causing problems)-->
         {% if page.javascript contains 'jquery' %}
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-        <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.2.min.js"></script>')</script>
         {% endif %}
 
         <!-- D3 does not support 3D, ironically. -->
         {% if page.javascript contains 'd3' %}
-        <script src="{{site.url}}/js/vendor/d3.v3.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js" charset="utf-8"></script>
         {% endif %}
 
     </head>
@@ -124,6 +123,7 @@
 
 
         <!-- The code for secret disco mode. Soon it won't be so secret...-->
+        <div id="disco-lights"></div>
         <div id="beam0" class="beam"></div>
         <div id="beam1" class="beam"></div>
         <div id="beam2" class="beam"></div>
