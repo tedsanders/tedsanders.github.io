@@ -12,13 +12,13 @@ hide: true
 
 
 >Question: What do Bill Gates and Warren Buffet have in common?
-
+>
 >Answer: They're both billionaires and they both love the card game bridge.
-
+>
 >If you too aspire to become a bridge-playing billionaire, then the first step is to learn how to play bridge! (Sadly, the second step is not covered in this class.)
-
+>
 >Bridge is a fun and brainy card game somewhat like hearts. It's played 2 vs 2, so good communication and teamwork are key to victory. (Another benefit of bridge being played 2 vs 2 is that if you ever lose - hypothetically, of course - you've got someone other than yourself to blame!)
-
+>
 >This class is for anyone and everyone who wants to learn bridge. NO EXPERIENCE NECESSARY!
 
 <p>This was the description for my latest bridge class, which I co-taught with Womens World Champion Debbie Rosenberg. Together, we introduced 24 middle school and high school students to the classic card game of bridge. We designed our class from scratch, using a sequence of eight hands to build up concepts one at a time so that by the end of the class, the students could play bridge on their own. Read the ACBL's coverage of the class <a href="http://www.acbl.org/news_archive.php?id=842">here</a>.</p>
