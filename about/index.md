@@ -33,7 +33,6 @@ You can also find me on:
 
 <img id="tedshot" src="/img/TedSanders.jpg" alt="Ted Sanders" />
 
-<p>
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: Keybase OpenPGP v1.0.0
 Comment: https://keybase.io/crypto
@@ -88,5 +87,5 @@ G8xNWwjFDK+lxNZOmI8ikejCUQYRdFz33CA3+Y4b+3zI9uPINRtzD/+8ZwsmJtMw
 eFQEcrL342CrUzcxTo5t2rfddKpJURIhP2nbUn27B3eJQ57fTsBprOz6Zs1vaGMm
 le3oULMR3Z0deqtjZteGn2cZvzw=
 =CRPW
+
 -----END PGP PUBLIC KEY BLOCK-----
-</p>
