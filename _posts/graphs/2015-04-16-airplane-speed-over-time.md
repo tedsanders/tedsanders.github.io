@@ -15,5 +15,6 @@ comments: true
     <script data-plotly="tedsanders8a01:35"  src="https://plot.ly/embed.js" async></script>
 </div>
 
+You know, maybe I should put this on a log scale. Choice of axis transformation says a lot more than many people realize. Is our implicit model of growth additive, multiplicative, or something elseitive?
 
 Analysis coming soon.

@@ -2,7 +2,7 @@
 layout: default
 description: The past, present, and future of nuclear fusion
 title: Progress in fusion
-subtitle: 
+subtitle:
 categories: graphs
 tags: trends
 comments: true
@@ -13,3 +13,5 @@ comments: true
 Analysis coming soon.
 
 (Though one thing I can't resist saying is that comparisons of fusion with Moore's law are overblown. The reason that fusion power plants are producing more power is not because they're getting more efficient - they're mostly just getting bigger.)
+
+Some topics to discuss include tokamak fusion, NIF laser fusion, Tri-alpha energy boron fusion, and maybe even cold fusion if I get around to it.
