@@ -4,6 +4,7 @@ description: The number of Moore's laws doubles every five years.
 title: Moore's Law of Moore's Laws
 subtitle: Every five years, the number of Moore's Laws doubles
 categories: graphs
+comments: true
 tags:
 javascript: d3
 ---
