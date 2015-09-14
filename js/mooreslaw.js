@@ -3,8 +3,8 @@ var svg = d3.select('#mooreslaw');
 
 var barheight = 14;
 
-var data = [[1975,"original"],
-            [1995,"2nd law?"],
+var data = [[1975,"Moore's law"],
+            [1995,"Moore's second law"],
             [1997,"Wealth/billionaires"],
             [1997,"Software"],
             [1999,"Agriculture"],
@@ -30,8 +30,8 @@ var data = [[1975,"original"],
             [2010,"Electric cars"],
             [2010,"Science"],
             [2010,"Lasers"],
-            [2011,"Power efficiency??"],
-            /*[2011,"Computer capacity"],*/
+            [2011,"Power efficiency"],
+            /*[2011,"Computer capacity?"],*/
             [2011,"Mass spectroscopy"],
             [2011,"Mad science"],
             [2011,"Atoms"],
@@ -52,6 +52,7 @@ var data = [[1975,"original"],
             [2014.5,"Raspberry Pi clusters"],
             [2014.5,"NFL field goals"],
             [2014.5,"Weird"],
+            [2014.5,"Backhoes"],
             [2014.5,"Oil"],
             [2014.5,"Moore's Laws"]];
 
