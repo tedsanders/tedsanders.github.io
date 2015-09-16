@@ -14,7 +14,7 @@ javascript: d3
   .bars:hover {fill:url(#barhover)}
 </style>
 
-<svg id="mooreslaw" viewbox="0 0 720 720">
+<svg id="mooreslaw" viewbox="0 0 720 1000">
   <defs>
 
     <linearGradient id="bar" x1="0%" y1="0%" x2="100%" y2="0%" spreadMethod="pad">
