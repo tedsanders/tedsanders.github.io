@@ -2,7 +2,7 @@
 var svg = d3.select('#mooreslaw');
 
 var barheight = 14;
-var graphheight = 1000;
+var graphheight = 1080;
 
 var data = [[1975,"Moore's law","https://en.wikipedia.org/wiki/Moore's_law#History"],
             [1995,"Moore's second law","https://en.wikipedia.org/wiki/Moore's_law#Moore.27s_second_law"],
