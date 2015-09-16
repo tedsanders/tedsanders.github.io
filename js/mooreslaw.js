@@ -53,9 +53,29 @@ var data = [[1975,"Moore's law","https://en.wikipedia.org/wiki/Moore's_law#Histo
             [2014.5,"Raspberry Pi clusters","http://hackaday.com/2015/04/17/moores-law-of-raspberry-pi-clusters/"],
             [2014.5,"NFL field goals","http://www.unz.com/isteve/the-moores-law-of-nfl-field-goal-kicking/"],
             [2014.5,"Weird","http://techcrunch.com/2015/01/24/this-industry-is-still-completely-ridiculous/"],
+[2007,"Marketing","http://blog.imaginellc.com/introducing-davidoffs-law-the-moores-law-of-marketing"],
+[2008,"Microbiology","https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NcV19fEAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=NcV19fEAAAAJ:WF5omc3nYNoC"],
+[2008,"Data","http://www.powershow.com/view/7f394-ZDc1Z/Semantic_Vectors_A_Scalable_Open_Source_Package_and_Online_Technology_Management_Application_powerpoint_ppt_presentation"],
+[2008,"Data centers","http://www.greenm3.com/gdcblog/2008/2/5/moores-law-of-data-centers.html"],
+[2010,"Energy devices","http://www.cnet.com/news/why-a-moores-law-for-green-tech-doesnt-compute/"],
+[2011,"Renewable energy","http://www.greenbiz.com/blog/2011/09/12/moores-law-renewable-energy"],
+[2012,"Drones","http://abundantmichael.com/blog/index.cfm/2013/2/5/How-nanodrones-are-part-of-the-Singularity"],
+[2012,"Fashion","http://buffalojackson.com/blog/fashion-or-style/"],
+[2013,"Data collection","http://www.defenseone.com/technology/2013/08/anti-snowden-ex-SEAL-firm-caught-between-security-privacy/68561/"],
+[2013,"Hacking","http://www.mobilepaymentstoday.com/articles/moores-law-for-hackers-increases-risk-for-mobile-enterprises/"],
+[2014,"Drone-lifting","http://www.businessinsider.com/drone-taxis-of-the-future-2014-9"],
+[2014,"Android update cycles","http://www.androidcentral.com/insane-pace-android"],
+[2014,"LEDs","http://ragingbull.com/forum/topic/1012252"],
+[2014.5,"Spring","http://www.remedialeating.com/2015/04/so-many-so-much.html"],
+[2014.5,"Demand","http://cosnconference.org/program/workshops/"],
+[2014.5,"Wine","http://svbwine.blogspot.com/2015/03/w20-group-and-vintank-settle-down.html"],
+[2014.5,"Autos","http://www.cheatsheet.com/automobiles/saleen-answers-the-hellcats-call-with-a-730-horsepower-ford-mustang.html/?a=viewall"],
+[2014.5,"Hipness","http://annapmurray.com/brooklyn-the-moores-law-of-hipness/"],
+[2014.5,"Human spirit","http://www.hihuadu.com/2015/04/19/today-five-years-later-moores-law-has-only-just-begun-to-subvert-everything-19364.html"],
+[2014.5,"Our email wasteland","http://readwrite.com/2015/08/31/spam-fight-tools-education"],
             [2014.5,"Backhoes","https://twitter.com/pmarca/status/641052430256353282"],
             [2014.5,"Oil","http://bishophill.squarespace.com/blog/2015/3/9/moores-law-for-the-oil-industry.html"],
-            [2014.5,"Moore's Laws",""]
+            [2014.5,"Moore's Laws","http://www.tedsanders.com"]
             ];
 
 
