@@ -6,6 +6,7 @@ subtitle: From ancient Asia to the NAICS
 categories:
 tags: blog
 comments: true
+hide: true
 ---
 
 Analyzing the Econonmy

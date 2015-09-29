@@ -6,6 +6,7 @@ subtitle: Comments on the philosophy of stock option vesting in startups
 categories:
 tags: blog
 comments: true
+hide: true
 ---
 
 When it comes to employee compensation, I'm often surprised at the stark difference in language used to describe stock and salary. (To me, stock and salary are both forms of compensation - the only significant difference is the risk.)
