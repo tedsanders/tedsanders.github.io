@@ -12,9 +12,26 @@ javascript: d3
 <style>
   text,circle {pointer-events:none}
   .bars:hover {fill:url(#barhover)}
+
+.axis path, .axis line {
+    fill: none;
+    stroke: black;
+    shape-rendering: crispEdges;
+}
+
+.axis text {
+    font-family: sans-serif;
+    font-size: 16px;
+}
+
+.axis-label {
+  font-family: sans-serif;
+  font-size: 20px;
+}
+
 </style>
 
-<svg id="mooreslaw" viewbox="0 0 720 1080">
+<svg id="mooreslaw" viewbox="0 0 720 1100">
   <defs>
 
     <linearGradient id="bar" x1="0%" y1="0%" x2="100%" y2="0%" spreadMethod="pad">
