@@ -2,7 +2,6 @@
 layout: default
 title: About
 description: Who is Ted Sanders?
-alias: /about.php
 ---
 
 
@@ -31,8 +30,17 @@ You can also find me on:
 <li><a href="https://en.wikipedia.org/wiki/Special:Contributions/Tedsanders"><img class="icon-bump inline-block" src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Wikipedia-favicon.png" width="16" height="16" /> Wikipedia</a></li>
 </ul>
 
+<figure>
 <img id="tedshot" src="/img/TedSanders.jpg" alt="Ted Sanders" />
+<figcaption>The outer me.</figcaption>
+</figure>
 
+<figure>
+<img id="tedbrain" src="/img/clearbrained.png" alt="Ted Sanders" />
+<figcaption>The inner me.</figcaption>
+</figure>
+
+For all you crypto-anarchists:
 
 
     -----BEGIN PGP PUBLIC KEY BLOCK-----

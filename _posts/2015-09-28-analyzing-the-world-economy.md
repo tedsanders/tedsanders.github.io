@@ -4,7 +4,7 @@ description: Analysis of the world economy.
 title: Analyzing the world economy
 subtitle: From ancient Asia to the NAICS
 categories:
-tags: blog
+tags:
 comments: true
 hide: true
 ---

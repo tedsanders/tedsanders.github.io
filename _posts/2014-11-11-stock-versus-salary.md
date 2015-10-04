@@ -4,7 +4,7 @@ description: Comments on Ben Horowitz's philosophy on stock option vesting in st
 title: Stock versus salary
 subtitle: Comments on the philosophy of stock option vesting in startups
 categories:
-tags: blog
+tags: 
 comments: true
 hide: true
 ---
