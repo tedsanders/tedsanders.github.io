@@ -1,7 +1,7 @@
 ---
 layout: default
 description: My rejected speech for the 2012 UC Berkeley Graduate Engineering Commencement.
-title: My rejected speech for the UC Berkeley Graduate Engineering Commencement
+title: The UC Berkeley commencement speech that never was
 subtitle:
 categories:
 tags: blog

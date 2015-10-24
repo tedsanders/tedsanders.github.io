@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Blog
-description: Ted blogs.
-alias: /blog.php
+description: The blog of Ted Sanders.
 ---
 
 <ul class="no-bullets">
@@ -10,7 +9,7 @@ alias: /blog.php
     <li class="list-row">
     	<div class="clearfix">
 	    	<a class="align-left list-title" href="{{ post.url }}">{{ post.title }}</a>
-	    	<span class="align-right date list-date"><time datetime="{{post.date|date:"%F"}}">{{post.date|date:"%d %b %Y"}}</time></span>
+	    	<!--span class="align-right date list-date"><time datetime="{{post.date|date:"%F"}}">{{post.date|date:"%d %b %Y"}}</time></span-->
     	</div>
     </li>
   {% endfor %}

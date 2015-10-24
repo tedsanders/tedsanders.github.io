@@ -40,7 +40,7 @@ You can also find me on:
 <figcaption>The inner me.</figcaption>
 </figure>
 
-For all you crypto-anarchists:
+And to the crypto-anarchists out there, this is for you:
 
 
     -----BEGIN PGP PUBLIC KEY BLOCK-----
