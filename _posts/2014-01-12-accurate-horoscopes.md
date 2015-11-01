@@ -5,7 +5,7 @@ title: Accurate horoscopes
 subtitle:
 tags: blog
 stars:
-hide:
+hide: true
 comments: true
 ---
 
@@ -54,7 +54,7 @@ Your generosity may go unnoticed, but don’t let that deter you. Giving more th
 **Aquarius** (21 January - 19 February)
 
 With no other evidence, you’d do well to predict that your birthday is the most common birthday there is. You’d also do well to exercise humility, on the off chance you were wrong. Which you would be, in this case. By a lot.
- 
+
 **Pisces** (20 February - 20 March)
 
 You are more likely than average to become an [NHL player](http://sports.espn.go.com/espn/page2/story?page=merron/081208 "March is best for NHL players") or [CEO](http://business.time.com/2012/10/26/best-and-worst-months-to-be-born-if-you-want-to-be-the-boss/ "March is also best for CEOs"). But beware - if you fail to become an NHL player or CEO, you will deserve to feel worse than average.

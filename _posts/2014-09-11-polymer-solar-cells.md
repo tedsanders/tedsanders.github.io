@@ -1,8 +1,8 @@
 ---
 layout: default
 description: My thoughts on polymer solar cells.
-title: Pessimism about polymer solar cells
-subtitle: Thoughts after talking to some disillusioned grad students
+title: Polymer solar cell pessimism
+subtitle: Thoughts after talking to some Stanford experts
 categories:
 tags: blog
 comments: true
