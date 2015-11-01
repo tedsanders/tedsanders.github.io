@@ -1,11 +1,12 @@
 ---
 layout: default
 description: My thoughts on polymer solar cells.
-title: My thoughts on polymer solar cells
-subtitle: Like a grizzly eating a headless salmon&#58; Bearish
+title: Pessimism about polymer solar cells
+subtitle: Thoughts after talking to some disillusioned grad students
 categories:
 tags: blog
 comments: true
+hide: true
 ---
 
 Yesterday I spoke with some experts on polymer solar cells. Here are some things I learned:
