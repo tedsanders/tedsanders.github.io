@@ -6,7 +6,6 @@ subtitle:
 categories:
 tags:
 stars:
-hide: true
 ---
 
 

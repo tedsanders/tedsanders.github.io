@@ -4,7 +4,7 @@ description: My thoughts on polymer solar cells.
 title: Polymer solar cell pessimism
 subtitle: Thoughts after talking to some Stanford experts
 categories:
-tags: blog
+tags:
 comments: true
 hide: true
 ---
