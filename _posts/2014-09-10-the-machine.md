@@ -1,8 +1,8 @@
 ---
 layout: default
 description: My thoughts on The Machine, brought to you by HP's marketing machine.
-title: My thoughts on HP's The Machine
-subtitle: (More like a marketing machine, amirite?)
+title: The marketing machine behind HP's 'The Machine'
+subtitle: Unlikely to happen, but I applaud the vision
 categories:
 tags: blog
 comments: true
@@ -11,10 +11,12 @@ comments: true
 Reader Jeff writes:
 
 
+>What do you think?
+>
+>[![The Machine](http://o.aolcdn.com/hss/storage/midas/58d91d7244e2e05f9be4155e0586401e/200264010/hp-the-machine.jpg)](http://www.engadget.com/2014/06/11/hp-the-machine/)
+>
 >[http://rt.com/news/166680-hp-silicon-photonics-computer/](http://rt.com/news/166680-hp-silicon-photonics-computer/)
 >[http://www.engadget.com/2014/06/11/hp-the-machine/](http://www.engadget.com/2014/06/11/hp-the-machine/)
->
->What do you think?
 >
 >You probably already have a bunch of knowledge/thoughts about this.
 
@@ -37,4 +39,4 @@ I'm not all that informed but that's never stopped me from speculating before. A
 8. Coincidentally, I just came from a panel with an HP photonics researcher. I had meant to ask him about his thoughts on 'The Machine' but I didn't have time to, unfortunately.
 
 
-**Update, June 2015**: HP has killed The Machine. Can I say I called it? Here's a nice write-up by my friend Joel: [http://www.extremetech.com/extreme/207897-hp-kills-the-machine-repurposes-design-around-conventional-technologies](http://www.extremetech.com/extreme/207897-hp-kills-the-machine-repurposes-design-around-conventional-technologies)
+**Update, June 2015**: HP has killed The Machine (or at least significantly changed its vision). Can I say I called it? Here's a nice write-up by my friend Joel Hruska: [http://www.extremetech.com/extreme/207897-hp-kills-the-machine-repurposes-design-around-conventional-technologies](http://www.extremetech.com/extreme/207897-hp-kills-the-machine-repurposes-design-around-conventional-technologies)
