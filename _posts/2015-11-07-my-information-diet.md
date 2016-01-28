@@ -79,6 +79,7 @@ In this spirit---sharing the sources that shape my thinking and that I hope migh
 * [Vox: Ezra Klein](http://www.vox.com/authors/ezra-klein)
 * [The GiveWell Blog](http://blog.givewell.org/)
 * [Ramez Naam](http://rameznaam.com/blog/)
+* [Conor Friedersdorf](http://www.theatlantic.com/author/conor-friedersdorf/)
 * [Andart II](http://aleph.se/andart2/)
 * [Andrew McAfee's Blog---The Business Impact of IT](http://andrewmcafee.org/blog/)
 * [Ben Casnocha](http://casnocha.com/blog)
