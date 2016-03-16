@@ -2,7 +2,6 @@
 layout: default
 title: Why the media is ignoring Nate Silver by praising Nate Silver
 description: An introduction to Bayesian reasoning that doesn't use the phrase Bayesian reasoning. Until now. Oops.
-alias: /nate-silver.php
 comments: true
 tags: blog
 ---

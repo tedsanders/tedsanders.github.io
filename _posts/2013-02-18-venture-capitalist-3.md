@@ -3,13 +3,12 @@ layout: default
 title: If I were a venture capitalist, what bets would I place on the future?
 subtitle: Part 3&#58; Companies that replace labor with capital
 description: Manufacturing robots, robot chefs, robots robots robots.
-alias: /venture-capitalist-3.php
 comments: true
 tags: blog
 ---
 
-<p>(Read <a href="/venture-capitalist-1/">Part 1</a> and <a href="/venture-capitalist-2/">Part 2</a> first.)</p> 
-  
+<p>(Read <a href="/venture-capitalist-1/">Part 1</a> and <a href="/venture-capitalist-2/">Part 2</a> first.)</p>
+
 <p>Robots are ideal for jobs that are repetitive or dangerous. Robots don't need sleep, air conditioning, or even <a href="http://en.wikipedia.org/wiki/Lights_out_(manufacturing)">lighting</a>. For these reasons and others, robots have already stolen most of America's manufacturing jobs. Today, even jobs in low-wage countries are at risk. China's largest private-sector employer Foxconn has already announced <a href="http://news.xinhuanet.com/english2010/china/2011-07/30/c_131018764.htm">plans</a> to replace part of its workforce with one million robots.</p>
 
 <p>For amazing videos on what robots are already capable of, take a look at the videos below:</p>

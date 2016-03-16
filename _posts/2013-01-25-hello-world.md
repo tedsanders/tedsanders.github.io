@@ -3,7 +3,6 @@ layout: default
 title: Hello world
 description: Ted's first blog post! Hello world!
 comments: true
-alias: /hello-world.php
 categories:
 tags: blog
 ---

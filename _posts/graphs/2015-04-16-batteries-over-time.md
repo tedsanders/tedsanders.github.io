@@ -34,7 +34,7 @@ I plan to write more later, but here some initial plots and thoughts:
 
 +Lithium is the smallest non-gas atom we have, so it makes the most sense as a battery ion. (Though there are other creative ideas that have the potential to do better than lithium for various reasons. One such idea is to use magnesium, which can potentially carry twice as much charge as lithium with less than twice the volume.)
 
-+Fortunately, lithium is decently [abundant](https://en.wikipedia.org/wiki/Abundance_of_elements_in_Earth's_crust). There is enough economically extractable lithium to build an electric car for everybody someday, though that would severely stretch current (estimated reserves)[http://large.stanford.edu/courses/2010/ph240/eason2/]. Unfortunately, despite being common, lithium is also dilute, which makes it relatively more expensive to produce.
++Fortunately, lithium is decently [abundant](https://en.wikipedia.org/wiki/Abundance_of_elements_in_Earth's_crust). There is enough economically extractable lithium to build an electric car for everybody someday, though that would severely stretch current [estimated reserves](http://large.stanford.edu/courses/2010/ph240/eason2/). Unfortunately, despite being common, lithium is also dilute, which makes it relatively more expensive to produce.
 
 +Unlike many other metals, which are mined from hard rock in energy-intensive processes, lithium is often captured from brine on salt flats, at least these days. I don't know what drives cost for brine and how much these costs could change in the future. [Brine vs hard rock mining infographic](http://www.mining.com/web/infographic-a-cost-comparison-lithium-brine-vs-hard-rock-exploration/)
 

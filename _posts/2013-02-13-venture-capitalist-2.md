@@ -2,14 +2,13 @@
 layout: default
 title: If I were a venture capitalist, what bets would I place on the future?
 subtitle: Part 2&#58; Companies that increase capital efficiency
-alias: /venture-capitalist-2.php
 description: Digital technology will enable efficient sharing like never before.
 comments: true
 tags: blog
 ---
 
-<p>(Read Part 1 <a href="{{ site.url }}/venture-capitalist-1/">here</a>.)</p> 
-  
+<p>(Read Part 1 <a href="{{ site.url }}/venture-capitalist-1/">here</a>.)</p>
+
 <p>Most of the day, your car is empty. Your kitchen is empty. Your camera isn't taking photos. Your computer's CPU is idling. Your utility's power plants and power lines are well below capacity. THESE ARE MASSIVE INEFFICIENCIES THAT SHOULD APPALL YOUR INNER ECONOMIST. Coordinating more efficient use of these high-fixed-cost-and-low-utilization resources is a market opportunity worth trillions of dollars.</p>
 
 <p>Of course, this great inefficiency is all by design. When you buy a car, part of what you pay for is the option value. Not only are you paying for the transportation, you are paying for the guarantee that transportation will be available when you need it. Option value is why it makes sense to buy something that spends most of its life doing nothing.</p>
@@ -38,5 +37,5 @@ tags: blog
 <p>Most of the business ideas above aren't new. What is new is that computers and the internet are making it easy to rent capital goods, especially from peers. Of course, there are big barriers to many of these ideas, especially some forms of <a href="http://opim.wharton.upenn.edu/~cachon/pdf/dpricingV1all.pdf">dynamic pricing</a>; nonetheless, I am optimistic that efficiency will eventually win out. The potential is just too great.</p>
 
 <p>Coming soon: Companies that replace labor with capital (the post, not the companies. They came years ago).</p>
- 
+
 <p>Read Part 3 <a href="/venture-capitalist-3">here</a>.</p>  

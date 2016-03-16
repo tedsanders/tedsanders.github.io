@@ -3,7 +3,6 @@ layout: default
 title: Healthcare
 subtitle: The two studies everyone should know
 description: Ted talks healthcare.
-alias: /healthcare.php
 comments: true
 tags: blog
 ---

@@ -2,7 +2,6 @@
 layout: default
 title: If I were a venture capitalist, what bets would I place on the future?
 subtitle: Part 1&#58; The Three Industrial Revolutions
-alias: /venture-capitalist-1.php
 description: Ted talks about technology and the future.
 comments: true
 tags: blog

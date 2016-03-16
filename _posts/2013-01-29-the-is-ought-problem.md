@@ -2,7 +2,6 @@
 layout: default
 title: The is-ought problem
 subtitle: What my favorite philosopher can teach those who debate gun control
-alias: /the-is-ought-problem.php
 comments: true
 tags: blog
 ---

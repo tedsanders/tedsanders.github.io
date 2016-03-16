@@ -2,7 +2,6 @@
 layout: default
 title: The first week of traffic
 subtitle: An audience analysis
-alias: /the-first-week-of-traffic.php
 description: Ted's traffic.
 comments: true
 tags: blog

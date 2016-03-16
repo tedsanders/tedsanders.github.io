@@ -2,7 +2,6 @@
 layout: default
 title: Tax tips for PhD students
 description: Are you a PhD student confused about how to pay taxes? Look no further! Ted explains it all. Mostly. And don't sue him.
-alias: /tax-tips-for-phd-students.php
 comments: true
 tags: blog
 ---
