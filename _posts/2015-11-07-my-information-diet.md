@@ -11,7 +11,7 @@ No one perceives reality in its entirety. There's not enough time to read every 
 
 As a result, we filter. We cull the world's countless sources of information down to a digestible few. Some pieces of information, like Tweets, are easy to digest. Others, like books, may be tougher to chew on but provide more lasting nutrition. Together, the choices we make about what information to consume makes up our information diets.
 
-Information diets share parallels with food diets. Like food diets, information diets reflect our unique tastes. And like food diets, they feed back on us, shaping who we become. And as with food diets, technology has birthed an unprecedented abundance of junk food (clickbait) that we must consciously avoid to stay healthy.
+Information diets share parallels with food diets. Like food diets, information diets reflect our unique tastes. Like food diets, they feed back on us, shaping who we become. And like food diets, technology has birthed an unprecedented abundance of junk food (clickbait) that we must consciously avoid to stay healthy.
 
 But unlike food diets, information diets can be insidiously self-reinforcing. If you worry about the risks of vaccines, you might tend to read sources of information that talk about the risks of vaccines. Reading these sources will strengthen your worries about the risks of vaccines, and likewise strengthen your tendency to read anti-vaccine sources. By selectively exposing yourself to a particular viewpoint, you are likely to think that viewpoint is far more common than it really is and you are likely to adopt that viewpoint yourself. When it comes to information, you really are what you eat.
 
