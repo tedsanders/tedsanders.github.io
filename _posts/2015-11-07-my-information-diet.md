@@ -124,7 +124,6 @@ In this spirit---sharing the sources that shape my thinking and that I hope migh
   * [Science With Tom](https://www.youtube.com/channel/UC3gFS6DINL-JBj5kd6hm9Ng)
   * [Smarter Every Day](https://www.youtube.com/channel/UC6107grRI4m0o2-emgoDnAA)
   * [SpaceX](https://www.youtube.com/channel/UCtI0Hodo5o5dUb67FeUjDeA)
-  * [stevebills](https://www.youtube.com/channel/UCHjpnTDRGvo9qeUT9atMOpA)
   * [Team Fortress 2](https://www.youtube.com/channel/UC5BTcArAnit9p5W7etFsPsA)
   * [The Late Show with Stephen Colbert](https://www.youtube.com/channel/UCMtFAi84ehTSYSE9XoHefig)
   * [The Onion](https://www.youtube.com/channel/UCfAOh2t5DpxVrgS9NQKjC7A)
