@@ -10,7 +10,7 @@ show_drafts: false
 
 relative_permalinks: false
 
-permalink:     :categories/:title
+permalink:     :categories/:title/
 paginate_path: 'page:num'
 paginate: 10
 
