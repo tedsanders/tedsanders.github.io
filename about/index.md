@@ -17,6 +17,7 @@ My goals are to understand the world, to improve it, and to find a happy place w
 
 
 As a volunteer, I’ve tried to make the world a smarter place:
+
 * Co-hosted a [science-comedy podcast](http://gogglesoptional.com/) at [Stanford]()http://stanford.edu/ for two years (mentioned [here](http://www.sciencemag.org/careers/2016/11/scientists-ride-podcasting-wave) in Science)
 * Authored articles on [Wikipedia](https://www.wikipedia.org/) (mentioned [here](http://www.vox.com/2016/7/14/12016710/science-challeges-research-funding-peer-review-process) on Vox)
 * Traded on [scientific prediction markets](http://scicast.org/) (mentioned [here](http://www.nature.com/news/the-power-of-prediction-markets-1.20820) in Nature)
@@ -24,17 +25,20 @@ As a volunteer, I’ve tried to make the world a smarter place:
 
 
 As an effective altruist and US taxpayer, I’ve tried to make the world healthier and more equitable:
+
 + 10% of my income to [Against Malaria Foundation](https://www.againstmalaria.com/), the world’s most effective charity as evaluated by [GiveWell](http://www.givewell.org/)
 + 30% of my income to US Government to support its institutions (laws, enforcement), investments (schools, infrastructure), and [social programs](https://en.wikipedia.org/wiki/Social_programs_in_the_United_States#Types_of_social_programs) (for the poor, the old, and the young)
 
 
 As a scientist and engineer, I’ve tried to advance science & technology:
+
 + Earned a PhD in Applied Physics at Stanford by studying exotic materials in extreme conditions: at temperatures a fraction of a degree above absolute zero, in magnetic fields as strong as those on the surface of the sun, and in pressures as low as those faced by a space-walking astronaut
 + Synthesized crystals used to build SketchFET, the world’s first nanoscale, GHz-speed writable transistor (for applications molecular sensing)
 + Published on magnetic thin films, 2D electron gases, writeable nanotransistors, organic spintronics, high-temperature superconductors, nanowire solar cells, and the cost-effectiveness of batteries to stabilize solar intermittency
 
 
 And today as a management consultant,  I advise CEOs and their executive teams on how to run their companies more effectively, on issues of:
+
 + [Strategy](http://amzn.to/2fex576)
 + Organization design
 + Renewable energy
