@@ -12,10 +12,6 @@ I’m another human being, just like you.
 My goals are to understand the world, to improve it, and to find a happy place within it.
 
 
-
-
-
-
 As a volunteer, I’ve tried to make the world a smarter place:
 
 * Co-hosted a [science-comedy podcast](http://gogglesoptional.com/) at [Stanford](http://stanford.edu/) for 2.5 years (mentioned [here](http://www.sciencemag.org/careers/2016/11/scientists-ride-podcasting-wave) in Science)
@@ -23,10 +19,6 @@ As a volunteer, I’ve tried to make the world a smarter place:
 * Traded on [scientific prediction markets](http://scicast.org/) (mentioned [here](http://www.nature.com/news/the-power-of-prediction-markets-1.20820) in Nature)
 * Encouraged kids in science through [Boys and Girls Club](https://www.bgcp.org/#mission), [Science Bus](https://oso.stanford.edu/student-outreach/5-science-bus), [Science Bowl](http://science.energy.gov/wdts/nsb/), [Maker Faire](http://makerfaire.com/), [Bay Area Science Festival](http://www.bayareascience.org/), [FoldScope](http://www.foldscope.com/), [Techbridge Girls](http://www.techbridgegirls.org/), [Bay Area Scientists in Schools](http://www.crscience.org/volunteers/aboutbasis), [San Francisco Science Fair](http://www.sfbasf.org/), [Synopsis Science & Technology Championship](https://science-fair.org/), [SURA](http://sura.stanford.edu/), [UC Berkeley poster judging](http://engineering.berkeley.edu/students/current-undergraduates/student-research/undergraduate-research-poster-sessions), [Engineers Week](https://sites.google.com/site/berkeleyengineersweek/), [CAL Prep](http://cep.berkeley.edu/cal-prep), Stanford NOMS, [AARC Tutoring](https://undergrad.stanford.edu/advising/getting-started/advising-student-athletes/aarc-and-other-campus-tutorial-resources), [Dinner with a Scientist](http://science.ousd.org/dinner.htm) (mentioned [here](https://www.whitehouse.gov/blog/2010/05/12/national-lab-day-dinner-with-a-scientist) by the White House)
 
-
-As an effective altruist and US taxpayer, I’ve tried to make the world healthier and more equitable:
-
-+ 10% of my income to [Against Malaria Foundation](https://www.againstmalaria.com/), the world’s most effective charity as evaluated by [GiveWell](http://www.givewell.org/)
 
 
 As a scientist and engineer, I’ve tried to advance science & technology:
@@ -41,6 +33,8 @@ And today as a management consultant,  I advise CEOs and their executive teams o
 + [Strategy](http://amzn.to/2fex576)
 + Organization design
 + Renewable energy
+
+10% of the money I earn goes to [Against Malaria Foundation](https://www.againstmalaria.com/), the world’s most effective charity as evaluated by [GiveWell](http://www.givewell.org/).
 
 
 For more web goodness from the Sanders gene pool, visit [hillarysanders.com](http://hillarysanders.com/) or [KFC.com](http://www.kfc.com/).
