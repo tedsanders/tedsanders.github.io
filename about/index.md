@@ -6,13 +6,39 @@ description: Who is Ted Sanders?
 
 
 
-I am a technologist earning a PhD in [Applied Physics](http://www.stanford.edu/dept/app-physics/cgi-bin/) at [Stanford University](http://www.stanford.edu).
+I’m another human being, just like you.
 
-As a scientist & engineer, I've published research on magnetic thin films, [organic spintronics](http://dx.doi.org/10.1103/PhysRevLett.109.076603), [writeable nanotransistors](http://dx.doi.org/10.1063/1.4795725), [2D electron gases](https://en.wikipedia.org/wiki/Lanthanum_aluminate-strontium_titanate_interface), nanowire solar cells, [high-temperature superconductors]({{ site.url }}/LaFePO), and batteries for the smart grid. (Soon my website will have a new section that looks at how various technologies have progressed - or not progressed - over the last century.)
 
-As an [NSF Graduate Fellow](http://www.nsfgrfp.org/) & science communicator, I co-host the weekly award-almost-winning science/comedy podcast [Goggles Optional](http://gogglesoptional.com/), author articles on [Wikipedia](http://en.wikipedia.org/wiki/Main_Page), judge at science fairs/[competitions](http://science.energy.gov/wdts/nsb/), [volunteer]({{ site.url }}/service) at various science events around the Bay, and last year helped pilot early demonstrations of [the world's cheapest microscope](http://www.moore.org/grants/list/GBMF3797). (Some of my volunteering has even been [covered by the White House](http://www.whitehouse.gov/blog/2010/05/12/national-lab-day-dinner-with-a-scientist).)
+My goals are to understand the world, to improve it, and to find a happy place within it.
 
-As a humanitarian & [effective altruist](http://www.effectivealtruism.org/), I donate [10% of my income](https://www.givingwhatwecan.org/get-involved/what-you-can-achieve) to relieve suffering caused by [malaria](http://www.givewell.org/international/top-charities/amf), [parasitic worms](http://www.givewell.org/international/top-charities/deworm-world-initiative), and [extreme poverty](http://www.givewell.org/international/top-charities/give-directly). (I encourage you to give too, if you can. Your actions matter.)
+
+
+
+
+
+As a volunteer, I’ve tried to make the world a smarter place:
++ Co-hosted a [science-comedy podcast](http://gogglesoptional.com/) at [Stanford]()http://stanford.edu/ for two years (mentioned [here](http://www.sciencemag.org/careers/2016/11/scientists-ride-podcasting-wave) in Science)
++ Authored articles on [Wikipedia](https://www.wikipedia.org/) (mentioned [here](http://www.vox.com/2016/7/14/12016710/science-challeges-research-funding-peer-review-process) on Vox)
++ Traded on [scientific prediction markets](http://scicast.org/) (mentioned [here](http://www.nature.com/news/the-power-of-prediction-markets-1.20820) in Nature)
++ Encouraged kids in science through [Boys and Girls Club](https://www.bgcp.org/#mission), [Science Bus](https://oso.stanford.edu/student-outreach/5-science-bus), [Science Bowl](http://science.energy.gov/wdts/nsb/), [Maker Faire](http://makerfaire.com/), [Bay Area Science Festival](http://www.bayareascience.org/), [FoldScope](http://www.foldscope.com/), [Techbridge Girls](http://www.techbridgegirls.org/), [Bay Area Scientists in Schools](http://www.crscience.org/volunteers/aboutbasis), [San Francisco Science Fair](http://www.sfbasf.org/), [Synopsis Science & Technology Championship](https://science-fair.org/), [SURA](http://sura.stanford.edu/), [UC Berkeley poster judging](http://engineering.berkeley.edu/students/current-undergraduates/student-research/undergraduate-research-poster-sessions), [Engineers Week](https://sites.google.com/site/berkeleyengineersweek/), [CAL Prep](http://cep.berkeley.edu/cal-prep), Stanford NOMS, [AARC Tutoring](https://undergrad.stanford.edu/advising/getting-started/advising-student-athletes/aarc-and-other-campus-tutorial-resources), [Dinner with a Scientist](http://science.ousd.org/dinner.htm) (mentioned [here](https://www.whitehouse.gov/blog/2010/05/12/national-lab-day-dinner-with-a-scientist) by the White House)
+
+
+As an effective altruist and US taxpayer, I’ve tried to make the world healthier and more equitable:
++ 10% of my income to [Against Malaria Foundation](https://www.againstmalaria.com/), the world’s most effective charity as evaluated by [GiveWell](http://www.givewell.org/)
++ 30% of my income to US Government to support its institutions (laws, enforcement), investments (schools, infrastructure), and [social programs](https://en.wikipedia.org/wiki/Social_programs_in_the_United_States#Types_of_social_programs) (for the poor, the old, and the young)
+
+
+As a scientist and engineer, I’ve tried to advance science & technology:
++ Earned a PhD in Applied Physics at Stanford by studying exotic materials in extreme conditions: at temperatures a fraction of a degree above absolute zero, in magnetic fields as strong as those on the surface of the sun, and in pressures as low as those faced by a space-walking astronaut
++ Synthesized crystals used to build SketchFET, the world’s first nanoscale, GHz-speed writable transistor (for applications molecular sensing)
++ Published on magnetic thin films, 2D electron gases, writeable nanotransistors, organic spintronics, high-temperature superconductors, nanowire solar cells, and the cost-effectiveness of batteries to stabilize solar intermittency
+
+
+And today as a management consultant,  I advise CEOs and their executive teams on how to run their companies more effectively, on issues of:
++ [Strategy](http://amzn.to/2fex576)
++ Organization design
++ Renewable energy
+
 
 For more web goodness from the Sanders gene pool, visit [hillarysanders.com](http://hillarysanders.com/) or [KFC.com](http://www.kfc.com/).
 
