@@ -228,6 +228,12 @@ h6 {}
 ul, ol {
   margin-left: 2rem; }
 
+/* temp inserted for landing page */
+
+p + ul {
+   margin-top: -1rem;
+}
+
 blockquote {
   padding: 0.001rem 0.75rem;
   /*hacky fix so p margins kick in*/
