@@ -12,7 +12,7 @@ My goals are to understand the world, to improve it, and to find a happy place w
 
 As a volunteer, I’ve tried to make the world a smarter place:
 
-* Co-hosted a [science-comedy podcast](http://gogglesoptional.com/) at [Stanford](http://stanford.edu/) for 2.5 years
+* Co-hosted a [science-comedy podcast](http://gogglesoptional.com/) at Stanford for 2.5 years
 * Authored articles on [Wikipedia](https://www.wikipedia.org/)
 * Traded on [scientific prediction markets](http://scicast.org/)
 * Encouraged kids in science through [Boys and Girls Club](https://www.bgcp.org/#mission), [Science Bus](https://oso.stanford.edu/student-outreach/5-science-bus), [Science Bowl](http://science.energy.gov/wdts/nsb/), [Maker Faire](http://makerfaire.com/), [Bay Area Science Festival](http://www.bayareascience.org/), [FoldScope](http://www.foldscope.com/), [Techbridge Girls](http://www.techbridgegirls.org/), [Bay Area Scientists in Schools](http://www.crscience.org/volunteers/aboutbasis), [San Francisco Science Fair](http://www.sfbasf.org/), [Synopsis Science & Technology Championship](https://science-fair.org/), [SURA](http://sura.stanford.edu/), [UC Berkeley poster judging](http://engineering.berkeley.edu/students/current-undergraduates/student-research/undergraduate-research-poster-sessions), [Engineers Week](https://sites.google.com/site/berkeleyengineersweek/), [CAL Prep](http://cep.berkeley.edu/cal-prep), Stanford NOMS, [AARC Tutoring](https://undergrad.stanford.edu/advising/getting-started/advising-student-athletes/aarc-and-other-campus-tutorial-resources), [Dinner with a Scientist](http://science.ousd.org/dinner.htm) (mentioned [here](https://www.whitehouse.gov/blog/2010/05/12/national-lab-day-dinner-with-a-scientist) by the White House)
