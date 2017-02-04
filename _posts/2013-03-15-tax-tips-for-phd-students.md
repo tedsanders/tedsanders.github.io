@@ -13,21 +13,12 @@ tags: blog
 <h2>How to properly claim tuition deductions/credits</h2>
 
 <ul>
-<li><p>Most PhD students should not be claiming any education deductions/credits.</p></li>
-
-<li><p>If tuition is paid on your behalf:</p>
-
-<ol>
-<li>Don't count it as income.</li>
-<li>Don't claim any deductions/credits because of it.</li>
-</ol></li>
-
-<p>In short, tuition paid on your behalf shouldn't show up anywhere on your tax return. (Even if you see it on your university billing statements.)</p>
 
 <li><p>Room &amp; board, most fees, and books generally do NOT count as qualifying expenses for the education deductions/credits.</p></li>
 
 <li><p>However, if you have a scholarship/fellowship, the cost of required books and course supplies can be subtracted from your taxable stipend.</p>
 </li>
+
 <li><p>For the most part, you can only claim education deductions/credits when you pay out-of-pocket for tuition and required fees (and even then, not all required fees qualify, such as required health services fees).</p>
 </li>
 
