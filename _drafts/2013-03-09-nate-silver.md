@@ -6,8 +6,7 @@ comments: true
 tags: blog
 ---
 
-<p>Mr Blue claims a weighted coin is biased to land heads 90% of the time. Mr Red claims the coin is biased to land heads 50% of the time. You flip the coin only once, and it lands heads. Who was right?
-</p>
+<p>Two men argue over a coin. Mr Blue believes the coin has a 90% chance of landing heads. Mr Red believes it's only 50%. The coin is flipped once, and it lands heads. Who was right?</p>
 
 <p>This question is surprisingly deep, so let's take it one step at a time.
 </p>
