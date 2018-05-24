@@ -28,7 +28,7 @@ layout: default
             *   This fantastic map shows how much delta-v is needed to reach destinations in the solar system: [https://i.redditmedia.com/U5iH7huE5qKth7ZFvipXt8vzaFOO99qHFh9o9_SkLLk.png?s=eeebc1644766a6de193fe7e1fc52a98c](https://i.redditmedia.com/U5iH7huE5qKth7ZFvipXt8vzaFOO99qHFh9o9_SkLLk.png?s=eeebc1644766a6de193fe7e1fc52a98c)
             *   For most missions (Moon, Mars, asteroids, other moons - basically anything except large planets), the majority of delta-v is spent escaping Earth's gravity well
         *   Conservation of energy
-            *   At minimum, sending 1kg to low earth orbit requires [4MJ](http://www.wolframalpha.com/input/?i=1+kg+*+g+*+400+km&rawformassumption=%22UnitClash%22+-%3E+%7B%22g%22,+%7B%22StandardAccelerationOfGravity%22%7D%7D&rawformassumption=%22UnitClash%22+-%3E+%7B%22kg%22,+%7B%22Kilograms%22%7D%7D) in potential energy and [27 MJ](http://www.wolframalpha.com/input/?i=1%2F2+*+1+kg+*+((equatorial+circumference+of+the+earth+%2B+400+km)+%2F+92+minutes)%5E2+-+1%2F2+*+1+kg+*+(equatorial+circumference+of+the+earth+%2F+1+day)%5E2)) in kinetic energy - roughly $1/kg at today's electricity rates (for comparison, a Falcon 9 FT is [~$2,700/kg](http://www.wolframalpha.com/input/?i=62+million+dollars+%2F+22,800+kg) to LEO)
+            *   At minimum, sending 1kg to low earth orbit requires [4MJ](http://www.wolframalpha.com/input/?i=1+kg+*+g+*+400+km&rawformassumption=%22UnitClash%22+-%3E+%7B%22g%22,+%7B%22StandardAccelerationOfGravity%22%7D%7D&rawformassumption=%22UnitClash%22+-%3E+%7B%22kg%22,+%7B%22Kilograms%22%7D%7D) in potential energy and [27 MJ](http://www.wolframalpha.com/input/?i=1%2F2+*+1+kg+*+((equatorial+circumference+of+the+earth+%2B+400+km)+%2F+92+minutes)%5E2+-+1%2F2+*+1+kg+*+(equatorial+circumference+of+the+earth+%2F+1+day)%5E2) in kinetic energy - roughly $1/kg at today's electricity rates (for comparison, a Falcon 9 FT is [~$2,700/kg](http://www.wolframalpha.com/input/?i=62+million+dollars+%2F+22,800+kg) to LEO)
         *   Historical progress
             *   ??
     *   Propulsion choices
@@ -41,7 +41,7 @@ layout: default
                 *   RP-1 is liquid at room temperature, so no cooling & longer storage times
                 *   Similar density as oxygen, for simpler pumping
                 *   Burns dirty (carbon residue), so not great for reuse
-                *   Made from petroleum, so can't be made off-Earth
+                *   Made from petroleum, can't easily be made off-Earth
             *   Hydrogen - oxygen
                 *   Highest specific impulse
                 *   Burns cleanest (no carbon residue), best for reusability
@@ -62,7 +62,7 @@ layout: default
                 *   Lithium - fluorine - hydrogen: crazy high impulse of 542 s, but even crazier chemistry - lithium heated hundreds of degrees to melt, hydrogen cooled hundreds of degrees to liquify, and toxic HF acid
         *   Nuclear fuel
             *   Nuclear to thermal to electric to kinetic
-                *   Nuclear electric rocket
+                *   [Nuclear electric rocket](https://en.wikipedia.org/wiki/Nuclear_electric_rocket)
                 *   RTGs (Radioisotope Thermal Generators)
             *   Nuclear to thermal
                 *   Controlled reaction: [Nuclear thermal rocket]([https://en.wikipedia.org/wiki/Nuclear_thermal_rocket](https://en.wikipedia.org/wiki/Nuclear_thermal_rocket))
