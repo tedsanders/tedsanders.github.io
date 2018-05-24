@@ -3,14 +3,15 @@ title: On self-driving cars
 layout: default
 ---
 
-*   https://blog.acolyer.org/2018/04/20/the-architectural-implications-of-autonomous-driving-constraints-and-acceleration/
+
+
 *   Highlights
     *   The potential market for self-driving cars is enormous, something like ~5% of world GDP
         *   Roughly, I estimate potential market of $5T assuming value of $5 per hour times 1 trillion hours of driving per year ([~1B cars](https://www.statista.com/statistics/281134/number-of-vehicles-in-use-worldwide/) * [1 hr/day](https://www.volpe.dot.gov/news/how-much-time-do-americans-spend-behind-wheel) + 300M commercial vehicles * 6 hrs/day)
         *   $5T may sound high, but the average American driver spends [7 hrs/wk driving](https://www.volpe.dot.gov/news/how-much-time-do-americans-spend-behind-wheel), which is 20% of the [~35 hrs/wk worked](https://stats.oecd.org/index.aspx?DataSetCode=ANHRS#) by the average American worker.
         *   
         *   Actual market may be lower as competition drives prices down. But may also be bigger in the future as (1) the world continues developing and (2) lower prices increase quantity demanded.
-    *   Self-driving cars are nowhere near as safe as humans, nor will they be soon
+    *   Self-driving cars are nowhere near as safe/reliable as humans, nor will they be soon
         *   From 2014 to 2017, Waymo's reported disengagement rate fell from 1 per 800 miles to 1 per 5,500 miles.
         *   At this rate, reaching the human crash rate of 1 per 330,000 miles will take 6 more years.
     *   The transition to self-driving cars will be gradual
