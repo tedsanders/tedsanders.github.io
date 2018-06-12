@@ -120,12 +120,15 @@ layout: default
                     *   H2/LOX for stage 1, stage 2
                     *   $4B total development cost projected in [2015]([http://spacenews.com/desire-for-competitive-ariane-6-nudges-esa-toward-compromise-in-funding-dispute-with-contractor/](http://spacenews.com/desire-for-competitive-ariane-6-nudges-esa-toward-compromise-in-funding-dispute-with-contractor/))
                     *   Not intended to be reusable, but research being done for future versions
+<<<<<<< HEAD
             *   Rocket Lab
                 *   Electron rocket
                     *   ~200 kg payload (<$6M per launch, so ~$27K / kg to SSO)
                     *   Key idea is to use a battery for fuel pumping, which is less efficient but simpler to build
                     *   2 launches so far: one success, one failure
                     *   RP-1/LOX for stage 1, stage 2
+=======
+>>>>>>> 016cdb953ac79a288820f1d21e4001fd5a214fdf
             *   Not sure what's coming out of China/Russia
     *   Tyranny of space transportation costs: [https://www.nasa.gov/sites/default/files/atoms/files/eso_final_report.pdf](https://www.nasa.gov/sites/default/files/atoms/files/eso_final_report.pdf) page 9
 *   Demand for space travel
