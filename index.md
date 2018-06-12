@@ -7,17 +7,10 @@ description: Welcome to tedsanders.com
 
 Welcome to my website. Under construction.
 
-<<<<<<< HEAD
-## Recent posts
-
-<ul class="no-bullets">
-  {% for post in site.tags.blog %}
-=======
 ## Current drafts
 
 <ul class="no-bullets">
   {% for post in site.posts %}
->>>>>>> 016cdb953ac79a288820f1d21e4001fd5a214fdf
     <li class="list-row">
     	<div class="clearfix">
 	    	<a class="align-left list-title" href="{{ post.url }}">{{ post.title }}</a>
