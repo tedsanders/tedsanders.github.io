@@ -24,17 +24,17 @@ The Minnesota Department of Transportation lists three benefits of the zipper me
 
 Two of these three reasons for the zipper merge are very important, so I'm going to repeat them in all caps.
 
-One reason why zipper merging is encouraged is that it** _REDUCES _SPEEDS BETWEEN LANES**.
+One reason why zipper merging is encouraged is that it **_REDUCES_ SPEEDS BETWEEN LANES**.
 
-A second reason why zipper merging is encouraged is that it **_REDUCES _CUTTING AND FEELINGS OF UNFAIRNESS**.
+A second reason why zipper merging is encouraged is that it **_REDUCES_ CUTTING AND FEELINGS OF UNFAIRNESS**.
 
 Now, ponder this: when a cutter zooms down the left the lane to cut in at the end, are they actually performing a zipper merge? Are they accomplishing the objectives of the zipper merge?
 
 NO.
 
-Zooming ahead **_INCREASES _SPEEDS BETWEEN LANES**.
+Zooming ahead **_INCREASES_ SPEEDS BETWEEN LANES**.
 
-Zooming ahead **_INCREASES _FEELINGS OF UNFAIRNESS**.
+Zooming ahead **_INCREASES_ FEELINGS OF UNFAIRNESS**.
 
 If you zoom ahead, you are not zipper merging. Zooming ahead DIRECTLY CONTRAVENES the advantages of the zipper merge.
 
@@ -46,7 +46,7 @@ Let me be clear: I am not against the zipper merge. Its benefits are real. But t
 
 If you actually read what Minnesota, Washington, and other states publish, they do encourage drivers to zipper merge. But notice: in their publications, I have NEVER once seen them say that drivers should zoom ahead and cut.
 
-Say it with me:** **ZIPPER MERGING** DOES NOT EQUAL **ZOOMING AND CUTTING**.**
+Say it with me: **ZIPPER MERGING** DOES NOT EQUAL **ZOOMING AND CUTTING**.
 
 I present to you now the CORRECT WAY TO EXECUTE A ZIPPER MERGE:
 
@@ -84,9 +84,9 @@ To properly zipper: Match speeds and late merge. Don't zoom and cut.
 
 If this post changed the way you think (or agreed with your preconceptions), please share it with others.
 
-**Appendix:**
+## Appendix:
 
-**When should you *not* zipper merge?**
+### When should you *not* zipper merge?
 
 Do not zipper merge at high speeds. It's more dangerous and less efficient to wait until the last second. Only zipper merge when traffic is slow and backed up.
 
@@ -94,7 +94,7 @@ Do not zipper merge when a lane is blocked due to an accident or debris. It is s
 
 Do not zipper merge in California. California (as of 2017) encourages early merging to increase safety for construction workers. For other states, do your own research. (I believe Minnesota, Washington,
 
-**What does the literature say?**
+### What does the literature say?
 
 What follows comes from my Googling and is therefore extremely prone to selection bias. Beware.
 
@@ -110,7 +110,7 @@ Of course, my theory might be oversimplified. If the theory is extended to model
 
 If you find more studies, please send them to me. My goal is to have accurate beliefs, and I will post any study I can find, whether it agrees with my preconceptions or not.
 
-**Other safety considerations**
+### Other safety considerations
 
 Above, I wrote that the zipper merge is safer because it reduces speed differences between the two lanes. There are other ways that it is safer too:
 
