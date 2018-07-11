@@ -17,7 +17,7 @@ The Minnesota Department of Transportation lists three benefits of the zipper me
 
 
 1.  **Greater safety**, because the zipper merge limits the difference in speeds between the two lanes
-1.  **Less blockage of earlier offramps**, because the zipper merge fills two lanes rather than one, which back up only half the distance
+1.  **Less blockage of earlier offramps**, because the zipper merge fills two lanes rather than one, backing up only half the distance
 1.  **Reduced feelings of unfairness, road rage, and 'forced' merges**, since zipper merging limits the ability and incentive to cut
 
 (Notably, faster throughput is *not* a given reason. Minnesota's empirical analysis found no difference in throughput, and other empirical and theoretical work seems to have mixed results, from my brief Googling. A brief literature review is provided in an appendix at the end.)
