@@ -3,6 +3,13 @@ title: On zipper merging
 layout: default
 ---
 
+tl;dr:
+
+The zipper merge (or late merge) is so misunderstood. The point of the zipper merge is _not_ to increase throughput. The point of the zipper merge is to increase safety (by limiting speeds) and feelings of fairness (by limiting the ability to cut). When you speed down an empty left lane to cut in at the end, you are not properly executing a zipper merge - in fact, you are in fact contravening the principles that favor it.
+
+In my view, the best way to execute a zipper merge is to match the speed of the other lane and then merge at the end, regardless of whether there is space in front of you. This procedure is safest and fairest. I want more people to do it.
+
+---
 
 Spend enough time on the internet, and you are bound to encounter a smug proponent of the zipper merge (also called the late merge).
 
