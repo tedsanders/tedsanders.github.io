@@ -7,7 +7,7 @@ layout: default
 
 *   There is not a great centralized literature on spaceflight technology and economics. Some reports I've found:
     *   2013 report by National Academy of Sciences (259 pages) [https://www.nap.edu/read/18801/chapter/6#169](https://www.nap.edu/read/18801/chapter/6#169)
-    *   ??
+    *   If you find any excellent references, please let me know
 *   Supply of space travel
     *   Cost structure
         *   Let's look at an example, SpaceX's Falcon 9, today's lowest cost rocket
@@ -22,16 +22,27 @@ layout: default
     *   Physical limits
         *   Conservation of energy and conservation of momentum both limit what is possible
         *   Conservation of momentum
-            *   Delta-v is the budget that limits how far your spaceship goes
+            *   Because momentum is conserved, the only way your motion can be changed is to push off of something else
+            *   Rockets get around by pushing off of their exhausted fuel
+            *   Delta-v is the budget that says how much pushing your rocketship can do (and like a fuel gauge, tells you which destinations you can and cannot reach)
             *   The rocket equation: Delta-v = velocity of propellant exhaust * ln( mass with propellent / mass without propellent)
-            *   Delta-v is easy to work with because it adds linearly - i.e., cost of maneuver A + B is cost of maneuver A + cost of maneuver B
+            *   Delta-v is convenient to work with for two reasons:
+                *   Delta-v adds (mostly) linearly - i.e., cost of 'maneuver A + maneuver B' is cost of 'maneuver A' + cost of 'maneuver B'
+                *   Delta-v is independent of rocketship mass or design - i.e., if two rockets have the same delta-v, then they can (probably) reach the same destinations
             *   This fantastic map shows how much delta-v is needed to reach destinations in the solar system: [https://i.redditmedia.com/U5iH7huE5qKth7ZFvipXt8vzaFOO99qHFh9o9_SkLLk.png?s=eeebc1644766a6de193fe7e1fc52a98c](https://i.redditmedia.com/U5iH7huE5qKth7ZFvipXt8vzaFOO99qHFh9o9_SkLLk.png?s=eeebc1644766a6de193fe7e1fc52a98c)
-            *   For most missions (Moon, Mars, asteroids, other moons - basically anything except large planets), the majority of delta-v is spent escaping Earth's gravity well
+            *   For most destinations (Moon, Mars, asteroids, other moons - basically anything except large planets), the majority of delta-v is spent escaping Earth's gravity well (~10 km/s)
+            *   Counterintuitively, despite the fact that we're all constantly falling toward the Sun, it is by far the most expensive destination to reach in the solar system (500+ km/s)
         *   Conservation of energy
-            *   At minimum, sending 1kg to low earth orbit requires [4MJ](http://www.wolframalpha.com/input/?i=1+kg+*+g+*+400+km&rawformassumption=%22UnitClash%22+-%3E+%7B%22g%22,+%7B%22StandardAccelerationOfGravity%22%7D%7D&rawformassumption=%22UnitClash%22+-%3E+%7B%22kg%22,+%7B%22Kilograms%22%7D%7D) in potential energy and [27 MJ](http://www.wolframalpha.com/input/?i=1%2F2+*+1+kg+*+((equatorial+circumference+of+the+earth+%2B+400+km)+%2F+92+minutes)%5E2+-+1%2F2+*+1+kg+*+(equatorial+circumference+of+the+earth+%2F+1+day)%5E2) in kinetic energy - roughly $1/kg at today's electricity rates (for comparison, a Falcon 9 FT is [~$2,700/kg](http://www.wolframalpha.com/input/?i=62+million+dollars+%2F+22,800+kg) to LEO)
+            *   Reaching orbit requires both potential energy (from gravity) and kinetic energy (fast enough to orbit instead of falling back down)
+            *   At minimum, sending 1kg to low earth orbit requires 31 MJ: [4 MJ](http://www.wolframalpha.com/input/?i=1+kg+*+g+*+400+km&rawformassumption=%22UnitClash%22+-%3E+%7B%22g%22,+%7B%22StandardAccelerationOfGravity%22%7D%7D&rawformassumption=%22UnitClash%22+-%3E+%7B%22kg%22,+%7B%22Kilograms%22%7D%7D) in potential energy and [27 MJ](http://www.wolframalpha.com/input/?i=1%2F2+*+1+kg+*+((equatorial+circumference+of+the+earth+%2B+400+km)+%2F+92+minutes)%5E2+-+1%2F2+*+1+kg+*+(equatorial+circumference+of+the+earth+%2F+1+day)%5E2) in kinetic energy
+            *   31 MJ costs around $1 at today's electricity rates
+            *   For comparison, a Falcon 9 FT costs [~$2,700/kg](http://www.wolframalpha.com/input/?i=62+million+dollars+%2F+22,800+kg) to LEO
         *   Historical progress
-            *   ??
+            *   The [number of orbital launches per year](https://en.wikipedia.org/wiki/Timeline_of_spaceflight) has been pretty steady at around 50-150, declining from the 1960s through 2000s, and then rising again in the 2010s (Data wishlist: government vs commercial split, the low-earth orbit vs others split, and the change in payload per launch)
+            *   TBD
     *   Propulsion choices
+        *   The two key things to choose are your fuel (which gives you energy to throw propellant backward) and your propellant (which gives you something to throw backward)
+            *   Note: For chemical rockets, the propellant is the same as the exhausted fuel, but this isn't the case for other propulsion systems
         *   Energy can be kinetic or embodied in one of the fundamental forces
         *   Chemical fuel
             *   [Video by Scott Manley](https://www.youtube.com/watch?v=jI8TuufCp0M)
@@ -61,15 +72,16 @@ layout: default
                 *   Monopropellants (e.g., H2O2, H2N2H2, N2O): simple, low impulse, used for orientation control)
                 *   Lithium - fluorine - hydrogen: crazy high impulse of 542 s, but even crazier chemistry - lithium heated hundreds of degrees to melt, hydrogen cooled hundreds of degrees to liquify, and toxic HF acid
         *   Nuclear fuel
-            *   Nuclear to thermal to electric to kinetic
-                *   [Nuclear electric rocket](https://en.wikipedia.org/wiki/Nuclear_electric_rocket)
-                *   RTGs (Radioisotope Thermal Generators)
             *   Nuclear to thermal
                 *   Controlled reaction: [Nuclear thermal rocket]([https://en.wikipedia.org/wiki/Nuclear_thermal_rocket](https://en.wikipedia.org/wiki/Nuclear_thermal_rocket))
                 *   Uncontrolled reaction: [Nuclear pulse propulsion]([https://en.wikipedia.org/wiki/Nuclear_pulse_propulsion](https://en.wikipedia.org/wiki/Nuclear_pulse_propulsion))
+            *   Nuclear to thermal to electric to kinetic
+                *   [Nuclear electric rocket](https://en.wikipedia.org/wiki/Nuclear_electric_rocket)
+                *   RTGs (Radioisotope Thermal Generators)
         *   Photonic fuel
             *   [Beam-powered propulsion]([https://en.wikipedia.org/wiki/Beam-powered_propulsion](https://en.wikipedia.org/wiki/Beam-powered_propulsion))
             *   [Solar sail](https://en.wikipedia.org/wiki/Solar_sail)
+            *   Solar cells (photonic to electric to kinetic)
         *   Kinetic/thermal fuel: Pretty garbage, no real way it could work, only included for completeness
         *   Gravitational fuel: Pretty garbage, no real way it could work, only included for completeness
     *   Forms of propulsion not linked to a fuel
@@ -84,7 +96,7 @@ layout: default
         *   Upcoming rockets
             *   SpaceX
                 *   Falcon 9 Block 5 (May 2018)
-                    *   Continues to use RP-1/LOX fuel with coaxial pintle injection, for both stage 1 and stage 2
+                    *   Continues to use RP-1/LOX fuel with pintle (coaxial) injection, for both stage 1 and stage 2
                     *   So far, SpaceX has reflown used Falcon 9s three times, but each just once
                     *   The Block 5 version of the Falcon 9 is intended to be the final version, better engineered for reusability (as many as 10 or more flights)
                     *   Goal is to reduce refurb turnaround time from months to weeks/days, with a 24-hour turnaround time demo targeted in 2019
@@ -120,28 +132,63 @@ layout: default
                     *   H2/LOX for stage 1, stage 2
                     *   $4B total development cost projected in [2015]([http://spacenews.com/desire-for-competitive-ariane-6-nudges-esa-toward-compromise-in-funding-dispute-with-contractor/](http://spacenews.com/desire-for-competitive-ariane-6-nudges-esa-toward-compromise-in-funding-dispute-with-contractor/))
                     *   Not intended to be reusable, but research being done for future versions
-<<<<<<< HEAD
             *   Rocket Lab
                 *   Electron rocket
                     *   ~200 kg payload (<$6M per launch, so ~$27K / kg to SSO)
                     *   Key idea is to use a battery for fuel pumping, which is less efficient but simpler to build
                     *   2 launches so far: one success, one failure
                     *   RP-1/LOX for stage 1, stage 2
-=======
->>>>>>> 016cdb953ac79a288820f1d21e4001fd5a214fdf
-            *   Not sure what's coming out of China/Russia
+            *   Not as sure what's coming out of China/Russia, but they are major players
+            *   If you know of more rockets that should be listed here, let me know
     *   Tyranny of space transportation costs: [https://www.nasa.gov/sites/default/files/atoms/files/eso_final_report.pdf](https://www.nasa.gov/sites/default/files/atoms/files/eso_final_report.pdf) page 9
-*   Demand for space travel
+*   Demand for space travel (TBD)
+    *   I am skeptical that there are economic cases for space travel in the next century. The most promising economic activity seems to be fuel mining and manufacturing, but that's only useful for supporting other activities. Very long-term, the best case I see for economic activity is the terraforming of Mars, and even that seems worthwhile only if something goes seriously wrong on Earth.
+    *   Demand can fall into a number of categories:
     *   Science
+        *   Seems limited
     *   Tourism
+        *   In his book Artemis, [author Andy Weir sees tourism as the driving economic force for spaceflight and for a moonbase](http://www.businessinsider.com/andy-weir-artemis-moon-city-economics-the-martian-2017-11)
     *   Mining
-        *   Heavy metals - e.g., platinum. Sank into Earth.
-        *   He3 - Decayed by alpha radiation. 100x more abundant in solar system.
-        *   Hydrocarbons - In-space fueling.
-    *   Low gravity manufacturing
-    *   Solar
-        *   Seems way too costly to me. Getting sunlight 24/7 with 0 atmospheric losses is not gonna be that much better than getting sunlight 8/7 with 50% losses. Putting down 6 panels on the ground is easier than 1 panel in space.
-        *   Only interesting thing is the notion of long distance wireless power. On Earth this doesn't work because of atmosphere. Conceivably an array of satellites could
+        *   Mining in space will be expensive, so the only reasons to do it are (1) to find resources that are rare on Earth or (2) to support other space activities
+            *   Heavy metals - e.g., platinum. Sank into Earth.
+            *   He3 - Decayed by alpha radiation. 100x more abundant in solar system.
+            *   Water and hydrocarbons - In-space fueling.
+        *   [Planetary Resources](https://www.planetaryresources.com/), who has thought about this more than me, seems to have pivoted from metal mining to water mining
+        *   I wish I had a better sense of the market for precious metals. For example, each year Earth mines about 200 tons of platinum worth $5B. If we landed a platinum-rich asteroid with 10,000 tons of platinum, how would the market respond? Obviously prices would crash with increased supply. We wouldn't even know what to do with that much platinum. But long-term, what new demand might be unlocked by lower platinum prices? Difficult to speculate on.
+        *   Space mining has an interesting parallel with deep-sea drilling. Deep-sea drilling was impossible for a long time, due to the technology and cost. Eventually it became worthwhile as we figured out the technology (which essentially requires robot submersibles to build an underwater city) and with the financing (a single platform can cost $3 billion). Asteroid mining will require further leaps in technology and financing.
+    *   Manufacturing
+        *   Manufacturing off of Earth has only a few benefits:
+            *   Zero- or low-gravity for free
+            *   Vacuum or low-pressure for free
+            *   Nothing to clean up when stuff goes wrong
+            *   Closer to supply of space materials and closer to demand for space goods
+    *   Solar power
+        *   Seems way too costly to me. Getting sunlight 24/7 with 0 atmospheric losses is not gonna be that much better than getting sunlight 4/7 with 30% losses. Putting down 10 panels on the ground is way easier than 1 panel in space. Plus you don't accidentally fry anyone with your microwave beam.
+        *   One interesting thing is the possibility of long distance wireless power. On Earth this doesn't work because of atmosphere. But in space, a network of satellites could conceivably shoot laser power around to one another, right?
     *   ??
-*   Destinations for space travel
-    *   To do
+*   Destinations for space travel (TBD)
+    *   Low earth orbit
+        * Cheapest, closest to Earth, no resources
+        * ???
+    *   Moon
+        * Water resources for hydrogen fuel
+        * Ability to tunnel or build structures for radiation protection
+        * Some gravity
+        * Super cold polar craters for cryogenic fuel storage, cryogenic computing, etc.
+        * Close enough to Earth that we can launch help if something goes wrong
+        * Close enough to Earth that long loiter times are not needed
+        * ???
+    *   Asteroids
+        * Water resources for hydrogen fuel
+        * Heavy metal resources to bring back to Earth
+        * Near zero gravity
+    *   Mars
+        * [https://en.wikipedia.org/wiki/Human_mission_to_Mars](https://en.wikipedia.org/wiki/Human_mission_to_Mars)
+        * Water for hydrogen fuel and hydrocarbons for methane fuel
+        * Some gravity, a little atmosphere
+        * Can tunnel / build for radiation protection
+        * Atmosphere
+        * Can be terraformed
+        * Far from Earth (energy-efficient travel times of ~300 days during windows that occur every 26 months)
+    *   Interesting moons
+        * Europa, Enceladus, ???

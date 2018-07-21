@@ -5,9 +5,9 @@ layout: default
 
 tl;dr:
 
-The zipper merge (or late merge) is so misunderstood. The point of the zipper merge is _not_ to increase throughput. The point of the zipper merge is to increase safety (by limiting speeds) and feelings of fairness (by limiting the ability to cut). When you speed down an empty left lane to cut in at the end, you are not properly executing a zipper merge - in fact, you are in fact contravening the principles that favor it.
+The zipper merge (or late merge) is so misunderstood. The point of the zipper merge is _not_ to increase throughput. The point of the zipper merge is to increase safety (by limiting speeds) and feelings of fairness (by limiting the ability to cut). If you speed down an empty lane to cut in at the end, you are not properly executing a zipper merge - in fact, you are in fact contravening the principles that favor it.
 
-In my view, the best way to execute a zipper merge is to match the speed of the other lane and then merge at the end, regardless of whether there is space in front of you. This procedure is safest and fairest. I want more people to do it.
+In my view, the best way to execute a zipper merge is to match the speed of the other lane (regardless of whether there is space ahead of you) and then merge at the end of your lane. This procedure is safest and fairest. I want more people to do it.
 
 ---
 
@@ -15,19 +15,17 @@ Spend enough time on the internet, and you are bound to encounter a smug propone
 
 Springing forth like Batman to the bat signal, at any complaint of a cutting driver, the zipper merge proponent interrupts with smug condescension, in words likely not far from these:
 
-"---Actually, it's *not* rude to race down the left lane and merge in at the end. In fact, zipper merging is what you're supposed to do. The [Minnesota Department of Transportation website](https://www.dot.state.mn.us/latemerge/) says so. All you virtue-signaling whiners are actually wrong, inefficient, and unsafe. We cutters are merely being rewarded for our superior cleverness and moral correctness when we zoom by you chumps."
+"---Actually, it's *not* rude to zoom down the left lane and merge in at the end. In fact, zipper merging is what you're supposed to do. The [Minnesota Department of Transportation website](https://www.dot.state.mn.us/latemerge/) says so. All you virtue-signaling whiners are actually wrong, inefficient, and unsafe. We cutters are merely being rewarded for our superior cleverness and moral correctness when we zoom by you chumps."
 
-The paragraph above is boneheaded and wrong. Here why.
+I believe this argument to not only be wrong, but dangerous. Here why.
 
 The Minnesota Department of Transportation lists three benefits of the zipper merge:
-
-
 
 1.  **Greater safety**, because the zipper merge limits the difference in speeds between the two lanes
 1.  **Less blockage of earlier offramps**, because the zipper merge fills two lanes rather than one, backing up only half the distance
 1.  **Reduced feelings of unfairness, road rage, and 'forced' merges**, since zipper merging limits the ability and incentive to cut
 
-(Notably, faster throughput is *not* a given reason. Minnesota's empirical analysis found no difference in throughput, and other empirical and theoretical work seems to have mixed results, from my brief Googling. A brief literature review is provided in an appendix at the end.)
+(Notably, faster throughput is *not* a given reason. Minnesota's empirical analysis found no difference in throughput, and other empirical and theoretical work seems to have mixed results, from my brief Googling. A literature review is provided in an appendix at the end of this article.)
 
 Two of these three reasons for the zipper merge are very important, so I'm going to repeat them in all caps.
 
@@ -57,16 +55,12 @@ Say it with me: **ZIPPER MERGING** DOES NOT EQUAL **ZOOMING AND CUTTING**.
 
 I present to you now the CORRECT WAY TO EXECUTE A ZIPPER MERGE:
 
-
-
 1.  Move into the empty lane
 1.  Drive forward, matching the speed of the lane beside you.
 1.  YES, EVEN IF THERE IS SPACE IN FRONT OF YOU, MATCH THE SPEED OF THE CAR BESIDE YOU
 1.  At the end of the lane, merge
 
 This 'matching speed' procedure is the correct way to execute a zipper merge. Here's why:
-
-
 
 1.  It increases safety by reducing speeds between lanes
 1.  It reduces the length of the backup by utilizing the capacity of the second lane
@@ -121,7 +115,5 @@ If you find more studies, please send them to me. My goal is to have accurate be
 
 Above, I wrote that the zipper merge is safer because it reduces speed differences between the two lanes. There are other ways that it is safer too:
 
-
-
 1.  It reduces speed of traffic relative to construction workers by limiting zoomers
-1.  I can also see the zipper merge being safer when you know that merges only happen at one location rather than any possible location. Reduces the likelihood of inattentive drivers not noticing a merge, or getting caught between two merges. Also helps keep speeds more consistent which reduces braking events, and therefore potentially fender benders and also fuel wastage.
+1.  I can also see the zipper merge being safer when you know that merges only happen at one location rather than any possible location. This reduces the likelihood of inattentive drivers not noticing a merge, or getting caught between two merges. It also helps keep speeds more consistent which reduces braking events, and hence likely reduces fender benders and fuel wastage.
