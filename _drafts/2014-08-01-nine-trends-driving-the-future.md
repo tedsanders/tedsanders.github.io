@@ -4,8 +4,8 @@ description: Nine trends driving the future&#58; The Great Stagnation, robots ar
 title: Nine trends driving the future
 subtitle:
 categories:
-tags: blog
-comments: true
+tags:
+comments:
 ---
 
 Nine theses about the future, excerpted from a late-night message to a friend:

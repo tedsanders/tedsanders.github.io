@@ -2,11 +2,11 @@
 layout: default
 title: Why the media is ignoring Nate Silver by praising Nate Silver
 description: An introduction to Bayesian reasoning that doesn't use the phrase Bayesian reasoning. Until now. Oops.
-comments: true
-tags: blog
+comments:
+tags: 
 ---
 
-<p>Two men argue over a coin. Mr Blue believes the coin has a 90% chance of landing heads. Mr Red believes it's only 50%. The coin is flipped once, and it lands heads. Who was right?</p>
+<p>Two men argue over a coin. Mr Blue believes the coin has a 90% chance of landing heads. Mr Red believes it's only 50%. To test their beliefs, they agree to flip the coin. The coin is flipped once, and it lands heads. Who was proved right?</p>
 
 <p>This question is surprisingly deep, so let's take it one step at a time.
 </p>

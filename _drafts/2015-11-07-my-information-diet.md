@@ -7,7 +7,10 @@ tags: blog
 comments: true
 ---
 
-No one perceives reality in its entirety. There's not enough time to read every article, to meet every person, to learn every fact, or to hear every viewpoint. No matter how diligently we strive to inform ourselves of the world, at best we see only a tiny sliver of its vastness. Each time we open up a book to read, we are choosing to leave a hundred million others shut.
+Note: this page is out of date
+---
+
+No one perceives reality in its entirety. There's not enough time to read every article, to meet every person, to learn every fact, or to hear every viewpoint. No matter how diligently we strive to inform ourselves of the world, at best we see only a tiny sliver of its vastness. Each time we open up a book to read, we are necessarily choose to leave a hundred million others shut.
 
 As a result, we filter. We cull the world's countless sources of information down to a digestible few. Some pieces of information, like Tweets, are easy to digest. Others, like books, may be tougher to chew on but provide more lasting nutrition. Together, the choices we make about what information to consume makes up our information diets.
 
@@ -17,7 +20,7 @@ But unlike food diets, information diets can be insidiously self-reinforcing. If
 
 Our information diets reveal a lot about us. They reveal the people we trust, the values we hold, and the paradigms through which we interpret the world. This is why one of my favorite questions for gaining insight into other people's minds is: What's your information diet?
 
-We live in an age of abundance, and no resource is becoming abundant faster than information. Did you know that in the time it takes you to watch a 30-minute video on YouTube, an entire year of new video has already been uploaded? It's crazy. Today, the bottleneck in learning about the world is not the production of good content, but rather sifting through that content to connect people with what they want. (Arguably, this is why Google is so valuable. And it also implies that linking to a great article on Twitter or Facebook adds as much value to the world as writing a great article yourself.)
+We live in an age of abundance, and no resource is becoming abundant faster than information. In the time it takes to watch a 30-minute video on YouTube, an entire year of new video has already been uploaded. It's crazy. Today, the bottleneck in learning about the world is not the production of good content, but rather sifting through that content to connect people with what they want. (Arguably, this is why Google is so valuable. And it also implies that linking to a great article on Twitter or Facebook adds as much value to the world as writing a great article yourself.)
 
 In this spirit---sharing the sources that shape my thinking and that I hope might be worthwhile to you---I have attempted to list my information diet below. And if you think I should be reading or listening to any great sources not on this list, please let me (and the rest of the world) know in the comment section.
 

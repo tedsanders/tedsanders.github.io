@@ -3,13 +3,13 @@ layout: default
 title: Healthcare
 subtitle: The two studies everyone should know
 description: Ted talks healthcare.
-comments: true
-tags: blog
+comments:
+tags: 
 ---
 
 <p>Question: How does healthcare affect health?</p>
 
-<p>No one knows for sure. Two major randomized controlled studies have tried to answer that question. These are those two studies:</p>
+<p>No one knows exactly. Two major randomized controlled studies have tried to answer that question. These are those two studies:</p>
 
 <h2>#1: RAND Health Insurance Experiment</h2>
 
@@ -89,6 +89,6 @@ tags: blog
 
 <h2>Epilogue</h2>
 
-<p>It's truly bizarre how nonreceptive the healthcare debate is to data. Some senators argue we should have more healthcare, some senators argue we should have less. But none argue that we should test our discordant beliefs by funding another $50 million RAND study ($50 million is miniscule compared to the $2,000,000 million the US spends on healthcare each year).</p>
+<p>It's a bit bizarre how nonreceptive the healthcare debate is to data. Some senators argue we should have more healthcare, some senators argue we should have less. But none seem to argue that we should test our discordant beliefs by funding another $50 million RAND study ($50 million is miniscule compared to the ~$2,000,000 million the US spends on healthcare each year).</p>
 
 <p>One silly way to break Washington gridlock could be to pass laws conditional on future empirical studies. E.g., pass a healthcare bill that runs a study on the effects of healthcare, and then depending on the outcome of the study, automatically boosts or cuts spending. Healthcare supporters, who believe the study will reveal the benefits of healthcare, should vote aye while healthcare detractors, who believe the study will reveal the non-benefits of healthcare, should also vote aye. Ah, to dream of a world with laws based on data... (or even just to dream of a world where Congress passes laws...)</p>
