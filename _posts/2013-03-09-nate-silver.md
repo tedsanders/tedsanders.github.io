@@ -3,7 +3,7 @@ layout: default
 title: Why the media is ignoring Nate Silver by praising Nate Silver
 description: An introduction to Bayesian reasoning that doesn't use the phrase Bayesian reasoning. Until now. Oops.
 comments:
-tags: 
+tags:
 ---
 
 <p>Two men argue over a coin. Mr Blue believes the coin has a 90% chance of landing heads. Mr Red believes it's only 50%. To test their beliefs, they agree to flip the coin. The coin is flipped once, and it lands heads. Who was proved right?</p>
@@ -14,7 +14,7 @@ tags:
 <p>Clearly, after only one flip, we can't say for certain who was right, since both men predicted that heads had a chance of coming up (they only disagreed on the probabilities, not the possibilities). And yet, there is a sense that Mr Blue, who predicted a 90% chance of heads, was more corroborated by reality than Mr Red, who predicted only a 50% chance. But how much more credit does Mr Blue deserve?
 </p>
 
-<p>It turns out that there is a beautifully simple method for calculating how new evidence should affect old beliefs (like how a coin landing heads should affect your belief of whos right). Here's how it works:
+<p>It turns out that there is a beautifully simple method for calculating how new evidence should affect old beliefs (like how a coin landing heads should affect your belief of who's right). Here's how it works:
 </p>
 
 <p>To visualize the probabilities better, let's imagine that we live in 100 possible universes.
