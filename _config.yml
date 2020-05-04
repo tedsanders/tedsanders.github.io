@@ -2,3 +2,4 @@ url: "https://www.tedsanders.com" # the base hostname & protocol for your site, 
 baseurl: "" # the subpath of your site, e.g. /blog
 title: "Ted Sanders"
 permalink: /:title/
+repository: tedsanders.github.io
