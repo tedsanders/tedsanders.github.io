@@ -4,7 +4,9 @@ layout: default
 description: Welcome to tedsanders.com
 ---
 
-I'm Ted. Here are my thoughts:
+# Under construction
+
+Here are some of my thoughts:
 
 <ul class="no-bullets">
   {% for post in site.posts %}

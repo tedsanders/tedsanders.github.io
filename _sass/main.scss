@@ -1,43 +1,115 @@
-$backgroundColor: #fffff0;
+$backgroundColor: #eeeeeb;
 $bodyColor: #000000;
 $bodyFont: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
 
+html {
+  height: 100%;
+}
+
 body {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  min-height: 100%;
   background: $backgroundColor;
   color: $bodyColor;
   font-family: $bodyFont;
-  font-size: 16px;
-  line-height: 1.55;
+  font-size: 1rem;
+  line-height: 1.5rem;
   width: 100%;
   margin: auto; 
   padding: 0;
+  overflow-x: hidden;
 }
 
 .column {
   margin: auto;
-  padding: 0;
-  width: 32em;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  width: 32rem;
   max-width: 100%;
-  display: block;
   overflow-wrap: break-word;
   word-wrap: break-word;
   word-break: break-word;
+}
+
+header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background: #333;
+}
+
+#nav-bar {
+  display: -webkit-flex;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: auto;
+  color: white;
+  padding-top: 1px;
+  padding-bottom: 0.5rem;
+}
+
+#nav-bar a {
+  color: #ddd;
+  font-variant: small-caps;
+
+}
+
+#nav-bar-home {}
+
+#nav-bar-about {}
+
+article {
+  flex: 1;
+  background: #fffffc;
+  padding-top: 1px;
+  padding-bottom: 1px;
+}
+
+h1, h2, h3, h4, h5 {
+  font-weight: bold;
+  hyphens: none;
+  line-height: 1.2
+}
+
+h1 {
+  font-size: 2rem;
+}
+
+h2 {
+  font-size: 1.5rem;
+}
+
+h3 {
+  font-size: 1.25rem;
+}
+
+h4 {
+  font-size: 1.25rem;
+}
+
+h5 {
+  font-size: 1.25rem;
+}
+
+blockquote {
+  background:#eee;
+  border-left: 0.4rem solid #aaa;
+  margin-left: 0.575rem;
+  margin-right: auto;
+  padding: 1px 0.5rem;
+  border-radius: 0.25rem;
+}
+
+ul {
+  padding-left: 1.5rem;
 }
 
 .no-bullets {
   list-style: none;
   margin-left: 0;
   padding-left: 1rem;
-  /*Undo bullet fix*/ 
 }
 
-#nav-bar {
-  background: #333;
-  margin: auto;
-  padding: 0.5em 0;
-  text-align: center;
-}
-
-#nav-bar-link {
-  color: white;
-}
