@@ -56,13 +56,15 @@ header {
   justify-content: space-between;
   margin: auto;
   color: white;
-  padding-top: 1px;
-  padding-bottom: 0.5rem;
 }
 
 #nav-bar a {
+  display: block;
   color: #ddd;
-  font-variant: small-caps;
+  font-size: 0.75rem;
+  line-height: 2em;
+  padding-bottom: 0.25em;
+  font-style: bold;
 }
 
 article {
