@@ -8,6 +8,7 @@ tags: notes
 
 Spaceflight is important because it may decouple the fate of life from the fate of Earth.
 
+This article answers three questions:
 *   Why does it cost $4,000/kg to launch stuff into orbit?
 *   How low can the cost fall?
 *   If that cost fell, what more would we do?

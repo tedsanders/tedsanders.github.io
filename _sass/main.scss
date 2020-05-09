@@ -1,7 +1,14 @@
-$backgroundColor: #eeeeeb;
+$backgroundColor: #fffffc;
 $bodyColor: #000000;
 $bodyFont: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
 
+// Resets
+*, *::before, *::after {box-sizing: border-box;}
+body,h1,h2,h3,h4,p,ul[class],ol[class],li,figure,figcaption,blockquote,dl,dd {margin:0;}
+img {max-width: 100%; display: block;}
+
+
+// HTML
 html {
   height: 100%;
 }
@@ -9,18 +16,19 @@ html {
 body {
   display: flex;
   flex-direction: column;
-  height: 100%;
-  min-height: 100%;
+  height: 100vh;
+  min-height: 100vh;
   background: $backgroundColor;
   color: $bodyColor;
   font-family: $bodyFont;
   font-size: 1rem;
   line-height: 1.5rem;
-  width: 100%;
-  max-width: 100%;
+  width: 100vw;
+  max-width: 100vw;
   margin: auto; 
   padding: 0;
   overflow-x: hidden;
+  text-rendering: optimizeSpeed;
 }
 
 .column {
@@ -37,12 +45,12 @@ body {
 header {
   display: flex;
   flex-direction: column;
+  flex: 0 1 auto;
   justify-content: center;
   background: #333;
 }
 
 #nav-bar {
-  display: -webkit-flex;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -55,20 +63,25 @@ header {
 #nav-bar a {
   color: #ddd;
   font-variant: small-caps;
-
 }
-
-#nav-bar-home {}
-
-#nav-bar-about {}
 
 article {
-  flex: 1;
-  background: #fffffc;
-  padding-top: 1px;
-  padding-bottom: 1px;
+  display: flex;
+  flex-direction: column;
+  flex: 1 1 auto;
+  background: #fffffc
 }
 
+#article-column {
+  flex: 1 1 auto;
+}
+
+/* Natural flow and rhythm in articles by default */
+#article-column > * + * {
+  margin-top: 1em;
+}
+
+// Headers
 h1, h2, h3, h4, h5 {
   font-weight: bold;
   hyphens: none;
@@ -77,6 +90,7 @@ h1, h2, h3, h4, h5 {
 
 h1 {
   font-size: 2rem;
+  margin-top: 2rem;
 }
 
 h2 {
@@ -111,6 +125,6 @@ ul {
 .no-bullets {
   list-style: none;
   margin-left: 0;
-  padding-left: 1rem;
+  padding-left: 0;
 }
 

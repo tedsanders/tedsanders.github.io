@@ -5,11 +5,9 @@
     <title>{% if page.title %} {{ page.title }} | {{ site.title }} {% else %} {{ site.title }} {% endif %}</title>
     <meta name="description" content="{% if page.description %} {{ page.description }} {% else %} {{ site.description }} {% endif %}">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-
     <link rel="manifest" href="/site.webmanifest">
     <link rel="apple-touch-icon" href="/icon.png">
     <!-- favicon.ico is in the root directory -->
-
     <link rel="stylesheet" href="{{site.url}}/assets/css/normalize.css">
     <link rel="stylesheet" href="{{site.url}}/assets/css/main.css">
     <meta name="theme-color" content="#fafafa">
@@ -23,8 +21,10 @@
         <a id='nav-bar-about' href='{{site.url}}/about/'>about</a>
       </nav>
     </header>
-    <article class='column'>
-      {{content}}
+    <article>
+      <div id='article-column' class='column'>
+        {{content}}
+      </div>
     </article>
   </body>
 </html>

@@ -8,6 +8,8 @@ tags:
 stars:
 ---
 
+# Will
+
 <ul class="no-bullets">
 <li><a href="#will">Last Will and Testament</a></li>
 <li><a href="#socialmediawill">Social Media Will</a></li>
@@ -45,7 +47,7 @@ stars:
 <p>Relationship: Sister</p>
 <p>Property: Everything I own</p>
 
-<p>3.2.    Should any of the beneficiaries named in 3.1. not survive me by 30 (thirty) days I direct that my liquid, monetary assets (savings, bonds, stocks, etc.) go to GiveWell's #1 charity and that my illiquid, physical assets go to my parents in equal shares.</p>
+<p>3.2.    Should any of the beneficiaries named in 3.1. not survive me by 30 (thirty) days I direct that my liquid, monetary assets (savings, bonds, stocks, etc.) go to GiveWell's #1 charity (or should it not exist, to GiveWell itself to grant at its discretion) and that my illiquid, physical assets go to my parents in equal shares.</p>
 
 <h3>4. Special Requests</h3>
 
