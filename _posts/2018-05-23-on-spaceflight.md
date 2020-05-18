@@ -4,12 +4,16 @@ layout: default
 tags: notes
 ---
 
+
 # On spaceflight
 
 Spaceflight is important because it may decouple the fate of life from the fate of Earth.
 
 This article answers three questions:
-*   Why does it cost $4,000/kg to launch stuff into orbit?
+
+
+
+*   Why does it cost $4,000/kg to get to space?
 *   How low can the cost fall?
 *   If that cost fell, what more would we do?
 
@@ -38,7 +42,7 @@ At max payload, a $62M launch is:
 
 
 *   **$4,000/kg** to low-earth orbit ([15,600 kg max](https://web.archive.org/web/20200329154615/https://en.wikipedia.org/wiki/Falcon_9_Full_Thrust) when landing booster)
-*   **$11,000/kg **to geosynchronous transfer orbit ([5,500 kg max](https://web.archive.org/web/20200329154615/https://en.wikipedia.org/wiki/Falcon_9_Full_Thrust) when landing booster)
+*   **$11,000/kg** to geosynchronous transfer orbit ([5,500 kg max](https://web.archive.org/web/20200329154615/https://en.wikipedia.org/wiki/Falcon_9_Full_Thrust) when landing booster)
 
 The cost of a launch is dominated by the cost of the rocket:
 
@@ -53,7 +57,7 @@ The rocket dominates, so let’s look at that. Rocket costs are driven by labor 
 
 
 *   A house: ~$1/kg
-*   **Aerospace grade aluminum: ~$2/kg**
+*   Aerospace grade aluminum: ~$2/kg
 *   Toyota Prius: $16/kg
 *   **Falcon 9 (unfueled): $2,200/kg**
 *   AirBus 320neo (unfueled): $2,500/kg
@@ -78,7 +82,7 @@ Of course, even approaching the marginal cost of spaceflight requires a decent v
 What drives the marginal cost of spaceflight?
 
 
-### Physical limits: How low can the cost go?
+### Physical limits: How low can the cost go? {#physical-limits-how-low-can-the-cost-go}
 
 **Conservation of energy** and **conservation of momentum** limit what is possible.
 
@@ -148,8 +152,10 @@ Delta-v is convenient to work with for two reasons:
 This fantastic map shows how much delta-v is needed to reach destinations in the solar system:
 
 
+![alt_text](https://i.redditmedia.com/U5iH7huE5qKth7ZFvipXt8vzaFOO99qHFh9o9_SkLLk.png?s=eeebc1644766a6de193fe7e1fc52a98c?raw=true "image_tooltip")
 
-[https://i.redditmedia.com/U5iH7huE5qKth7ZFvipXt8vzaFOO99qHFh9o9_SkLLk.png?s=eeebc1644766a6de193fe7e1fc52a98c](https://i.redditmedia.com/U5iH7huE5qKth7ZFvipXt8vzaFOO99qHFh9o9_SkLLk.png?s=eeebc1644766a6de193fe7e1fc52a98c)
+
+[Source](https://i.redditmedia.com/U5iH7huE5qKth7ZFvipXt8vzaFOO99qHFh9o9_SkLLk.png?s=eeebc1644766a6de193fe7e1fc52a98c)
 
 
 
@@ -223,7 +229,6 @@ The [number of orbital launches per year](https://en.wikipedia.org/wiki/Timeline
     *   Fragile, high-cost, potential wobble instabilities, not strong enough for Earth gravity
     *   Potential long-term use on moons
 *   Near future
-*   Today a fully loaded Falcon 9 is priced ~$2,700/kg to LEO
 *   Upcoming rockets
     *   SpaceX
         *   Falcon 9 Block 5 (May 2018)
@@ -271,65 +276,64 @@ The [number of orbital launches per year](https://en.wikipedia.org/wiki/Timeline
             *   RP-1/LOX for stage 1, stage 2
     *   Not sure what’s coming out of China/Russia
     *   Let me know if you think I should add any other rockets here
-*   
 
 
 ## Demand for space travel beyond Earth orbit {#demand-for-space-travel-beyond-earth-orbit}
 
 
 
-*   I am skeptical that there are economic cases for space travel in the next century. The most promising economic activities seem to be fuel mining and manufacturing, but those are only useful for supporting other activities. Very long-term, the best case I see for an economic return is the terraforming of Mars, and even that seems worthwhile only if we subsidize it to hedge against something going seriously bad on Earth. (And it’s gotta be _seriously_ bad if Mars ends up looking better than a remote bunker on Earth.)
-*   Demand can fall into a number of categories:
-*   Science
-    *   Beyond curiosity, economic applications seem limited (?)
-*   Tourism
-    *   In his book _Artemis_, [author Andy Weir saw tourism as the most plausible driving economic force for a moonbase](http://www.businessinsider.com/andy-weir-artemis-moon-city-economics-the-martian-2017-11) 
-*   Mining
-    *   Mining in space will be expensive, so the only reasons to do it are (1) to find resources that are rare on Earth or (2) to support other space activities
-        *   Heavy metals - e.g., platinum. (Rarer on Earth vs other bodies in the solar system because they sank into the center of the Earth.)
-        *   He3
-            *   100x more abundant in solar system than on Earth (on Earth they have been diluted by He4 coming off of U and Th radioactive decay - though I don’t know why Earth has more U and Th)
-            *   Articles against He3 mining:
-                *   [http://cds.cern.ch/record/1055767?ln=en](http://cds.cern.ch/record/1055767?ln=en)
-                    *   We don’t even really know if it’s out there and it’s not that great for neutron-free fusion because neutrons still get created from secondary reactions
-                *   [http://www.thespacereview.com/article/2834/1](http://www.thespacereview.com/article/2834/1)
-                    *   We don’t even have He3 fusion and the amounts on the moon are unproven estimates and even if true the concentrations of He3 on the moon are still so low that it require massive mining operations just to get tiny amounts of He3
-        *   Hydrocarbons - In-space fueling
-    *   [Planetary Resources](https://www.planetaryresources.com/), who has thought about mining more than I, seems to have pivoted from metal mining to water mining
-    *   I wish I had a better sense of the market for precious metals. For example, each year Earth mines about 200 tons of platinum worth $5B. If we landed a platinum-rich asteroid with 10,000 tons of platinum, how would the market respond? Obviously prices would crash with increased supply. We wouldn't even know what to do with that much platinum. But long-term, what new demand might be unlocked by lower platinum prices? Difficult to speculate on.
-    *   Space mining has an interesting parallel with deep-sea drilling. Deep-sea drilling was impossible for a long time, due to the technology and cost. Eventually it became worthwhile as we figured out the technology (which essentially requires robot submersibles to build an underwater city) and with the financing (a single platform can cost $3 billion). Asteroid mining will require further leaps in technology and financing.
-*   Low gravity manufacturing
+    *   I am skeptical that there are economic cases for space travel in the next century. The most promising economic activities seem to be fuel mining and manufacturing, but those are only useful for supporting other activities. Very long-term, the best case I see for an economic return is the terraforming of Mars, and even that seems worthwhile only if we subsidize it to hedge against something going seriously bad on Earth. (And it’s gotta be _seriously_ bad if Mars ends up looking better than a remote bunker on Earth.)
+    *   Demand can fall into a number of categories:
+    *   Science
+        *   Beyond curiosity, economic applications seem limited (?)
+    *   Tourism
+        *   In his book _Artemis_, [author Andy Weir saw tourism as the most plausible driving economic force for a moonbase](http://www.businessinsider.com/andy-weir-artemis-moon-city-economics-the-martian-2017-11) 
+    *   Mining
+        *   Mining in space will be expensive, so the only reasons to do it are (1) to find resources that are rare on Earth or (2) to support other space activities
+            *   Heavy metals - e.g., platinum. (Rarer on Earth vs other bodies in the solar system because they sank into the center of the Earth.)
+            *   He3
+                *   100x more abundant in solar system than on Earth (on Earth they have been diluted by He4 coming off of U and Th radioactive decay - though I don’t know why Earth has more U and Th)
+                *   Articles against He3 mining:
+                    *   [http://cds.cern.ch/record/1055767?ln=en](http://cds.cern.ch/record/1055767?ln=en)
+                        *   We don’t even really know if it’s out there and it’s not that great for neutron-free fusion because neutrons still get created from secondary reactions
+                    *   [http://www.thespacereview.com/article/2834/1](http://www.thespacereview.com/article/2834/1)
+                        *   We don’t even have He3 fusion and the amounts on the moon are unproven estimates and even if true the concentrations of He3 on the moon are still so low that it require massive mining operations just to get tiny amounts of He3
+            *   Hydrocarbons - In-space fueling
+        *   [Planetary Resources](https://www.planetaryresources.com/), who has thought about mining more than I, seems to have pivoted from metal mining to water mining
+        *   I wish I had a better sense of the market for precious metals. For example, each year Earth mines about 200 tons of platinum worth $5B. If we landed a platinum-rich asteroid with 10,000 tons of platinum, how would the market respond? Obviously prices would crash with increased supply. We wouldn't even know what to do with that much platinum. But long-term, what new demand might be unlocked by lower platinum prices? Difficult to speculate on.
+        *   Space mining has an interesting parallel with deep-sea drilling. Deep-sea drilling was impossible for a long time, due to the technology and cost. Eventually it became worthwhile as we figured out the technology (which essentially requires robot submersibles to build an underwater city) and with the financing (a single platform can cost $3 billion). Asteroid mining will require further leaps in technology and financing.
+    *   Low gravity manufacturing
+        *   ??
+    *   Solar
+        *   Seems way too costly to me. Getting sunlight 24/7 with 0 atmospheric losses is not gonna be that much better than getting sunlight 8/7 with 50% losses. Putting down 6 panels on the ground is easier than 1 panel in space.
+        *   One interesting thing is the possibility of long distance wireless power. On Earth this doesn't work because of atmosphere. But in space, a network of satellites could conceivably shoot laser power around to one another, right?
     *   ??
-*   Solar
-    *   Seems way too costly to me. Getting sunlight 24/7 with 0 atmospheric losses is not gonna be that much better than getting sunlight 8/7 with 50% losses. Putting down 6 panels on the ground is easier than 1 panel in space.
-    *   One interesting thing is the possibility of long distance wireless power. On Earth this doesn't work because of atmosphere. But in space, a network of satellites could conceivably shoot laser power around to one another, right?
-*   ??
 *   Destinations for space travel (TBD)
-*   Low earth orbit
-    *   Cheapest, closest to Earth, no resources
-    *    ???
-*   Moon
-    *   Water resources for hydrogen fuel
-    *   Ability to tunnel or build structures for radiation protection
-    *   Some gravity
-    *   Super cold polar craters for cryogenic fuel storage, cryogenic computing, etc.
-    *   Close enough to Earth that we can launch help if something goes wrong
-    *   Close enough to Earth that long loiter times are not needed
-    *   ???
-*   Asteroids
-    *   Water resources for hydrogen fuel
-    *   Heavy metal resources to bring back to Earth
-    *   Near zero gravity
-*   Mars
-    *   [https://en.wikipedia.org/wiki/Human_mission_to_Mars](https://en.wikipedia.org/wiki/Human_mission_to_Mars)
-    *   Water for hydrogen fuel and hydrocarbons for methane fuel
-    *   Some gravity, a little atmosphere
-    *   Can tunnel / build for radiation protection
-    *   Atmosphere
-    *   Can be terraformed
-    *   Far from Earth (energy-efficient travel times of ~300 days during windows that occur every 26 months)
-*   Interesting moons
-    *   Europa, Enceladus, ???
+    *   Low earth orbit
+        *   Cheapest, closest to Earth, no resources
+        *    ???
+    *   Moon
+        *   Water resources for hydrogen fuel
+        *   Ability to tunnel or build structures for radiation protection
+        *   Some gravity
+        *   Super cold polar craters for cryogenic fuel storage, cryogenic computing, etc.
+        *   Close enough to Earth that we can launch help if something goes wrong
+        *   Close enough to Earth that long loiter times are not needed
+        *   ???
+    *   Asteroids
+        *   Water resources for hydrogen fuel
+        *   Heavy metal resources to bring back to Earth
+        *   Near zero gravity
+    *   Mars
+        *   [https://en.wikipedia.org/wiki/Human_mission_to_Mars](https://en.wikipedia.org/wiki/Human_mission_to_Mars)
+        *   Water for hydrogen fuel and hydrocarbons for methane fuel
+        *   Some gravity, a little atmosphere
+        *   Can tunnel / build for radiation protection
+        *   Atmosphere
+        *   Can be terraformed
+        *   Far from Earth (energy-efficient travel times of ~300 days during windows that occur every 26 months)
+    *   Interesting moons
+        *   Europa, Enceladus, ???
 *   Interstellar trade (TBD)
 *   
 

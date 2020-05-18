@@ -1,5 +1,5 @@
 ---
-title: On zipper merging
+title: On the zipper merge
 layout: default
 ---
 

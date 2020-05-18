@@ -1,4 +1,4 @@
-$backgroundColor: #ffffcc;
+$backgroundColor: #fff;
 $bodyColor:black;
 $bodyFont: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
 
@@ -33,7 +33,7 @@ body {
   margin: auto;
   padding-left: 1rem;
   padding-right: 1rem;
-  width: 32rem;
+  width: 48rem;
   max-width: 100vw;
   overflow-wrap: break-word;
   word-wrap: break-word;
@@ -56,9 +56,9 @@ header {
 #nav-bar a {
   display: block;
   color: #ddd;
-  font-size: 0.75rem;
+  font-size: rem;
   line-height: 2em;
-  font-style: bold;
+  font-weight: 600;
 }
 
 /* Natural flow and rhythm in articles by default */

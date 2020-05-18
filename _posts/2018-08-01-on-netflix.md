@@ -4,7 +4,7 @@ layout: default
 tags: notes
 ---
 
-NOTE: All of this was written before I became a Netflix employee and does not reflect my opinion as an employee nor does it contain any information gained from being an employee. Also, like most of what I write, it's a reflection of thinking still in progress, likely wrong in some ways, and likely to change.
+NOTE: All of what follows was written in 2018 before I became a Netflix employee and does not reflect my opinion as an employee nor does it contain any information gained from being an employee. Also, like most of what I write, it's a reflection of thinking still in progress, likely wrong in some ways, and likely to change.
 
 
 
