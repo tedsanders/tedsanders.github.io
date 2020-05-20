@@ -11,8 +11,6 @@ description: Welcome to tedsanders.com
 
 In these essays I try to make my thoughts precise:
 
-&nbsp;
-
 <ul class="no-bullets">
   {% for post in site.posts %}
     <li class="list-row">
