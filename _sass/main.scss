@@ -1,6 +1,6 @@
 $backgroundColor: #fff;
-$bodyColor:black;
-$bodyFont: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+$bodyColor:#234;
+$bodyFont: "Helvetica Neue", "Arial", sans-serif;
 
 // Resets
 *, *::before, *::after {box-sizing: border-box;}
@@ -19,8 +19,8 @@ body {
   background: $backgroundColor;
   color: $bodyColor;
   font-family: $bodyFont;
-  font-size: 1rem;
-  line-height: 1.5rem;
+  font-size: 18px;
+  line-height: 1.55;
   width: 100vw;
   max-width: 100vw;
   margin: auto; 
@@ -41,7 +41,7 @@ body {
 }
 
 header {
-  background: #333;
+  background: #09243f;
 }
 
 #nav-bar {
@@ -49,16 +49,22 @@ header {
   flex-direction: row;
   justify-content: space-between;
   margin: auto;
-  color: white;
-  background: #333;
+}
+
+a {
+  text-decoration: none;
+  color: #33F;
+}
+
+a:hover {
+  text-decoration: underline;
 }
 
 #nav-bar a {
   display: block;
-  color: #ddd;
+  color: lightgray;
   font-size: rem;
   line-height: 2em;
-  font-weight: 600;
 }
 
 /* Natural flow and rhythm in articles by default */
@@ -95,7 +101,7 @@ h5 {
 }
 
 blockquote {
-  background:#eee;
+  background: #e7e7ee;
   border-left: 0.4rem solid #aaa;
   margin-left: 0.575rem;
   margin-right: auto;
