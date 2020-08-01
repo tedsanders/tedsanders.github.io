@@ -48,11 +48,11 @@ tags:
 
 [Published in the November 2015 issue of MRS Bulletin.](http://journals.cambridge.org/download.php?file=%2FMRS%2FMRS40_11%2FS0883769415002997a.pdf&code=842133931c9c944f5695a37a3d8fa71f)
 
-Fifty years ago, a quiet, 36-year-old chemist named Gordon Moore penned an innocuous article in the trade magazine _Electronics_. In the article, Moore, who was in a unique position as the head of R&D at Fairchild Semiconductor, put forth a prediction about the nascent semiconductor industry. After seeing transistor counts jump year-to-year from roughly 8 to 16 to 32 to 64, Moore forecast that this exponential progress in integrated circuits would continue unabated until at least 1975, and perhaps beyond.
+Fifty years ago, a quiet, 36-year-old chemist named Gordon Moore penned an innocuous article in the trade magazine _Electronics_. In the article, Moore, who was in a unique position as the head of R&D at Fairchild Semiconductor, put forth a prediction about the nascent semiconductor industry. After seeing integrated circuit transistor counts roughly doubling each year from 8 to 16 to 32 to 64, Moore forecast that this exponential progress would continue unabated until at least 1975, and perhaps beyond.
 
-Half a century hence, I’m typing this out on a computer packing more than 1,400,000,000 transistors - for those keeping score at home, that's about 30 doublings. To call Moore’s 1965 prediction a success would be like calling Serena Williams a decent tennis player. Usually, a prediction is fortunate if it correctly predicts the future just once, but when a prediction is right again and again, decade after decade, it's practically a miracle.
+Half a century hence, I’m typing this out on a computer packing more than 1,400,000,000 transistors - for those keeping score at home, that's about 30 doublings. To call Moore’s 1965 prediction a success would be like calling Wilt Chamberlain a decent basketball player. Usually, a prediction is fortunate if it correctly predicts the future just once, but when a prediction is right again and again, decade after decade, it's practically a miracle.
 
-And when I call Moore’s law a miracle, I'm not even sure it's hyperbole. The exponential rise in computing power has lifted living standards around the world and forever changed the way humans work and play (and even how they watch British babies bite fingers. Bad Charlie!).
+When I call Moore’s law a miracle, I'm not even sure it's hyperbole. The exponential rise in computing power has lifted living standards around the world and forever changed the way humans work and play (and even how they watch British babies bite fingers. Bad Charlie!).
 
 Given the success and fame of Moore’s law, it is no surprise that, like a rock star, it would attract groupies and posers and copycats and coattail-riders.
 
@@ -82,9 +82,25 @@ If Moore’s law is ending, what does that bode for the Moore’s law of Moore�
 
 Fifty years from today, I, like Gordon Moore before me, will be a CEO billionaire, famous around the world for first recognizing the Moore’s Law of Moore’s Laws. And you, dear reader, will be able to brag at dinner parties that you were among the first to read about it, in your very own issue of MRS Bulletin now framed on your living room wall.
 
-
 ## Sources:
 <ol class='no-bullets'>
+<li><a href="https://en.wikipedia.org/wiki/Moore's_law#History"> 1976: Integrated circuits </a></li>
+<li><a href="https://en.wikipedia.org/wiki/Moore's_law#Moore.27s_second_law"> 1995: Fabrication plant costs </a></li>
+<li><a href="http://www.forbes.com/forbes/1997/1013/6008147a.html"> 1997: Wealth </a></li>
+<li><a href="http://www.scruminc.com/wp-content/uploads/2014/06/The-Emergence-of-a-Business-Object-Component-Architecture.pdf"> 1997: Software </a></li>
+<li><a href="https://www.mail-archive.com/ctrl@listserv.aol.com/msg16785.html"> 1999: Agriculture </a></li>
+<li><a href="http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=795601"> 1999: Bandwidth </a></li>
+<li><a href="http://arxiv.org/abs/astro-ph/0002514"> 2000: Radio astronomy </a></li>
+<li><a href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=236108"> 2000: Data traffic </a></li>
+<li><a href="http://mooreslore.corante.com/archives/2005/06/15/moores_law_is_everywhere.php"> 2002: Optical storage </a></li>
+<li><a href="https://books.google.com/books?id=uhb-DBmM-PkC&dq=the+blankenhorn+effect&source=gbs_navlinks_s"> 2002: Radio </a></li>
+<li><a href="http://science.slashdot.org/comments.pl?sid=40531&cid=4318858"> 2002: DNA sequencing </a></li>
+<li><a href="http://arxiv.org/ftp/cs/papers/0405/0405004.pdf"> 2002: Quantum computing </a></li>
+<li><a href="http://iopscience.iop.org/0031-9120/38/2/305"> 2003: Fusion </a></li>
+<li><a href="http://www.thespacereview.com/article/180/1"> 2004: Space </a></li>
+<li><a href="http://econlog.econlib.org/archives/2004/06/moores_law_for.html"> 2004: Hard drives </a></li>
+<li><a href="http://mooreslore.corante.com/archives/2005/11/29/moores_chicken_pecks_sony.php#more"> 2005: Optics </a></li>
+<li><a href="http://happyinmotion.com/?m=200511"> 2005: Wind </a></li>
 <li><a href='https://docs.google.com/spreadsheets/d/1f-rsjgqAKGufj6VSTALb9FiEiBjQngXYQkqdv1YlYWo/edit#gid=1175118273'> 2006: Razor blades </a></li>
 <li><a href='https://books.google.com/books?id=u9vLBQAAQBAJ&pg=PP22&lpg=PP22&dq=%22moore%27s+law+of+photonics%22&source=bl&ots=YB32A7suNN&sig=kkzfLDdjb0unvGTlFTUbN5aHbxQ&hl=en&sa=X&ei=uDODVfLeBIPWoASuiIfICw&ved=0CCUQ6AEwAQ#v=onepage&q=%22moore%27s%20law%20of%20photonics%22&f=false'> 2006: Photonics </a></li>
 <li><a href='https://www.aei.org/publication/what-happened-to-liquidity-2/'> 2007: Finance </a></li>

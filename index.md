@@ -9,7 +9,7 @@ description: Welcome to tedsanders.com
 >"Everything is vague to a degree you do not realize till you have tried to make it precise..."
 ><p style="font-weight: bold; text-align: right">-Bertrand Russell</p>
 
-In these essays I try to make my thoughts precise:
+In these essays I try to make things precise:
 
 <ul class="no-bullets">
   {% for post in site.posts %}
