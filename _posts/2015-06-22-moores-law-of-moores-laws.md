@@ -46,43 +46,40 @@ tags:
   </defs>
 </svg>
 
-[Published in the November 2015 issue of MRS Bulletin.](http://journals.cambridge.org/download.php?file=%2FMRS%2FMRS40_11%2FS0883769415002997a.pdf&code=842133931c9c944f5695a37a3d8fa71f)
+Attention is scarce. And attention is valuable.
 
-Fifty years ago, a quiet, 36-year-old chemist named Gordon Moore penned an innocuous article in the trade magazine _Electronics_. In the article, Moore, who was in a unique position as the head of R&D at Fairchild Semiconductor, put forth a prediction about the nascent semiconductor industry. After seeing integrated circuit transistor counts roughly doubling each year from 8 to 16 to 32 to 64, Moore forecast that this exponential progress would continue unabated until at least 1975, and perhaps beyond.
+Attention is scarce because there is limited time in the day but an unlimited number of things to potentially care about. As an example, consider YouTube. How much of YouTube’s videos do you think you’d get through if you devoted the rest of your life to watching them? Ready for the answer? It turns out you’d die of old age before getting through a single day of uploads.[^1] In the same way that it’s impossible to pay attention to anything more than a tiny slice of YouTube, it’s impossible to pay attention to anything more than a tiny slice of reality. As a result, we only ever pay attention to a few things. This is why attention is necessarily scarce.
 
-Half a century hence, I’m typing this out on a computer packing more than 1,400,000,000 transistors - for those keeping score at home, that's about 30 doublings. To call Moore’s 1965 prediction a success would be like calling Wilt Chamberlain a decent basketball player. Usually, a prediction is fortunate if it correctly predicts the future just once, but when a prediction is right again and again, decade after decade, it's practically a miracle.
+By itself, the scarcity of attention does not give it value. For example, toxic nuclear waste is scarce, but it is not valuable.[^2]
 
-When I call Moore’s law a miracle, I'm not even sure it's hyperbole. The exponential rise in computing power has lifted living standards around the world and forever changed the way humans work and play (and even how they watch British babies bite fingers. Bad Charlie!).
+The reason attention is valuable is that it’s almost always a prerequisite for impact. A researcher whose papers get no attention will not lead others to new discoveries. A founder whose startup gets no attention will find no investors and no customers. A journalist whose articles get no attention will inform and entertain no one. Ultimately, it’s difficult to impact people without first earning their attention.
 
-Given the success and fame of Moore’s law, it is no surprise that, like a rock star, it would attract groupies and posers and copycats and coattail-riders.
+Earning attention is easy if you’ve already had large impact. This is one reason why success begets success. But before your success, how can you get attention?
 
-Suppose you are a materials scientist trying to publicize your research but failing to get any traction. Every year, you improve your material, but beyond some rote applause at a conference and a citation or two, no one seems to care. How can you hope to attain some hype?
+Here is a simple strategy. Are you researching nuclear fusion? Then talk about the Moore’s law of fusion! Are you founding a battery startup? Talk about the Moore’s law of batteries! Are you writing an article about how paint dries? Talk about the Moore’s law of drying paint!
 
-Here is a simple strategy. Do you research batteries? Then talk about the Moore’s law of batteries! Do you research materials for nuclear fusion? Talk about the Moore’s law for fusion! Do you research how paint dries? Talk about the Moore’s law of drying paint!
+Comparing your work to Moore’s law is an instant recipe for getting your audience to imagine how you’ll spawn entire industries and transform the world. And the best part about exponential growth is that it starts small. If anyone ever questions whether your work is truly world-changing, you can rebut that while your first steps are admittedly small on an absolute scale, that is how all exponential curves start. Only after growing exponentially for decades will they then become huge.
 
-Comparing your research to Moore’s law is an instant recipe for getting your audience to imagine how your work might one day spawn entire industries and radically transform the world. And the best part about exponential growth is that it starts small. If anyone ever questions whether your work actually is world-changing, you can just rebut that while your first steps are admittedly small on an absolute scale, that is how all exponential curves start. Only after growing exponentially for decades will they become obviously huge.
+Riding coattails is a time-tested strategy, and in the world of technology, there are no coattails bigger than those of Moore’s law. So it is hardly a surprise to see more and more people coining their progress as the “Moore’s law of ______.” In the past few years, I have heard people reference the Moore’s law of solar power, the Moore’s law of mass spectroscopy, and the Moore’s law of aircraft, to name just a few.
 
-Riding coattails is a time-tested strategy, and in the world of materials science and technology, there may be no bigger coattails than those of Moore’s law. So it is hardly a surprise to see more and more scientists calling their research subject’s progress the “Moore’s law of _________.” In the past few years, I have heard scientists reference the Moore’s law of solar power, the Moore’s law of mass spectroscopy, and the Moore’s law of aircraft, to name just a few.
+Seeing this explosion of references to Moore’s law got me thinking along the same lines as Gordon Moore 50 years ago. How fast are these pseudo-Moore’s laws being invented? Are they following any sort of regular trend that would allow us to cautiously extrapolate? And is this merely a short-term fad or the beginning of a tectonic shift in technological marketing?
 
-Seeing this recent explosion of references to Moore’s law got me thinking along the same lines as Gordon Moore 50 years ago. How fast are these pseudo-Moore’s laws being invented? Are they following any sort of predictable trend that would allow us to cautiously extrapolate? And is this merely a short-term fad or the beginning of a tectonic shift in science marketing?
+To answer these questions, I scoured the web for every reference I could find to the “Moore’s law of ______” and then traced each back to its earliest mention. In doing so (and with surprisingly little researcher bias) I made a stunning discovery:
 
-Well, my dear reader, you are in for a treat. On your behalf, I have humbly performed some original scholarly research, scouring the web for every reference I could find to the “Moore’s law of X” and then tracing each back to its earliest mention. Deep into my study, I made a shocking discovery:
+There is a Moore’s law of Moore’s laws.
 
-There is a Moore’s law of Moore’s laws!
+For the past four decades, the number of Moore’s laws coined has been doubling every five years. Early Moore’s laws were technical in nature (e.g., the Moore’s law of software or the Moore’s law of bandwidth), but as time passed, Moore’s laws were invented for topics far afield of computers (e.g., the Moore’s law of corn or the Moore’s law for NFL field goals).
 
-For decades now, the number of Moore’s laws invented has been roughly doubling every five years. The first Moore’s laws were technical in nature (e.g., the Moore’s law of software or the Moore’s law of bandwidth), but as time passed, Moore’s laws were invented for topics far afield of computers (e.g., the Moore’s law of corn or the Moore’s law for NFL field goals).
+Let’s extrapolate this forward. If the number of Moore’s laws continues to double every five years, then by the year 2080, there will exist a Moore’s law for every single word in the English language.[^3] We may have a Moore’s law of zebras, a Moore’s law of love, and perhaps even a Moore’s law of absquatulating.
 
-Let’s extrapolate this exponential growth forward. If the number of Moore’s laws continues to double every five years, then by the year 2080, there will exist a Moore’s law for every single word in the English language (numbering a few hundred thousand to a million, depending on your degree of vocabulistic conservatism). We will have a Moore’s law of zebras, a Moore’s law of love, and even a Moore’s law of absquatulating (look it up!). At that point, for the Moore’s law of Moore’s laws to continue, we may need to start inventing new words. Are you ready for a Moore’s law of zakalaxing?
+So if you want to use this technique to harness your audience's scarce and valuable attention, do it soon, before this land grab ends and the entire English dictionary has been claimed.
 
-Of course, the other possibility is that at some point, this exponential growth will decelerate. As the poet Chaucer cautioned back in 1374, “All good things must come to an end.” Perhaps what so far looks like an exponential curve is really just the first half of its calmer cousin, the S-curve.
-
-When it comes to the original Moore’s law of integrated circuits, the writing may already be on the wall (no, literally, there is a Moore’s law poster in my hallway). A constellation of facts suggest that the era of rapidly shrinking transistors is at last ending. Next-generation extreme ultraviolet lithography is years behind schedule. Graphics chips from AMD and NVIDIA have been stuck at the 28-nm node since 2011. And the industry’s most successful transistor shrinker, Intel, recently delayed its Cannonlake processor indefinitely, breaking the company’s famous tick-tock pattern of CPU releases. Ultimately, as transistors approach the atomic scale, it is becoming harder to make them cheaply and reliably.
-
-If Moore’s law is ending, what does that bode for the Moore’s law of Moore’s laws? Well, just as Gordon Moore made a bold prediction at the end of his famous 1965 article in Electronics magazine, I will end this article with a bold prediction of my own:
-
-Fifty years from today, I, like Gordon Moore before me, will be a CEO billionaire, famous around the world for first recognizing the Moore’s Law of Moore’s Laws. And you, dear reader, will be able to brag at dinner parties that you were among the first to read about it, in your very own issue of MRS Bulletin now framed on your living room wall.
+That’s what I’ve done just now, with the Moore’s Law of Moore’s Laws.
 
 ## Sources:
+
+*I apologize in advance for not replacing the direct links with Internet Archive links. I mean to do so someday.*
+
 <ol class='no-bullets'>
 <li><a href="https://en.wikipedia.org/wiki/Moore's_law#History"> 1976: Integrated circuits </a></li>
 <li><a href="https://en.wikipedia.org/wiki/Moore's_law#Moore.27s_second_law"> 1995: Fabrication plant costs </a></li>
@@ -157,7 +154,22 @@ Fifty years from today, I, like Gordon Moore before me, will be a CEO billionair
 <li><a href='http://www.tedsanders.com'> 2015: Moore's Laws </a></li>
 </ol>
 
+A version of this article was published in [the November 2015 issue of MRS Bulletin.](http://journals.cambridge.org/download.php?file=%2FMRS%2FMRS40_11%2FS0883769415002997a.pdf&code=842133931c9c944f5695a37a3d8fa71f)
+
 <br>
+
+
+<!-- Footnotes themselves at the bottom. -->
+## Footnotes
+
+[^1]:
+     In 2018, YouTube revealed that [500 hours of video were uploaded each minute](https://web.archive.org/web/20200313182326/https://www.cnbc.com/2018/03/14/with-over-1-billion-users-heres-how-youtube-is-keeping-pace-with-change.html). This is roughly a century of video per day.
+
+[^2]:
+     The United States Department of Energy spends a huge chunk of its annual budget on nuclear waste management ([$6B, ~1/3 of all non-weapons spending](https://web.archive.org/web/20200605161955/https://earth.stanford.edu/news/steep-costs-nuclear-waste-us#gs.br4vsi)). It forecasts hundreds of billions of dollars in liability for future cleanup. It’s a really tragic topic when you look into it.
+
+[^3]:
+     The English language comprises [a few hundred thousand to a million](https://web.archive.org/web/20200331155605/https://www.merriam-webster.com/help/faq-how-many-english-words) words, depending on your degree of vocabulistic conservatism. But in the realm of exponential growth, a spare factor of 2 or 10 makes little difference.
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js" charset="utf-8"></script>
