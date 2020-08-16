@@ -281,7 +281,7 @@ The [number of orbital launches per year](https://en.wikipedia.org/wiki/Timeline
 ## Demand for space travel beyond Earth orbit {#demand-for-space-travel-beyond-earth-orbit}
 
 
-
+*   Demand for space travel
     *   I am skeptical that there are economic cases for space travel in the next century. The most promising economic activities seem to be fuel mining and manufacturing, but those are only useful for supporting other activities. Very long-term, the best case I see for an economic return is the terraforming of Mars, and even that seems worthwhile only if we subsidize it to hedge against something going seriously bad on Earth. (And it’s gotta be _seriously_ bad if Mars ends up looking better than a remote bunker on Earth.)
     *   Demand can fall into a number of categories:
     *   Science
@@ -335,7 +335,6 @@ The [number of orbital launches per year](https://en.wikipedia.org/wiki/Timeline
     *   Interesting moons
         *   Europa, Enceladus, ???
 *   Interstellar trade (TBD)
-*   
 
 <!-- Footnotes themselves at the bottom. -->
 ## Notes

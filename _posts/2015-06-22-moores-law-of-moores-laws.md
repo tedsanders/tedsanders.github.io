@@ -48,7 +48,7 @@ tags:
 
 Attention is scarce. And attention is valuable.
 
-Attention is scarce because there is limited time in the day but an unlimited number of things to potentially care about. As an example, consider YouTube. How much of YouTube’s videos do you think you’d get through if you devoted the rest of your life to watching them? Ready for the answer? It turns out you’d die of old age before getting through a single day of uploads.[^1] In the same way that it’s impossible to pay attention to anything more than a tiny slice of YouTube, it’s impossible to pay attention to anything more than a tiny slice of reality. As a result, we only ever pay attention to a few things. This is why attention is necessarily scarce.
+Attention is scarce because there is limited time in the day but an unlimited number of things to potentially care about. As an example, consider YouTube. So much video is uploaded to YouTube that if you tried to watch just a single day of uploads you'd die of old age before getting through it all.[^1] In the same way that it’s impossible to pay attention to anything more than a tiny slice of YouTube, it’s impossible to pay attention to anything more than a tiny slice of reality. As a result, we only ever pay attention to a few things. This is why attention is necessarily scarce.
 
 By itself, the scarcity of attention does not give it value. For example, toxic nuclear waste is scarce, but it is not valuable.[^2]
 
@@ -76,9 +76,9 @@ So if you want to use this technique to harness your audience's scarce and valua
 
 That’s what I’ve done just now, with the Moore’s Law of Moore’s Laws.
 
-## Sources:
+*A version of this article was published in [the November 2015 issue of MRS Bulletin.](http://journals.cambridge.org/download.php?file=%2FMRS%2FMRS40_11%2FS0883769415002997a.pdf&code=842133931c9c944f5695a37a3d8fa71f) It has been [cited three times in academic literature](https://scholar.google.com/scholar?cites=18059707600248908888&as_sdt=2005&sciodt=0,5&hl=en), has been [coined](https://twitter.com/vgr/status/1143182157382205440?s=20) Sanders' Law by writer and consultant [Venkatesh Rao](https://venkateshrao.com/).*
 
-*I apologize in advance for not replacing the direct links with Internet Archive links. I mean to do so someday.*
+## Sources:
 
 <ol class='no-bullets'>
 <li><a href="https://en.wikipedia.org/wiki/Moore's_law#History"> 1976: Integrated circuits </a></li>
@@ -153,8 +153,6 @@ That’s what I’ve done just now, with the Moore’s Law of Moore’s Laws.
 <li><a href='http://bishophill.squarespace.com/blog/2015/3/9/moores-law-for-the-oil-industry.html'> 2015: Oil </a></li>
 <li><a href='http://www.tedsanders.com'> 2015: Moore's Laws </a></li>
 </ol>
-
-A version of this article was published in [the November 2015 issue of MRS Bulletin.](http://journals.cambridge.org/download.php?file=%2FMRS%2FMRS40_11%2FS0883769415002997a.pdf&code=842133931c9c944f5695a37a3d8fa71f)
 
 <br>
 
