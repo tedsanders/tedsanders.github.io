@@ -62,7 +62,7 @@ Wikipedia returns an article with slowest animal by phylum and class, including 
 
 I find it quite interesting that of the 8 websites I asked, the only website that got the answer partially correct was the also the only website that's a non-profit.
 
-**2020 update:** Despite being higher quality that all results returned by search engines, the Wikipedia article was deleted for being too low quality. Alas.
+**2020 update:** Despite being higher quality than all results returned by search engines, the Wikipedia article was deleted for being too low quality. Alas.
 
 ![Wikipedia deletion notice](/images/the-slowest-animal-wikipedia-deletion.png)
 
