@@ -3,6 +3,8 @@ title: On technology
 layout: default
 ---
 
+# On technology
+
 No one knows why the universe is the way the way it is.
 
 But it is the way it is.

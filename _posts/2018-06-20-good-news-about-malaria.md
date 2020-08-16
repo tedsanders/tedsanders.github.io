@@ -28,4 +28,4 @@ The Against Malaria Foundation has been doing an awesome job of making deals wit
 
 There may never again be a time in history with an ROI as good as this. If the richest billion people on Earth each donated a quarter a year, we could seriously dent malaria and save over 100,000 children. Ditto if every American gave a dollar a year. Ditto if 1% of Americans gave $100 a year. Or if 0.01% gave $10,000.
 
-Whatever feels reasonable to you, I encourage you to give.
+Whatever feels reasonable to you, I encourage you to [give](https://www.givewell.org/charities/top-charities).
