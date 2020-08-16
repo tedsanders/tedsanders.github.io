@@ -76,7 +76,7 @@ So if you want to use this technique to harness your audience's scarce and valua
 
 That’s what I’ve done just now, with the Moore’s Law of Moore’s Laws.
 
-*A version of this article was published in [the November 2015 issue of MRS Bulletin.](http://journals.cambridge.org/download.php?file=%2FMRS%2FMRS40_11%2FS0883769415002997a.pdf&code=842133931c9c944f5695a37a3d8fa71f) It has been [cited three times in academic literature](https://scholar.google.com/scholar?cites=18059707600248908888&as_sdt=2005&sciodt=0,5&hl=en), has been [coined](https://twitter.com/vgr/status/1143182157382205440?s=20) Sanders' Law by writer and consultant [Venkatesh Rao](https://venkateshrao.com/).*
+*A version of this article was published in [the November 2015 issue of MRS Bulletin.](http://journals.cambridge.org/download.php?file=%2FMRS%2FMRS40_11%2FS0883769415002997a.pdf&code=842133931c9c944f5695a37a3d8fa71f) It has been [cited three times in academic literature](https://scholar.google.com/scholar?cites=18059707600248908888&as_sdt=2005&sciodt=0,5&hl=en), and has been [called](https://twitter.com/vgr/status/1143182157382205440?s=20) Sanders' Law by author and consultant [Venkatesh Rao](https://venkateshrao.com/).*
 
 ## Sources:
 
@@ -161,10 +161,10 @@ That’s what I’ve done just now, with the Moore’s Law of Moore’s Laws.
 ## Footnotes
 
 [^1]:
-     In 2018, YouTube revealed that [500 hours of video were uploaded each minute](https://web.archive.org/web/20200313182326/https://www.cnbc.com/2018/03/14/with-over-1-billion-users-heres-how-youtube-is-keeping-pace-with-change.html). This is roughly a century of video per day.
+     In 2018, YouTube shared that [500 hours of video were uploaded each minute](https://web.archive.org/web/20200313182326/https://www.cnbc.com/2018/03/14/with-over-1-billion-users-heres-how-youtube-is-keeping-pace-with-change.html). This is roughly a century of video per day.
 
 [^2]:
-     The United States Department of Energy spends a huge chunk of its annual budget on nuclear waste management ([$6B, ~1/3 of all non-weapons spending](https://web.archive.org/web/20200605161955/https://earth.stanford.edu/news/steep-costs-nuclear-waste-us#gs.br4vsi)). It forecasts hundreds of billions of dollars in liability for future cleanup. It’s a really tragic topic when you look into it.
+     The United States Department of Energy spends a huge chunk of its annual budget on nuclear waste management ([$6B, ~1/3 of all non-weapons spending](https://web.archive.org/web/20200605161955/https://earth.stanford.edu/news/steep-costs-nuclear-waste-us#gs.br4vsi)). It forecasts hundreds of billions of dollars in liability for future cleanup. If you look into it, you'll find it's a really tragic topic.
 
 [^3]:
      The English language comprises [a few hundred thousand to a million](https://web.archive.org/web/20200331155605/https://www.merriam-webster.com/help/faq-how-many-english-words) words, depending on your degree of vocabulistic conservatism. But in the realm of exponential growth, a spare factor of 2 or 10 makes little difference.
