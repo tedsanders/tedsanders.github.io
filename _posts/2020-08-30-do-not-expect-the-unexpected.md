@@ -29,7 +29,7 @@ From these guesses, what should you conclude?
 
 * That people are ignorant? (Probably. Half of Americans believe in alien UFOs,[^14]<sup>,</sup>[^15] ghosts,[^16] and a young Earth,[^17] after all.)
 * That people don’t take surveys seriously? (Probably. Scott Alexander says the [Lizardman's constant is 4%](https://slatestarcodex.com/2013/04/12/noisy-poll-results-and-reptilian-muslim-climatologists-from-mars/).)
-* That people don’t take surveys seriously when there’s no incentive for correct answers? (Probably. [Prior et al. found](https://web.archive.org/web/20200830234412/https://scholar.princeton.edu/sites/default/files/mprior/files/psk2015.qjps_.pdf) that cash incentives improved partisans' accuracy at guessing economic conditions by 5%<sub>abs</sub>.)
+* That people don’t give accurate answers without an incentive? (Probably. [Prior et al. found](https://web.archive.org/web/20200830234412/https://scholar.princeton.edu/sites/default/files/mprior/files/psk2015.qjps_.pdf) that cash incentives improved partisans' accuracy at guessing economic conditions by 5%<sub>abs</sub>.)
 
 Here is what I conclude:
 
