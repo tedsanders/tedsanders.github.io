@@ -17,7 +17,7 @@ Spend enough time on the internet, and you are bound to encounter a smug propone
 
 Springing forth like Batman to the bat signal, at any complaint of a cutting driver, the zipper merge proponent interrupts with smug condescension, in words likely not far from these:
 
-"---Actually, it's *not* rude to zoom down the left lane and merge in at the end. In fact, zipper merging is what you're supposed to do. The [Minnesota Department of Transportation website](https://www.dot.state.mn.us/latemerge/) says so. All you virtue-signaling whiners are actually wrong, inefficient, and unsafe. We cutters are merely being rewarded for our superior cleverness and moral correctness when we zoom by you chumps."
+>---Actually, it's *not* rude to zoom down the left lane and merge in at the end. In fact, zipper merging is what you're supposed to do. The [Minnesota Department of Transportation website](https://www.dot.state.mn.us/latemerge/) says so. All you virtue-signaling whiners are actually wrong, inefficient, and unsafe. We cutters are merely being rewarded for our superior cleverness and moral correctness when we zoom by you chumps.
 
 I believe this argument to not only be wrong, but dangerous. Here why.
 
@@ -83,11 +83,11 @@ But zooming is not zippering.
 
 To properly zipper: Match speeds and late merge. Don't zoom and cut.
 
-...
-
-If this post changed the way you think (or agreed with your preconceptions), please share it with others.
+<br>
 
 ## Appendix:
+
+If this post changed the way you think (or agreed with your preconceptions), please share it with others.
 
 ### When should you *not* zipper merge?
 
