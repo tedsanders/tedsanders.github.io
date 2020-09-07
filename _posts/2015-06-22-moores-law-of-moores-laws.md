@@ -48,21 +48,21 @@ tags:
 
 Attention is scarce. And attention is valuable.
 
-Attention is scarce because there is limited time in the day but an unlimited number of things to potentially care about. As an example, consider YouTube. So much video is uploaded to YouTube that if you tried to watch just a single day of uploads you'd die of old age before getting through it all.[^1] In the same way that it’s impossible to pay attention to anything more than a tiny slice of YouTube, it’s impossible to pay attention to anything more than a tiny slice of reality. As a result, we only ever pay attention to a few things. This is why attention is necessarily scarce.
+Attention is scarce because there is limited time in the day but an unlimited number of things to potentially care about. As an example, consider YouTube. So much video is uploaded to YouTube that if you tried to watch just a single day of uploads you'd die of old age before getting through them.[^1] In the same way that it’s impossible to pay attention to anything more than a tiny slice of YouTube, it’s impossible to pay attention to anything more than a tiny slice of reality. This is why attention is scarce.
 
 By itself, the scarcity of attention does not give it value. For example, toxic nuclear waste is scarce, but it is not valuable.[^2]
 
-The reason attention is valuable is that it’s almost always a prerequisite for impact. A researcher whose papers get no attention will not lead others to new discoveries. A founder whose startup gets no attention will find no investors and no customers. A journalist whose articles get no attention will inform and entertain no one. Ultimately, it’s difficult to impact people without first earning their attention.
+The reason attention is valuable is that it’s almost always a prerequisite for impact. A researcher whose papers get no attention will not lead others to new discoveries. A founder whose startup gets no attention will find no investors or customers. A journalist whose articles get no attention will entertain no one. Ultimately, it’s difficult to impact people without first earning their attention.
 
 Earning attention is easy if you’ve already had large impact. This is one reason why success begets success. But before your success, how can you get attention?
 
-Here is a simple strategy. Are you researching nuclear fusion? Then talk about the Moore’s law of fusion! Are you founding a battery startup? Talk about the Moore’s law of batteries! Are you writing an article about how paint dries? Talk about the Moore’s law of drying paint!
+Here is one simple strategy: Are you researching nuclear fusion? Then talk about the Moore’s law of fusion! Are you founding a battery startup? Talk about the Moore’s law of batteries! Are you writing an article about how paint dries? Talk about the Moore’s law of drying paint!
 
 Comparing your work to Moore’s law is an instant recipe for getting your audience to imagine how you’ll spawn entire industries and transform the world. And the best part about exponential growth is that it starts small. If anyone ever questions whether your work is truly world-changing, you can rebut that while your first steps are admittedly small on an absolute scale, that is how all exponential curves start. Only after growing exponentially for decades will they then become huge.
 
 Riding coattails is a time-tested strategy, and in the world of technology, there are no coattails bigger than those of Moore’s law. So it is hardly a surprise to see more and more people coining their progress as the “Moore’s law of ______.” In the past few years, I have heard people reference the Moore’s law of solar power, the Moore’s law of mass spectroscopy, and the Moore’s law of aircraft, to name just a few.
 
-Seeing this explosion of references to Moore’s law got me thinking along the same lines as Gordon Moore 50 years ago. How fast are these pseudo-Moore’s laws being invented? Are they following any sort of regular trend that would allow us to cautiously extrapolate? And is this merely a short-term fad or the beginning of a tectonic shift in technological marketing?
+Seeing this explosion of references to Moore’s law got me thinking along the same lines as Gordon Moore 50 years ago. How fast are these pseudo-Moore’s laws being invented? Are they following any sort of regular trend that would allow us to cautiously extrapolate? Is this merely a short-term fad or the beginning of a tectonic shift in technological marketing?
 
 To answer these questions, I scoured the web for every reference I could find to the “Moore’s law of ______” and then traced each back to its earliest mention. In doing so (and with surprisingly little researcher bias) I made a stunning discovery:
 
@@ -76,7 +76,7 @@ So if you want to use this technique to harness your audience's scarce and valua
 
 That’s what I’ve done just now, with the Moore’s Law of Moore’s Laws.
 
-*A version of this article was published in [the November 2015 issue of MRS Bulletin.](http://journals.cambridge.org/download.php?file=%2FMRS%2FMRS40_11%2FS0883769415002997a.pdf&code=842133931c9c944f5695a37a3d8fa71f) It has been [cited three times in academic literature](https://scholar.google.com/scholar?cites=18059707600248908888&as_sdt=2005&sciodt=0,5&hl=en), and has been [called](https://twitter.com/vgr/status/1143182157382205440?s=20) Sanders' Law by author and consultant [Venkatesh Rao](https://venkateshrao.com/).*
+*A version of this article was published in [the November 2015 issue of MRS Bulletin.](http://journals.cambridge.org/download.php?file=%2FMRS%2FMRS40_11%2FS0883769415002997a.pdf&code=842133931c9c944f5695a37a3d8fa71f) Shockingly, it has been [cited three times in academic literature](https://scholar.google.com/scholar?cites=18059707600248908888&as_sdt=2005&sciodt=0,5&hl=en). Author and consultant [Venkatesh Rao](https://venkateshrao.com/) has coined it Sanders' Law.*
 
 ## Sources:
 
