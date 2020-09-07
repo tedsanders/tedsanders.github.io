@@ -6,7 +6,24 @@ tags: notes
 
 # What changed in tech from 2010 to 2020?
 
-Hardware:
+In 2010, Daniel B. Markham [asked](https://web.archive.org/web/20200727021254/https://news.ycombinator.com/item?id=1025681) a question to the users of HackerNews: "A New Decade. Any Predictions?"
+
+I don't want to dwell on poor predictions, but as usual, most predictions seem very optimistic about the changes we'd see by 2020. However, at the same time, they seem quite pessimistic about growing companies, countries, and trends, predicting that these 'bubbles' will burst. A non-random sample of predictions:
+- Ubiquitous mobile internet integrated into even very trivial consumer goods
+- Ebooks defeating real books
+- Rampant piracy
+- Common electric cars
+- Driverless cars
+- China bubble will burst
+- Google will go downhill
+- Microsoft will become like IBM and have to sell off parts of the business
+- Smartphones & cloud computing will make PCs redudant for most people _(<-- I'm really impressed with this one. Took me much longer than Silicon Valley to see this trend.)_
+
+Ten years later, and I'd say all but the last prediction turned out false, and even the last one is iffy - Statista [says](https://web.archive.org/web/20200530110631/https://www.statista.com/statistics/756054/united-states-adults-desktop-laptop-ownership/) that 3/4 of American adults own a computer.
+
+Here's what actually changed over the past decade, as I see it:
+
+## What changed in hardware
 - Phones got way better and changed the face of modern human life. 
 - 3D TVs fizzled. 
 - VR has fizzled so far.
@@ -38,7 +55,7 @@ Hardware:
 - Home internet remained mostly cable, not fiber.
 - Computers remained x86, phones remained ARM.
 
-Software:
+## What changed in software
 - The dominant search engine is still Google. 
 - The dominant computer operating systems are still Windows and Mac OS. 
 - The dominant phone operating systems are still Android and iOS. 
@@ -69,4 +86,4 @@ Software:
 - Micropayments didn't really happen.
 - Most of what was growing in 2010 continued to grow, most of what was shrinking in 2010 continued to shrink.
 
-What else?
+What else happened? What narratives do you construct?

@@ -33,7 +33,7 @@ From these guesses, what should you conclude?
 
 Here is what I conclude:
 
-If you ask people to estimate a low percentage that they don’t know, they’re going to overestimate it. Maybe they’re hedging toward 50%. Maybe it’s easier to imagine the specific thing being estimated than the amorphous remainder. Maybe rare events are amplified by a media system that feeds our desire for novelty. Or maybe it’s just the fact that if you guess a random percentage, it’s more likely to pull the average toward 50% than away.
+If you ask people to estimate a low percentage that they don’t know, they’re going to overestimate it. Maybe they’re hedging toward 50%. Maybe it’s easier to imagine the specific thing being estimated than the amorphous remainder. Maybe rare events are amplified by a media system that feeds our desire for novelty, originating from an evolutionary environment where we had to learn about dangers without sufficient statistics. Or maybe it’s just the fact that if you guess a random percentage, it’s more likely to pull the average toward 50% than away.
 
 Whatever the reason, remember that rare events are usually overestimated. Do not expect the unexpected.[^18]
 
