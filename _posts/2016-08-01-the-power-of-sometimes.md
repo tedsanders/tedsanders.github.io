@@ -20,9 +20,9 @@ His attitude was hardly uncommon at the time. Another physicist of that era comp
 
 >"What are semiconductors good for? They are good for nothing. They are erratic and not reproducible."
 
-Among scientists, semiconductors had gained a nasty reputation for being difficult to study because their electrical properties seemed to vary uncontrollably from sample to sample, sometimes differing by as much as 7 orders of magnitude. Considering that reproducibility is a bedrock principle of the scientific method, it was extremely challenging to study materials that could not be reproduced reliably.
+Among scientists, semiconductors had gained a nasty reputation for being difficult to study because their electrical properties seemed to vary uncontrollably from sample to sample, sometimes differing by as much as a factor of a million. Considering that reproducibility is a bedrock principle of the scientific method, it was extremely challenging to study materials that could not be reproduced reliably.
 
-Progress in the field of semiconductors remained sluggish until World War II, when the military's well-funded desire for radar systems stoked demand for semiconductor diode rectifiers. Around the same time, scientists finally began to reliably control the doping level of semiconductors, as they switched away from self-doping materials like copper oxide and instead focused on impurity-doped materials like germanium and a rather pedestrian element found often in dirt and sand: silicon.
+Progress in the field of semiconductors remained sluggish until World War II, when the military's well-funded desire for radar systems stoked demand for semiconductor diode rectifiers. Around the same time, scientists finally began to reliably control the doping level of semiconductors, as they switched away from self-doping materials like copper oxide and instead focused on impurity-doped materials like germanium and a rather pedestrian element found in dirt and sand: silicon.
 
 Once we had harnessed silicon, the rest was history.
 
