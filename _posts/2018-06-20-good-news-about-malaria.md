@@ -4,7 +4,7 @@ layout: default
 tags: 
 ---
 
-# Good news
+# Good news about malaria
 
 Good news:
 
